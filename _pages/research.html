@@ -1,0 +1,106 @@
+---
+layout: default
+title: "Research"
+permalink: /research/
+---
+
+<div class="container">
+    <h1 class="mb-5">Research</h1>
+
+    <!-- Lab Mission -->
+    <section class="mb-5">
+        <p class="lead">
+            The Cheeseman lab seeks to define the molecular mechanisms that govern cellular processes, with a particular focus on cell division and its regulation. Our research combines cutting-edge microscopy, biochemistry, and genomics approaches to understand how cells coordinate complex events such as chromosome segregation and cell cycle progression. We take both systematic high-throughput approaches and focused mechanistic studies to investigate these processes, developing and applying novel computational techniques to analyze complex datasets. Through the integration of large-scale screening with detailed molecular investigation, and by combining experimental and computational approaches, we aim to better understand both normal cellular function and how its disruption leads to disease.
+        </p>
+    </section>
+
+    <!-- Research Area 1 - Image Left -->
+    <section class="research-section mb-5">
+        <div class="row align-items-center">
+            <div class="col-md-6">
+                <div class="figure mb-4">
+                    <img src="{{ site.baseurl }}/assets/images/research/figure1.jpg" alt="Large-scale optical screening" class="img-fluid rounded">
+                    <p class="figure-caption">Figure 1. High-throughput microscopy reveals phenotypic landscapes of essential genes.</p>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <h2>Gene Discovery Through Large-Scale Image-Based Screens</h2>
+                <p>
+                    In collaboration with the Broad Institute, we develop and implement large-scale optical screening approaches that combine CRISPR-based gene targeting with automated microscopy. These screens allow us to systematically uncover the functions of understudied genes and place known genes in new biological contexts. Our targeted screening approaches focus on specific biological questions, enabling deep insights into cellular processes including cell division, quiescence, and stress responses. Through this work, we aim to build comprehensive resources for the cell biology community while advancing our understanding of fundamental cellular mechanisms.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Research Area 2 - Image Right -->
+    <section class="research-section mb-5">
+        <div class="row align-items-center">
+            <div class="col-md-6 order-md-2">
+                <div class="figure mb-4">
+                    <img src="{{ site.baseurl }}/assets/images/research/figure2.jpg" alt="Gene expression analysis" class="img-fluid rounded">
+                    <p class="figure-caption">Figure 2. Multi-layered regulation of gene expression across cell states.</p>
+                </div>
+            </div>
+            <div class="col-md-6 order-md-1">
+                <h2>Control of Gene Expression in Different Cell States</h2>
+                <p>
+                    We investigate how cells regulate their gene expression programs across different cellular states and in response to various stresses. Using a combination of transcriptomics, proteomics, and advanced imaging techniques, we aim to understand the regulatory mechanisms that govern transitions between cell states. Our research extends from fundamental cell cycle regulation to specialized states such as quiescence and senescence, with implications for development and disease. We are particularly interested in understanding how different layers of regulation, from transcription to post-translational modification, coordinate to define distinct cellular states.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Research Area 3 - Image Left -->
+    <section class="research-section mb-5">
+        <div class="row align-items-center">
+            <div class="col-md-6">
+                <div class="figure mb-4">
+                    <img src="{{ site.baseurl }}/assets/images/research/figure3.jpg" alt="Protein isoform analysis" class="img-fluid rounded">
+                    <p class="figure-caption">Figure 3. Impact of protein isoforms on cellular function and disease.</p>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <h2>Protein Isoforms in Cell Biology and Disease</h2>
+                <p>
+                    Through high-throughput ribosome profiling and mass spectrometry, we have uncovered a diverse array of protein isoforms with distinct functions in healthy and disease states. Our work focuses on characterizing these isoforms and understanding their roles in cellular processes and disease progression. We combine computational approaches with experimental validation to identify and characterize functionally significant isoforms, particularly those relevant to cancer and developmental disorders. This research has revealed novel regulatory mechanisms and potential therapeutic targets across various disease contexts.
+                </p>
+            </div>
+        </div>
+    </section>
+</div>
+
+<style>
+.research-section {
+    padding: 2rem 0;
+    border-bottom: 1px solid #eee;
+}
+
+.research-section:last-child {
+    border-bottom: none;
+}
+
+.figure {
+    background: #f8f9fa;
+    padding: 1rem;
+    border-radius: 4px;
+}
+
+.figure-caption {
+    margin-top: 0.5rem;
+    text-align: center;
+    font-style: italic;
+    color: #666;
+}
+
+.lead {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #333;
+}
+
+@media (max-width: 767px) {
+    .order-md-1, .order-md-2 {
+        order: 0;
+    }
+}
+</style>

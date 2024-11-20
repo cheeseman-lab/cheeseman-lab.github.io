@@ -1,0 +1,58 @@
+---
+---
+
+// Site-wide styles
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+  padding: 2rem 0;
+}
+
+.site-header {
+  margin-bottom: 2rem;
+}
+
+// People page styles
+.portrait {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.border_left {
+  border-left: 4px solid transparent;
+  transition: border-color 0.3s ease;
+  
+  &:hover {
+    border-left-color: #0056b3;
+  }
+}
+
+// Publications page styles
+.publication {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+  
+  &:last-child {
+    border-bottom: none;
+  }
+  
+  .title {
+    font-weight: 600;
+  }
+  
+  .authors {
+    color: #666;
+  }
+  
+  .journal {
+    font-style: italic;
+  }
+}

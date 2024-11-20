@@ -1,0 +1,3838 @@
+1. Cell. 2022 Nov 23;185(24):4634-4653.e22. doi: 10.1016/j.cell.2022.10.017. Epub 
+2022 Nov 7.
+
+The phenotypic landscape of essential human genes.
+
+Funk L(1), Su KC(2), Ly J(2), Feldman D(3), Singh A(3), Moodie B(2), Blainey 
+PC(4), Cheeseman IM(5).
+
+Author information:
+(1)Broad Institute of MIT and Harvard, 415 Main St., Cambridge, MA 02142, USA; 
+Harvard-MIT Health Sciences and Technology, Massachusetts Institute of 
+Technology, Cambridge, MA 02142, USA.
+(2)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA; Department of Biology, Massachusetts Institute of Technology, 
+Cambridge, MA 02142, USA.
+(3)Broad Institute of MIT and Harvard, 415 Main St., Cambridge, MA 02142, USA.
+(4)Broad Institute of MIT and Harvard, 415 Main St., Cambridge, MA 02142, USA; 
+Department of Biological Engineering, Massachusetts Institute of Technology, 
+Cambridge, MA 02142, USA; Koch Institute for Integrative Cancer Research at MIT, 
+Cambridge, MA 02142, USA. Electronic address: pblainey@broadinstitute.org.
+(5)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA; Department of Biology, Massachusetts Institute of Technology, 
+Cambridge, MA 02142, USA. Electronic address: icheese@wi.mit.edu.
+
+Comment in
+    Nat Rev Genet. 2023 Jan;24(1):2. doi: 10.1038/s41576-022-00558-6.
+
+Understanding the basis for cellular growth, proliferation, and function 
+requires determining the roles of essential genes in diverse cellular processes, 
+including visualizing their contributions to cellular organization and 
+morphology. Here, we combined pooled CRISPR-Cas9-based functional screening of 
+5,072 fitness-conferring genes in human HeLa cells with microscopy-based imaging 
+of DNA, the DNA damage response, actin, and microtubules. Analysis of >31 
+million individual cells identified measurable phenotypes for >90% of gene 
+knockouts, implicating gene targets in specific cellular processes. Clustering 
+of phenotypic similarities based on hundreds of quantitative parameters further 
+revealed co-functional genes across diverse cellular activities, providing 
+predictions for gene functions and associations. By conducting pooled live-cell 
+screening of ∼450,000 cell division events for 239 genes, we additionally 
+identified diverse genes with functional contributions to chromosome 
+segregation. Our work establishes a resource detailing the consequences of 
+disrupting core cellular processes that represents the functional landscape of 
+essential human genes.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2022.10.017
+PMCID: PMC10482496
+PMID: 36347254 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests P.C.B. is a consultant 
+to and/or equity holder in companies in the life sciences industries including 
+10X Genomics, GALT, Celsius Therapeutics, Next Generation Diagnostics, Cache 
+DNA, Concerto Biosciences, and Stately. P.C.B.’s laboratory receives research 
+funding from Calico Life Sciences and Merck for work related to genetic 
+screening. The Broad Institute and MIT have filed U.S. patent applications on 
+work described here and may seek to license the technology.
+
+
+2. Chromosome Res. 2013 Apr;21(2):101-6. doi: 10.1007/s10577-013-9347-y. Epub 2013 
+Apr 12.
+
+Esperanto for histones: CENP-A, not CenH3, is the centromeric histone H3 
+variant.
+
+Earnshaw WC(1), Allshire RC, Black BE, Bloom K, Brinkley BR, Brown W, Cheeseman 
+IM, Choo KH, Copenhaver GP, Deluca JG, Desai A, Diekmann S, Erhardt S, 
+Fitzgerald-Hayes M, Foltz D, Fukagawa T, Gassmann R, Gerlich DW, Glover DM, 
+Gorbsky GJ, Harrison SC, Heun P, Hirota T, Jansen LE, Karpen G, Kops GJ, Lampson 
+MA, Lens SM, Losada A, Luger K, Maiato H, Maddox PS, Margolis RL, Masumoto H, 
+McAinsh AD, Mellone BG, Meraldi P, Musacchio A, Oegema K, O'Neill RJ, Salmon ED, 
+Scott KC, Straight AF, Stukenberg PT, Sullivan BA, Sullivan KF, Sunkel CE, 
+Swedlow JR, Walczak CE, Warburton PE, Westermann S, Willard HF, Wordeman L, 
+Yanagida M, Yen TJ, Yoda K, Cleveland DW.
+
+Author information:
+(1)Wellcome Trust Centre for Cell Biology, University of Edinburgh, Mayfield 
+Road, Edinburgh, Scotland, UK. bill.earnshaw@ed.ac.uk
+
+Comment in
+    Trends Genet. 2013 Sep;29(9):499-500. doi: 10.1016/j.tig.2013.06.009.
+    Trends Genet. 2013 Sep;29(9):500-2. doi: 10.1016/j.tig.2013.06.008.
+
+The first centromeric protein identified in any species was CENP-A, a divergent 
+member of the histone H3 family that was recognised by autoantibodies from 
+patients with scleroderma-spectrum disease. It has recently been suggested to 
+rename this protein CenH3. Here, we argue that the original name should be 
+maintained both because it is the basis of a long established nomenclature for 
+centromere proteins and because it avoids confusion due to the presence of 
+canonical histone H3 at centromeres.
+
+DOI: 10.1007/s10577-013-9347-y
+PMCID: PMC3627038
+PMID: 23580138 [Indexed for MEDLINE]
+
+
+3. Chromosome Res. 2004;12(6):641-53. doi: 10.1023/B:CHRO.0000036588.42225.2f.
+
+"Holo"er than thou: chromosome segregation and kinetochore function in C. 
+elegans.
+
+Maddox PS(1), Oegema K, Desai A, Cheeseman IM.
+
+Author information:
+(1)CMM-East, Rm 3071G, Ludwig Institute for Cancer Research, 9500 Gilman Dr., La 
+Jolla, CA 92093, USA. pmaddox@ucsd.edu
+
+Kinetochores are proteinaceous organelles that assemble on centromeric DNA to 
+direct chromosome segregation in all eukaryotes. While many aspects of 
+kinetochore function are conserved, the nature of the chromosomal domain upon 
+which kinetochores assemble varies dramatically between different species. In 
+monocentric eukaryotes, kinetochores assemble on a localized region of each 
+chromosome. In contrast, holocentric species such as the nematode Caenorhabditis 
+elegans have diffuse kinetochores that form along the entire length of their 
+chromosomes. Here, we discuss the nature of chromosome segregation in C. 
+elegans. In addition to reviewing what is known about kinetochore function, 
+chromosome structure, and chromosome movement, we consider the consequences of 
+the specialized holocentric architecture on chromosome segregation.
+
+DOI: 10.1023/B:CHRO.0000036588.42225.2f
+PMID: 15289669 [Indexed for MEDLINE]
+
+
+4. Curr Biol. 2004 Jan 20;14(2):R70-2. doi: 10.1016/j.cub.2003.12.048.
+
+Cell division: AAAtacking the mitotic spindle.
+
+Cheeseman IM(1), Desai A.
+
+Author information:
+(1)CMM-East, Rm 3071G, Ludwig Institute for Cancer Research, La Jolla, 
+California 92093, USA. icheeseman@ucsd.edu
+
+Cell division requires the assembly of a microtubule-based spindle which 
+captures and segregates sister chromatids. But how is this spindle broken down 
+once chromosome segregation is complete? New evidence implicates a highly 
+conserved AAA-ATPase in spindle disassembly at the end of mitosis.
+
+DOI: 10.1016/j.cub.2003.12.048
+PMID: 14738753 [Indexed for MEDLINE]
+
+
+5. J Cell Biol. 2013 Dec 23;203(6):883-93. doi: 10.1083/jcb.201309076.
+
+Spindle assembly checkpoint robustness requires Tpr-mediated regulation of 
+Mad1/Mad2 proteostasis.
+
+Schweizer N, Ferrás C, Kern DM, Logarinho E, Cheeseman IM, Maiato H.
+
+Tpr is a conserved nuclear pore complex (NPC) protein implicated in the spindle 
+assembly checkpoint (SAC) by an unknown mechanism. Here, we show that Tpr is 
+required for normal SAC response by stabilizing Mad1 and Mad2 before mitosis. 
+Tpr coimmunoprecipitated with Mad1 and Mad2 (hereafter designated as 
+Tpr/Mad1/Mad2 or TM2 complex) during interphase and mitosis, and is required for 
+Mad1–c-Mad2 recruitment to NPCs. Interestingly, Tpr was normally undetectable at 
+kinetochores and dispensable for Mad1, but not for Mad2, kinetochore 
+localization, which suggests that SAC robustness depends on Mad2 levels at 
+kinetochores. Protein half-life measurements demonstrate that Tpr stabilizes 
+Mad1 and Mad2, ensuring normal Mad1–c-Mad2 production in an mRNA- and 
+kinetochore-independent manner. Overexpression of GFP-Mad2 restored normal SAC 
+response and Mad2 kinetochore levels in Tpr-depleted cells. Mechanistically, we 
+provide evidence that Tpr might spatially regulate SAC proteostasis through the 
+SUMO-isopeptidases SENP1 and SENP2 at NPCs. Thus, Tpr is a 
+kinetochore-independent, rate-limiting factor required to mount and sustain a 
+robust SAC response.
+
+DOI: 10.1083/jcb.201309076
+PMCID: PMC3871433
+PMID: 24344181 [Indexed for MEDLINE]
+
+
+6. J Cell Biol. 2002 Apr 15;157(2):199-203. doi: 10.1083/jcb.200201052. Epub 2002 
+Apr 15.
+
+Simple centromere, complex kinetochore: linking spindle microtubules and 
+centromeric DNA in budding yeast.
+
+Cheeseman IM(1), Drubin DG, Barnes G.
+
+Author information:
+(1)Department of Molecular and Cell Biology, University of California, Berkeley, 
+CA 94720-3202, USA.
+
+Although the budding yeast centromere is extremely short (125 bp) compared to 
+those of other eukaryotes, the kinetochore that assembles on this DNA displays a 
+rich molecular complexity. Here, we describe recent advances in our 
+understanding of kinetochore function in budding yeast and present a model 
+describing the attachment that is formed between spindle microtubules and 
+centromeric DNA. This analysis may provide general principles for kinetochore 
+function and regulation.
+
+DOI: 10.1083/jcb.200201052
+PMCID: PMC2199245
+PMID: 11956223 [Indexed for MEDLINE]
+
+
+7. J Cell Biol. 2001 Dec 24;155(7):1137-45. doi: 10.1083/jcb.200109063. Epub 2001 
+Dec 24.
+
+Implication of a novel multiprotein Dam1p complex in outer kinetochore function.
+
+Cheeseman IM(1), Brew C, Wolyniak M, Desai A, Anderson S, Muster N, Yates JR, 
+Huffaker TC, Drubin DG, Barnes G.
+
+Author information:
+(1)Department of Molecular and Cell Biology, University of California, Berkeley, 
+CA 94720, USA.
+
+Dam1p, Duo1p, and Dad1p can associate with each other physically and are 
+required for both spindle integrity and kinetochore function in budding yeast. 
+Here, we present our purification from yeast extracts of an approximately 245 kD 
+complex containing Dam1p, Duo1p, and Dad1p and Spc19p, Spc34p, and the 
+previously uncharacterized proteins Dad2p and Ask1p. This Dam1p complex appears 
+to be regulated through the phosphorylation of multiple subunits with at least 
+one phosphorylation event changing during the cell cycle. We also find that 
+purified Dam1p complex binds directly to microtubules in vitro with an affinity 
+of approximately 0.5 microM. To demonstrate that subunits of the Dam1p complex 
+are functionally important for mitosis in vivo, we localized Spc19-green 
+fluorescent protein (GFP), Spc34-GFP, Dad2-GFP, and Ask1-GFP to the mitotic 
+spindle and to kinetochores and generated temperature-sensitive mutants of DAD2 
+and ASK1. These and other analyses implicate the four newly identified subunits 
+and the Dam1p complex as a whole in outer kinetochore function where they are 
+well positioned to facilitate the association of chromosomes with spindle 
+microtubules.
+
+DOI: 10.1083/jcb.200109063
+PMCID: PMC2199314
+PMID: 11756468 [Indexed for MEDLINE]
+
+
+8. Curr Biol. 2005 Apr 26;15(8):771-7. doi: 10.1016/j.cub.2005.03.018.
+
+The CENP-F-like proteins HCP-1 and HCP-2 target CLASP to kinetochores to mediate 
+chromosome segregation.
+
+Cheeseman IM(1), MacLeod I, Yates JR 3rd, Oegema K, Desai A.
+
+Author information:
+(1)Department of Cellular and Molecular Medicine, Ludwig Institute for Cancer 
+Research, University of California, San Diego School of Medicine, La Jolla, 
+92093, USA. icheeseman@ucsd.edu
+
+During chromosome segregation, kinetochores form dynamic connections with 
+spindle microtubules. In vertebrates, these attachments require the activities 
+of a number of outer kinetochore proteins, including CENP-F [1, 2] and the 
+widely conserved microtubule-associated protein CLASP [3]. Here, we investigate 
+the functional relationship between HCP-1/2, two redundant CENP-F-like proteins, 
+and CLASP(CLS-2) in Caenorhabditis elegans. HCP-1/2 and CLASP(CLS-2) localize 
+transiently to mitotic C. elegans kinetochores with nearly identical kinetic 
+profiles, and biochemical purifications demonstrate that they also associate 
+physically. In embryos depleted of HCP-1/2, CLASP(CLS-2) no longer localizes to 
+chromosomes, whereas CLASP(CLS-2) depletion does not prevent HCP-1/2 targeting. 
+Consistent with the localization dependency and biochemical association, 
+depletion of HCP-1/2 or CLASP(CLS-2) resulted in virtually identical defects in 
+mitotic chromosome segregation characterized by a failure of sister-chromatid 
+biorientation. This phenotype could be partially suppressed by disrupting the 
+astral forces that pull spindle poles apart in the 1 cell embryo, indicating 
+that CLASP(CLS-2) is required for biorientation when chromosome-spindle 
+attachments are subjected to poleward force. Our results establish that the key 
+role of HCP-1/2 is to target CLASP(CLS-2) to kinetochores, and they support the 
+recently proposed model that CLASP functions to promote the polymerization of 
+kinetochore bound microtubules [4].
+
+DOI: 10.1016/j.cub.2005.03.018
+PMID: 15854912 [Indexed for MEDLINE]
+
+
+9. Genome Res. 2010 Aug;20(8):1133-42. doi: 10.1101/gr.106773.110. Epub 2010 May 
+27.
+
+Functional genomics, proteomics, and regulatory DNA analysis in isogenic 
+settings using zinc finger nuclease-driven transgenesis into a safe harbor locus 
+in the human genome.
+
+DeKelver RC(1), Choi VM, Moehle EA, Paschon DE, Hockemeyer D, Meijsing SH, 
+Sancak Y, Cui X, Steine EJ, Miller JC, Tam P, Bartsevich VV, Meng X, Rupniewski 
+I, Gopalan SM, Sun HC, Pitz KJ, Rock JM, Zhang L, Davis GD, Rebar EJ, Cheeseman 
+IM, Yamamoto KR, Sabatini DM, Jaenisch R, Gregory PD, Urnov FD.
+
+Author information:
+(1)Sangamo BioSciences, Inc., Point Richmond Tech Center, Richmond, California 
+94804, USA.
+
+Isogenic settings are routine in model organisms, yet remain elusive for genetic 
+experiments on human cells. We describe the use of designed zinc finger 
+nucleases (ZFNs) for efficient transgenesis without drug selection into the 
+PPP1R12C gene, a "safe harbor" locus known as AAVS1. ZFNs enable targeted 
+transgenesis at a frequency of up to 15% following transient transfection of 
+both transformed and primary human cells, including fibroblasts and hES cells. 
+When added to this locus, transgenes such as expression cassettes for shRNAs, 
+small-molecule-responsive cDNA expression cassettes, and reporter constructs, 
+exhibit consistent expression and sustained function over 50 cell generations. 
+By avoiding random integration and drug selection, this method allows bona fide 
+isogenic settings for high-throughput functional genomics, proteomics, and 
+regulatory DNA analysis in essentially any transformed human cell type and in 
+primary cells.
+
+DOI: 10.1101/gr.106773.110
+PMCID: PMC2909576
+PMID: 20508142 [Indexed for MEDLINE]
+
+
+10. Methods Cell Biol. 2011;106:289-322. doi: 10.1016/B978-0-12-544172-8.00011-6.
+
+Affinity purification of protein complexes in C. elegans.
+
+Zanin E(1), Dumont J, Gassmann R, Cheeseman I, Maddox P, Bahmanyar S, Carvalho 
+A, Niessen S, Yates JR 3rd, Oegema K, Desai A.
+
+Author information:
+(1)Ludwig Institute for Cancer Research and Department of Cellular & Molecular 
+Medicine, University of California San Diego, La Jolla, California, USA.
+
+C. elegans is a powerful metazoan model system to address fundamental questions 
+in cell and developmental biology. Research in C. elegans has traditionally 
+focused on genetic, physiological, and cell biological approaches. However, C. 
+elegans is also a facile system for biochemistry: worms are easy to grow in 
+large quantities, the functionality of tagged fusion proteins can be assessed 
+using mutants or RNAi, and the relevance of putative interaction partners can be 
+rapidly tested in vivo. Combining biochemistry with function-based genetic and 
+RNA interference screens can rapidly accelerate the delineation of protein 
+networks and pathways in diverse contexts. In this chapter, we focus on two 
+strategies to identify protein-protein interactions: single-step 
+immunoprecipitation and tandem affinity purification. We describe methods for 
+growth of worms in large-scale liquid culture, preparation of worm and embryo 
+extracts, immunoprecipitation, and tandem affinity purification. In addition, we 
+describe methods to test specificity of antibodies, strategies for optimizing 
+starting material, and approaches to distinguish specific from non-specific 
+interactions.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/B978-0-12-544172-8.00011-6
+PMCID: PMC3319706
+PMID: 22118282 [Indexed for MEDLINE]
+
+
+11. J Cell Biol. 2009 Sep 21;186(6):770-1. doi: 10.1083/jcb.1866pi. Epub 2009 Sep 
+14.
+
+Iain Cheeseman: a strong attachment to kinetochores. [An interview by Ben 
+Short].
+
+Cheeseman I.
+
+Cheeseman is looking forward to a new era of research on chromosome segregation.
+
+Cheeseman is looking forward to a new era of research on chromosome segregation.
+
+DOI: 10.1083/jcb.1866pi
+PMCID: PMC2753165
+PMID: 19752023 [Indexed for MEDLINE]
+
+
+12. Nat Cell Biol. 2012 May 30;14(6):559-61. doi: 10.1038/ncb2509.
+
+T time for point centromeres.
+
+Gascoigne KE, Cheeseman IM.
+
+Comment on
+    Nat Cell Biol. 2012 May 06;14(6):614-24. doi: 10.1038/ncb2495.
+    Nat Cell Biol. 2012 May 06;14(6):604-13. doi: 10.1038/ncb2493.
+
+The diverse nature of eukaryotic centromere structure has led to a prevailing 
+view that the kinetochore-chromatin interface is fundamentally different in 
+distinct species. Two studies now challenge this dogma with the identification 
+of budding yeast homologues of the vertebrate centromere DNA-binding proteins 
+CENP-T and CENP-W.
+
+DOI: 10.1038/ncb2509
+PMID: 22561349 [Indexed for MEDLINE]
+
+
+13. EMBO J. 2013 Feb 6;32(3):424-36. doi: 10.1038/emboj.2012.348. Epub 2013 Jan 18.
+
+CENP-T provides a structural platform for outer kinetochore assembly.
+
+Nishino T(1), Rago F, Hori T, Tomii K, Cheeseman IM, Fukagawa T.
+
+Author information:
+(1)Department of Molecular Genetics, National Institute of Genetics and The 
+Graduate University for Advanced Studies SOKENDAI, Shizuoka 411-8540, Japan.
+
+The kinetochore forms a dynamic interface with microtubules from the mitotic 
+spindle during mitosis. The Ndc80 complex acts as the key microtubule-binding 
+complex at kinetochores. However, it is unclear how the Ndc80 complex associates 
+with the inner kinetochore proteins that assemble upon centromeric chromatin. 
+Here, based on a high-resolution structural analysis, we demonstrate that the 
+N-terminal region of vertebrate CENP-T interacts with the 'RWD' domain in the 
+Spc24/25 portion of the Ndc80 complex. Phosphorylation of CENP-T strengthens a 
+cryptic hydrophobic interaction between CENP-T and Spc25 resulting in a 
+phospho-regulated interaction that occurs without direct recognition of the 
+phosphorylated residue. The Ndc80 complex interacts with both CENP-T and the 
+Mis12 complex, but we find that these interactions are mutually exclusive, 
+supporting a model in which two distinct pathways target the Ndc80 complex to 
+kinetochores. Our results provide a model for how the multiple protein complexes 
+at kinetochores associate in a phospho-regulated manner.
+
+DOI: 10.1038/emboj.2012.348
+PMCID: PMC3567495
+PMID: 23334297 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+14. Plant Mol Biol. 1999 Apr;39(6):1189-96. doi: 10.1023/a:1006197318246.
+
+A cluster of five cell wall-associated receptor kinase genes, Wak1-5, are 
+expressed in specific organs of Arabidopsis.
+
+He ZH(1), Cheeseman I, He D, Kohorn BD.
+
+Author information:
+(1)Botany Department, Duke University, Durham, NC 27708, USA.
+
+WAK1 (wall-associated kinase 1) is a cytoplasmic serine/threonine kinase that 
+spans the plasma membrane and extends into the extracellular region to bind 
+tightly to the cell wall. The Wak1 gene was mapped and found to lie in a tight 
+cluster of five highly similar genes (Wak1-5) within a 30 kb region. All of the 
+Wak genes encode a cytoplasmic serine/threonine protein kinase, a transmembrane 
+domain, and an extracytoplasmic region with several epidermal growth factor 
+(EGF) repeats. The extracellular regions also contain limited amino acid 
+identities to the tenascin superfamily, collagen, or the neurexins. RNA blot 
+analysis with gene-specific probes revealed that Wak1, Wak3 and Wak5 are 
+expressed primarily in leaves and stems of Arabidopsis. Wak4 mRNA is only 
+detected in siliques, while Wak2 mRNA is found in high levels in leaves and 
+stems, and in lower levels in flowers and siliques. A trace amount of Wak2 can 
+also be detected in roots. Wak1 is induced by pathogen infection and salicylic 
+acid or its analogue INA and is involved in the plant's response, and Wak2, Wak3 
+and Wak5 also can be greatly induced by salicylic acid or INA. The WAK proteins 
+have the potential to serve as both linkers of the cell wall to the plasma 
+membrane and as signaling molecules, and since Wak expression is organ-specific 
+and the isoforms vary significantly in the cell wall associated domain this 
+family of proteins may be involved in cell wall-plasma membrane interactions 
+that direct fundamental processes in angiosperms.
+
+DOI: 10.1023/a:1006197318246
+PMID: 10380805 [Indexed for MEDLINE]
+
+
+15. Nature. 2004 Mar 4;428(6978):32-3. doi: 10.1038/428032b.
+
+Cell division: feeling tense enough?
+
+Cheeseman IM, Desai A.
+
+Comment on
+    Nature. 2004 Mar 4;428(6978):93-7. doi: 10.1038/nature02328.
+
+DOI: 10.1038/428032b
+PMID: 14999271 [Indexed for MEDLINE]
+
+
+16. Nat Cell Biol. 2006 May;8(5):446-57. doi: 10.1038/ncb1396. Epub 2006 Apr 16.
+
+The CENP-H-I complex is required for the efficient incorporation of newly 
+synthesized CENP-A into centromeres.
+
+Okada M(1), Cheeseman IM, Hori T, Okawa K, McLeod IX, Yates JR 3rd, Desai A, 
+Fukagawa T.
+
+Author information:
+(1)Department of Molecular Genetics, National Institute of Genetics and The 
+Graduate University for Advanced Studies, Mishima, Shizuoka 411-8540, Japan.
+
+Comment in
+    Nat Cell Biol. 2006 May;8(5):427-9. doi: 10.1038/ncb0506-427.
+
+In vertebrates, centromeres lack defined sequences and are thought to be 
+propagated by epigenetic mechanisms involving the incorporation of specialized 
+nucleosomes containing the histone H3 variant centromere protein (CENP)-A. 
+However, the precise mechanisms that target CENP-A to centromeres remain poorly 
+understood. Here, we isolated a multi-subunit complex, which includes the 
+established inner kinetochore components CENP-H and CENP-I, and nine other 
+proteins, from both human and chicken cells. Our analysis of these proteins 
+demonstrates that the CENP-H-I complex can be divided into three functional 
+sub-complexes, each of which is required for faithful chromosome segregation. 
+Interestingly, newly expressed CENP-A is not efficiently incorporated into 
+centromeres in knockout mutants of a subclass of CENP-H-I complex proteins, 
+indicating that the CENP-H-I complex may function, in part, as a marker 
+directing CENP-A deposition to centromeres.
+
+DOI: 10.1038/ncb1396
+PMID: 16622420 [Indexed for MEDLINE]
+
+
+17. Genes Dev. 2008 Sep 1;22(17):2385-99. doi: 10.1101/gad.1687508.
+
+A new mechanism controlling kinetochore-microtubule interactions revealed by 
+comparison of two dynein-targeting components: SPDL-1 and the Rod/Zwilch/Zw10 
+complex.
+
+Gassmann R(1), Essex A, Hu JS, Maddox PS, Motegi F, Sugimoto A, O'Rourke SM, 
+Bowerman B, McLeod I, Yates JR 3rd, Oegema K, Cheeseman IM, Desai A.
+
+Author information:
+(1)Ludwig Institute for Cancer Research/Dept of Cellular and Molecular Medicine, 
+University of California at San Diego, La Jolla, California 92093, USA.
+
+Comment in
+    Genes Dev. 2008 Sep 1;22(17):2302-7. doi: 10.1101/gad.1719208.
+
+Chromosome segregation requires stable bipolar attachments of spindle 
+microtubules to kinetochores. The dynein/dynactin motor complex localizes 
+transiently to kinetochores and is implicated in chromosome segregation, but its 
+role remains poorly understood. Here, we use the Caenorhabditis elegans embryo 
+to investigate the function of kinetochore dynein by analyzing the 
+Rod/Zwilch/Zw10 (RZZ) complex and the associated coiled-coil protein SPDL-1. 
+Both components are essential for Mad2 targeting to kinetochores and spindle 
+checkpoint activation. RZZ complex inhibition, which abolishes both SPDL-1 and 
+dynein/dynactin targeting to kinetochores, slows but does not prevent the 
+formation of load-bearing kinetochore-microtubule attachments and reduces the 
+fidelity of chromosome segregation. Surprisingly, inhibition of SPDL-1, which 
+abolishes dynein/dynactin targeting to kinetochores without perturbing RZZ 
+complex localization, prevents the formation of load-bearing attachments during 
+most of prometaphase and results in extensive chromosome missegregation. 
+Coinhibition of SPDL-1 along with the RZZ complex reduces the phenotypic 
+severity to that observed following RZZ complex inhibition alone. We propose 
+that the RZZ complex can inhibit the formation of load-bearing attachments and 
+that this activity of the RZZ complex is normally controlled by dynein/dynactin 
+localized via SPDL-1. This mechanism could coordinate the hand-off from initial 
+weak dynein-mediated lateral attachments, which help orient kinetochores and 
+enhance their ability to capture microtubules, to strong end-coupled attachments 
+that drive chromosome segregation.
+
+DOI: 10.1101/gad.1687508
+PMCID: PMC2532926
+PMID: 18765790 [Indexed for MEDLINE]
+
+
+18. Sci STKE. 2005 Jan 11;2005(266):pl1. doi: 10.1126/stke.2662005pl1.
+
+A combined approach for the localization and tandem affinity purification of 
+protein complexes from metazoans.
+
+Cheeseman IM(1), Desai A.
+
+Author information:
+(1)Ludwig Institute for Cancer Research, La Jolla, CA 92093, USA. 
+icheeseman@ucsd.edu <icheeseman@ucsd.edu>
+
+An understanding of a protein's function is greatly aided by the knowledge of 
+its localization in vivo and identification of any interacting partners. Here, 
+we describe a method, based on expression of a genetically encoded fusion 
+protein, that allows for protein localization and affinity purification (LAP) in 
+metazoans. This method makes it possible to rapidly identify transformants and 
+to conduct live imaging of protein localization and dynamics. In addition, the 
+same tag can be used in a modified tandem affinity purification (TAP) procedure 
+to isolate native protein complexes of high purity. The efficacy of this 
+purification procedure allows for the characterization of rare protein complexes 
+that are largely inaccessible to classical biochemical purifications. The LAP 
+strategy should be widely applicable to the characterization of protein function 
+in cellular and developmental contexts in various metazoans.
+
+DOI: 10.1126/stke.2662005pl1
+PMID: 15644491 [Indexed for MEDLINE]
+
+
+19. Mol Biol Cell. 2003 Aug;14(8):3342-55. doi: 10.1091/mbc.e02-11-0765. Epub 2003 
+May 3.
+
+Kinetochore protein interactions and their regulation by the Aurora kinase 
+Ipl1p.
+
+Shang C(1), Hazbun TR, Cheeseman IM, Aranda J, Fields S, Drubin DG, Barnes G.
+
+Author information:
+(1)Department of Molecular and Cell Biology, University of California, Berkeley, 
+California 94720-3202, USA.
+
+Although there has been a recent explosion in the identification of budding 
+yeast kinetochore components, the physical interactions that underlie 
+kinetochore function remain obscure. To better understand how kinetochores 
+attach to microtubules and how this attachment is regulated, we sought to 
+characterize the interactions among kinetochore proteins, especially with 
+respect to the microtubule-binding Dam1 complex. The Dam1 complex plays a 
+crucial role in the chromosome-spindle attachment and is a key target for 
+phospho-regulation of this attachment by the Aurora kinase Ipl1p. To identify 
+protein-protein interactions involving the Dam1 complex, and the effects of 
+Dam1p phosphorylation state on these physical interactions, we conducted both a 
+genome-wide two-hybrid screen and a series of biochemical binding assays for 
+Dam1p. A two-hybrid screen of a library of 6000 yeast open reading frames 
+identified nine kinetochore proteins as Dam1p-interacting partners. From 113 in 
+vitro binding reactions involving all nine subunits of the Dam1 complex and 32 
+kinetochore proteins, we found at least nine interactions within the Dam1 
+complex and 19 potential partners for the Dam1 complex. Strikingly, we found 
+that the Dam1p-Ndc80p and Dam1p-Spc34p interactions were weakened by mutations 
+mimicking phosphorylation at Ipl1p sites, allowing us to formulate a model for 
+the effects of phosphoregulation on kinetochore function.
+
+DOI: 10.1091/mbc.e02-11-0765
+PMCID: PMC181571
+PMID: 12925767 [Indexed for MEDLINE]
+
+
+20. EMBO Rep. 2010 Oct;11(10):727-9. doi: 10.1038/embor.2010.146. Epub 2010 Sep 24.
+
+Tension at EMBO's Aneuploidy Workshop.
+
+De Wulf P(1), Cheeseman IM.
+
+Author information:
+(1)Department of Experimental Oncology, European Institute of Oncology, Milan, 
+Italy. peter.dewulf@ifom-ieo-campus.it
+
+The EMBO 2010 Workshop on Chromosome Segregation and Aneuploidy, held between 19 
+and 23 June at Edinburgh University's Royal College of Surgeons, highlighted 
+basic mitotic mechanisms, chromosome-based defects linked to human diseases and 
+the processes that connect them.
+
+DOI: 10.1038/embor.2010.146
+PMCID: PMC2948196
+PMID: 20865017 [Indexed for MEDLINE]
+
+
+21. J Cell Biol. 2012 Oct 15;199(2):285-301. doi: 10.1083/jcb.201203091. Epub 2012 
+Oct 8.
+
+Cdk1 and Plk1 mediate a CLASP2 phospho-switch that stabilizes 
+kinetochore-microtubule attachments.
+
+Maia AR(1), Garcia Z, Kabeche L, Barisic M, Maffini S, Macedo-Ribeiro S, 
+Cheeseman IM, Compton DA, Kaverina I, Maiato H.
+
+Author information:
+(1)Instituto de Biologia Molecular e Celular, Universidade do Porto, Porto, 
+Portugal.
+
+Accurate chromosome segregation during mitosis relies on a dynamic kinetochore 
+(KT)-microtubule (MT) interface that switches from a labile to a stable 
+condition in response to correct MT attachments. This transition is essential to 
+satisfy the spindle-assembly checkpoint (SAC) and couple MT-generated force with 
+chromosome movements, but the underlying regulatory mechanism remains unclear. 
+In this study, we show that during mitosis the MT- and KT-associated protein 
+CLASP2 is progressively and distinctively phosphorylated by Cdk1 and Plk1 
+kinases, concomitant with the establishment of KT-MT attachments. CLASP2 S1234 
+was phosphorylated by Cdk1, which primed CLASP2 for association with Plk1. Plk1 
+recruitment to KTs was enhanced by CLASP2 phosphorylation on S1234. This was 
+specifically required to stabilize KT-MT attachments important for chromosome 
+alignment and to coordinate KT and non-KT MT dynamics necessary to maintain 
+spindle bipolarity. CLASP2 C-terminal phosphorylation by Plk1 was also required 
+for chromosome alignment and timely satisfaction of the SAC. We propose that 
+Cdk1 and Plk1 mediate a fine CLASP2 "phospho-switch" that temporally regulates 
+KT-MT attachment stability.
+
+DOI: 10.1083/jcb.201203091
+PMCID: PMC3471233
+PMID: 23045552 [Indexed for MEDLINE]
+
+
+22. Cell. 2011 Apr 29;145(3):410-22. doi: 10.1016/j.cell.2011.03.031.
+
+Induced ectopic kinetochore assembly bypasses the requirement for CENP-A 
+nucleosomes.
+
+Gascoigne KE(1), Takeuchi K, Suzuki A, Hori T, Fukagawa T, Cheeseman IM.
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Department of Biology, Nine 
+Cambridge Center, MA 02142, USA.
+
+Accurate chromosome segregation requires assembly of the multiprotein 
+kinetochore complex at centromeres. Although prior work identified the 
+centromeric histone H3-variant CENP-A as the important upstream factor necessary 
+for centromere specification, in human cells CENP-A is not sufficient for 
+kinetochore assembly. Here, we demonstrate that two constitutive DNA-binding 
+kinetochore components, CENP-C and CENP-T, function to direct kinetochore 
+formation. Replacing the DNA-binding regions of CENP-C and CENP-T with alternate 
+chromosome-targeting domains recruits these proteins to ectopic loci, resulting 
+in CENP-A-independent kinetochore assembly. These ectopic kinetochore-like foci 
+are functional based on the stoichiometric assembly of multiple kinetochore 
+components, including the microtubule-binding KMN network, the presence of 
+microtubule attachments, the microtubule-sensitive recruitment of the spindle 
+checkpoint protein Mad2, and the segregation behavior of foci-containing 
+chromosomes. We additionally find that CENP-T phosphorylation regulates the 
+mitotic assembly of both endogenous and ectopic kinetochores. Thus, CENP-C and 
+CENP-T form a critical regulated platform for vertebrate kinetochore assembly.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2011.03.031
+PMCID: PMC3085131
+PMID: 21529714 [Indexed for MEDLINE]
+
+
+23. Mol Biol Cell. 2014 Jul 1;25(13):1983-94. doi: 10.1091/mbc.E14-03-0837. Epub 
+2014 May 14.
+
+Kinetochore genes are coordinately up-regulated in human tumors as part of a 
+FoxM1-related cell division program.
+
+Thiru P(1), Kern DM(2), McKinley KL(2), Monda JK(2), Rago F(2), Su KC(1), 
+Tsinman T(1), Yarar D(3), Bell GW(1), Cheeseman IM(4).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Cambridge, MA 02142.
+(2)Whitehead Institute for Biomedical Research, Cambridge, MA 02142Department of 
+Biology, Massachusetts Institute of Technology, Cambridge, MA 02139.
+(3)Merrimack Pharmaceuticals, Cambridge, MA 02139.
+(4)Whitehead Institute for Biomedical Research, Cambridge, MA 02142Department of 
+Biology, Massachusetts Institute of Technology, Cambridge, MA 02139 
+icheese@wi.mit.edu.
+
+The key player in directing proper chromosome segregation is the macromolecular 
+kinetochore complex, which mediates DNA-microtubule interactions. Previous 
+studies testing individual kinetochore genes documented examples of their 
+overexpression in tumors relative to normal tissue, leading to proposals that 
+up-regulation of specific kinetochore genes may promote tumor progression. 
+However, kinetochore components do not function in isolation, and previous 
+studies did not comprehensively compare the expression behavior of kinetochore 
+components. Here we analyze the expression behavior of the full range of human 
+kinetochore components in diverse published expression compendia, including 
+normal tissues and tumor samples. Our results demonstrate that kinetochore genes 
+are rarely overexpressed individually. Instead, we find that core kinetochore 
+genes are coordinately regulated with other cell division genes under virtually 
+all conditions. This expression pattern is strongly correlated with the 
+expression of the forkhead transcription factor FoxM1, which binds to the 
+majority of cell division promoters. These observations suggest that kinetochore 
+gene up-regulation in cancer reflects a general activation of the cell division 
+program and that altered expression of individual kinetochore genes is unlikely 
+to play a causal role in tumorigenesis.
+
+© 2014 Thiru et al. This article is distributed by The American Society for Cell 
+Biology under license from the author(s). Two months after publication it is 
+available to the public under an Attribution–Noncommercial–Share Alike 3.0 
+Unported Creative Commons License 
+(http://creativecommons.org/licenses/by-nc-sa/3.0).
+
+DOI: 10.1091/mbc.E14-03-0837
+PMCID: PMC4072572
+PMID: 24829384 [Indexed for MEDLINE]
+
+
+24. Nat Methods. 2015 Sep;12(9):838-40. doi: 10.1038/nmeth.3483. Epub 2015 Jul 20.
+
+Inferring transient particle transport dynamics in live cells.
+
+Monnier N(1), Barry Z(1), Park HY(2)(3)(4), Su KC(5)(6), Katz Z(2), English 
+BP(4), Dey A(1), Pan K(1), Cheeseman IM(5)(6), Singer RH(2)(3)(4), Bathe M(1).
+
+Author information:
+(1)Department of Biological Engineering, Massachusetts Institute of Technology, 
+Cambridge, Massachusetts, USA.
+(2)Department of Anatomy and Structural Biology, Albert Einstein College of 
+Medicine, Bronx, New York, USA.
+(3)Gruss-Lipper Biophotonics Center, Albert Einstein College of Medicine, Bronx, 
+New York, USA.
+(4)Howard Hughes Medical Institute, Janelia Research Campus, Ashburn, Virginia, 
+USA.
+(5)Whitehead Institute for Biomedical Research, Cambridge, Massachusetts, USA.
+(6)Department of Biology, Massachusetts Institute of Technology, Cambridge, 
+Massachusetts, USA.
+
+Live-cell imaging and particle tracking provide rich information on mechanisms 
+of intracellular transport. However, trajectory analysis procedures to infer 
+complex transport dynamics involving stochastic switching between active 
+transport and diffusive motion are lacking. We applied Bayesian model selection 
+to hidden Markov modeling to infer transient transport states from trajectories 
+of mRNA-protein complexes in live mouse hippocampal neurons and metaphase 
+kinetochores in dividing human cells. The software is available at 
+http://hmm-bayes.org/.
+
+DOI: 10.1038/nmeth.3483
+PMCID: PMC4733533
+PMID: 26192083 [Indexed for MEDLINE]
+
+
+25. Mol Cell. 2015 Dec 17;60(6):886-98. doi: 10.1016/j.molcel.2015.10.027. Epub 2015 
+Nov 19.
+
+The CENP-L-N Complex Forms a Critical Node in an Integrated Meshwork of 
+Interactions at the Centromere-Kinetochore Interface.
+
+McKinley KL(1), Sekulic N(2), Guo LY(2), Tsinman T(3), Black BE(2), Cheeseman 
+IM(4).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Nine Cambridge Center, 
+Cambridge, MA 02142, USA; Department of Biology, Massachusetts Institute of 
+Technology, Cambridge, MA 02142, USA.
+(2)Department of Biochemistry and Biophysics, Perelman School of Medicine, 
+University of Pennsylvania, 422 Curie Boulevard, Philadelphia, PA 19104, USA.
+(3)Whitehead Institute for Biomedical Research, Nine Cambridge Center, 
+Cambridge, MA 02142, USA.
+(4)Whitehead Institute for Biomedical Research, Nine Cambridge Center, 
+Cambridge, MA 02142, USA; Department of Biology, Massachusetts Institute of 
+Technology, Cambridge, MA 02142, USA. Electronic address: icheese@wi.mit.edu.
+
+During mitosis, the macromolecular kinetochore complex assembles on the 
+centromere to orchestrate chromosome segregation. The properties and 
+architecture of the 16-subunit Constitutive Centromere-Associated Network (CCAN) 
+that allow it to build a robust platform for kinetochore assembly are poorly 
+understood. Here, we use inducible CRISPR knockouts and biochemical 
+reconstitutions to define the interactions between the human CCAN proteins. We 
+find that the CCAN does not assemble as a linear hierarchy, and instead, each 
+sub-complex requires multiple non-redundant interactions for its localization to 
+centromeres and the structural integrity of the overall assembly. We demonstrate 
+that the CENP-L-N complex plays a crucial role at the core of this assembly 
+through interactions with CENP-C and CENP-H-I-K-M. Finally, we show that the 
+CCAN is remodeled over the cell cycle such that sub-complexes depend on their 
+interactions differentially. Thus, an interdependent meshwork within the CCAN 
+underlies the centromere specificity and stability of the kinetochore.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.molcel.2015.10.027
+PMCID: PMC4690846
+PMID: 26698661 [Indexed for MEDLINE]
+
+
+26. Cell Rep. 2016 Nov 8;17(7):1728-1738. doi: 10.1016/j.celrep.2016.10.046.
+
+A Regulatory Switch Alters Chromosome Motions at the Metaphase-to-Anaphase 
+Transition.
+
+Su KC(1), Barry Z(2), Schweizer N(3), Maiato H(4), Bathe M(2), Cheeseman IM(5).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Nine Cambridge Center, 
+Cambridge, MA 02142, USA.
+(2)Department of Biological Engineering, Massachusetts Institute of Technology, 
+Cambridge, MA 02139, USA.
+(3)Chromosome Instability and Dynamics Laboratory, Instituto de Biologia 
+Molecular e Celular, Universidade do Porto, 4200-135 Porto, Portugal; i3S - 
+Instituto de Investigação e Inovação em Saúdem, Universidade do Porto, 4200-135 
+Porto, Portugal.
+(4)Chromosome Instability and Dynamics Laboratory, Instituto de Biologia 
+Molecular e Celular, Universidade do Porto, 4200-135 Porto, Portugal; i3S - 
+Instituto de Investigação e Inovação em Saúdem, Universidade do Porto, 4200-135 
+Porto, Portugal; Cell Division Unit, Department of Experimental Biology, 
+Faculdade de Medicina, Universidade do Porto, 4200-135 Porto, Portugal.
+(5)Whitehead Institute for Biomedical Research, Nine Cambridge Center, 
+Cambridge, MA 02142, USA; Department of Biology, Massachusetts Institute of 
+Technology, Cambridge, MA 02142, USA. Electronic address: icheese@wi.mit.edu.
+
+To achieve chromosome segregation during mitosis, sister chromatids must undergo 
+a dramatic change in their behavior to switch from balanced oscillations at the 
+metaphase plate to directed poleward motion during anaphase. However, the 
+factors that alter chromosome behavior at the metaphase-to-anaphase transition 
+remain incompletely understood. Here, we perform time-lapse imaging to analyze 
+anaphase chromosome dynamics in human cells. Using multiple directed 
+biochemical, genetic, and physical perturbations, our results demonstrate that 
+differences in the global phosphorylation states between metaphase and anaphase 
+are the major determinant of chromosome motion dynamics. Indeed, causing a 
+mitotic phosphorylation state to persist into anaphase produces dramatic 
+metaphase-like oscillations. These induced oscillations depend on both 
+kinetochore-derived and polar ejection forces that oppose poleward motion. Thus, 
+our analysis of anaphase chromosome motion reveals that dephosphorylation of 
+multiple mitotic substrates is required to suppress metaphase chromosome 
+oscillatory motions and achieve directed poleward motion for successful 
+chromosome segregation.
+
+Copyright © 2016 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2016.10.046
+PMCID: PMC5130098
+PMID: 27829144 [Indexed for MEDLINE]
+
+
+27. Dev Cell. 2017 Feb 27;40(4):405-420.e2. doi: 10.1016/j.devcel.2017.01.012. Epub 
+2017 Feb 16.
+
+Large-Scale Analysis of CRISPR/Cas9 Cell-Cycle Knockouts Reveals the Diversity 
+of p53-Dependent Responses to Cell-Cycle Defects.
+
+McKinley KL(1), Cheeseman IM(2).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Nine Cambridge Center, 
+Cambridge, MA 02142, USA; Department of Biology, Massachusetts Institute of 
+Technology, Cambridge, MA 02142, USA. Electronic address: 
+kara.l.mckinley@gmail.com.
+(2)Whitehead Institute for Biomedical Research, Nine Cambridge Center, 
+Cambridge, MA 02142, USA; Department of Biology, Massachusetts Institute of 
+Technology, Cambridge, MA 02142, USA. Electronic address: icheese@wi.mit.edu.
+
+Defining the genes that are essential for cellular proliferation is critical for 
+understanding organismal development and identifying high-value targets for 
+disease therapies. However, the requirements for cell-cycle progression in human 
+cells remain incompletely understood. To elucidate the consequences of acute and 
+chronic elimination of cell-cycle proteins, we generated and characterized 
+inducible CRISPR/Cas9 knockout human cell lines targeting 209 genes involved in 
+diverse cell-cycle processes. We performed single-cell microscopic analyses to 
+systematically establish the effects of the knockouts on subcellular 
+architecture. To define variations in cell-cycle requirements between cultured 
+cell lines, we generated knockouts across cell lines of diverse origins. We 
+demonstrate that p53 modulates the phenotype of specific cell-cycle defects 
+through distinct mechanisms, depending on the defect. This work provides a 
+resource to broadly facilitate robust and long-term depletion of cell-cycle 
+proteins and reveals insights into the requirements for cell-cycle progression.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.devcel.2017.01.012
+PMCID: PMC5345124
+PMID: 28216383 [Indexed for MEDLINE]
+
+
+28. Elife. 2017 Aug 25;6:e26866. doi: 10.7554/eLife.26866.
+
+Astrin-SKAP complex reconstitution reveals its kinetochore interaction with 
+microtubule-bound Ndc80.
+
+Kern DM(1)(2), Monda JK(#)(1)(2), Su KC(#)(1), Wilson-Kubalek EM(3), Cheeseman 
+IM(1)(2).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Cambridge, United States.
+(2)Department of Biology, Massachusetts Institute of Technology, Cambridge, 
+United States.
+(3)Department of Cell Biology, The Scripps Research Institute, La Jolla, United 
+States.
+(#)Contributed equally
+
+Chromosome segregation requires robust interactions between the macromolecular 
+kinetochore structure and dynamic microtubule polymers. A key outstanding 
+question is how kinetochore-microtubule attachments are modulated to ensure that 
+bi-oriented attachments are selectively stabilized and maintained. The 
+Astrin-SKAP complex localizes preferentially to properly bi-oriented sister 
+kinetochores, representing the final outer kinetochore component recruited prior 
+to anaphase onset. Here, we reconstitute the 4-subunit Astrin-SKAP complex, 
+including a novel MYCBP subunit. Our work demonstrates that the Astrin-SKAP 
+complex contains separable kinetochore localization and microtubule binding 
+domains. In addition, through cross-linking analysis in human cells and 
+biochemical reconstitution, we show that the Astrin-SKAP complex binds 
+synergistically to microtubules with the Ndc80 complex to form an integrated 
+interface. We propose a model in which the Astrin-SKAP complex acts together 
+with the Ndc80 complex to stabilize correctly formed kinetochore-microtubule 
+interactions.
+
+DOI: 10.7554/eLife.26866
+PMCID: PMC5602300
+PMID: 28841134 [Indexed for MEDLINE]
+
+Conflict of interest statement: No competing interests declared.
+
+
+29. Mol Biol Cell. 2018 Oct 1;29(20):2370-2377. doi: 10.1091/mbc.E18-04-0214. Epub 
+2018 Aug 9.
+
+CRISPR/Cas9-based gene targeting using synthetic guide RNAs enables robust cell 
+biological analyses.
+
+Su KC(1), Tsang MJ(1), Emans N(2), Cheeseman IM(1)(3).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Cambridge, MA 02142.
+(2)Persomics USA, Weston, MA 02493.
+(3)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 
+02142.
+
+A key goal for cell biological analyses is to assess the phenotypes that result 
+from eliminating a target gene. Since the early 1990s, the predominant strategy 
+utilized in human tissue culture cells has been RNA interference (RNAi)-mediated 
+protein depletion. However, RNAi suffers well-documented off-target effects as 
+well as incomplete and reversible protein depletion. The implementation of 
+CRISPR/Cas9-based DNA cleavage has revolutionized the capacity to conduct 
+functional studies in human cells. However, this approach is still underutilized 
+for conducting visual phenotypic analyses, particularly for essential genes that 
+require conditional strategies to eliminate their gene products. Optimizing this 
+strategy requires effective and streamlined approaches to introduce the Cas9 
+guide RNA into target cells. Here we assess the efficacy of synthetic guide RNA 
+transfection to eliminate gene products for cell biological studies. On the 
+basis of three representative gene targets (KIF11, CENPN, and RELA), we 
+demonstrate that transfection of synthetic single guide RNA (sgRNA) and CRISPR 
+RNA (crRNA) guides works comparably for protein depletion as cell lines stably 
+expressing lentiviral-delivered RNA guides. We additionally demonstrate that 
+synthetic sgRNAs can be introduced by reverse transfection on an array. 
+Together, these strategies provide a robust, flexible, and scalable approach for 
+conducting functional studies in human cells.
+
+DOI: 10.1091/mbc.E18-04-0214
+PMCID: PMC6233062
+PMID: 30091644 [Indexed for MEDLINE]
+
+
+30. Cell Rep. 2018 Oct 9;25(2):368-382.e5. doi: 10.1016/j.celrep.2018.09.032.
+
+Microcephaly Modeling of Kinetochore Mutation Reveals a Brain-Specific 
+Phenotype.
+
+Omer Javed A(1), Li Y(2), Muffat J(3), Su KC(4), Cohen MA(4), Lungjangwa T(4), 
+Aubourg P(5), Cheeseman IM(6), Jaenisch R(7).
+
+Author information:
+(1)Université Paris-Saclay, ED 569, 5 Rue Jean-Baptiste Clément, 92290 
+Châtenay-Malabry, France; Whitehead Institute for Biomedical Research, 455 Main 
+Street, Cambridge, MA 02142, USA.
+(2)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA; Program in Developmental and Stem Cell Biology, The Hospital for 
+Sick Children, 686 Bay Street, Toronto, ON M4G 0A4, Canada; Department of 
+Molecular Genetics, University of Toronto, 1 King's College Circle, Toronto, ON 
+M5S 1A8, Canada.
+(3)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA; Department of Molecular Genetics, University of Toronto, 1 King's 
+College Circle, Toronto, ON M5S 1A8, Canada; Program in Neurosciences and Mental 
+Health, The Hospital for Sick Children, 686 Bay Street, Toronto, ON M5G 0A4, 
+Canada.
+(4)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA.
+(5)Université Paris-Saclay, ED 569, 5 Rue Jean-Baptiste Clément, 92290 
+Châtenay-Malabry, France; INSERM U1169, CHU Bicêtre Paris Sud, Le 
+Kremlin-Bicêtre, France.
+(6)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA; Department of Biology, MIT, 31 Ames Street, Cambridge, MA 02139, 
+USA.
+(7)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA; Department of Biology, MIT, 31 Ames Street, Cambridge, MA 02139, 
+USA. Electronic address: jaenisch@wi.mit.edu.
+
+Most genes mutated in microcephaly patients are expressed ubiquitously, and yet 
+the brain is the only major organ compromised in most patients. Why the 
+phenotype remains brain specific is poorly understood. In this study, we used 
+in vitro differentiation of human embryonic stem cells to monitor the effect of 
+a point mutation in kinetochore null protein 1 (KNL1; CASC5), identified in 
+microcephaly patients, during in vitro brain development. We found that neural 
+progenitors bearing a patient mutation showed reduced KNL1 levels, aneuploidy, 
+and an abrogated spindle assembly checkpoint. By contrast, no reduction of KNL1 
+levels or abnormalities was observed in fibroblasts and neural crest cells. We 
+established that the KNL1 patient mutation generates an exonic splicing silencer 
+site, which mainly affects neural progenitors because of their higher levels of 
+splicing proteins. Our results provide insight into the brain-specific 
+phenomenon, consistent with microcephaly being the only major phenotype of 
+patients bearing KNL1 mutation.
+
+Copyright © 2018 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2018.09.032
+PMCID: PMC6392048
+PMID: 30304678 [Indexed for MEDLINE]
+
+
+31. Dev Cell. 2019 Oct 7;51(1):35-48.e7. doi: 10.1016/j.devcel.2019.07.016. Epub 
+2019 Aug 15.
+
+Quiescent Cells Actively Replenish CENP-A Nucleosomes to Maintain Centromere 
+Identity and Proliferative Potential.
+
+Swartz SZ(1), McKay LS(1), Su KC(1), Bury L(1), Padeganeh A(2), Maddox PS(2), 
+Knouse KA(1), Cheeseman IM(3).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA.
+(2)Biology Department, UNC Chapel Hill, 120 South Road, Chapel Hill, NC 
+27599-3280, USA.
+(3)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA; Department of Biology, Massachusetts Institute of Technology, 
+Cambridge, MA 02142, USA. Electronic address: icheese@wi.mit.edu.
+
+Centromeres provide a robust model for epigenetic inheritance as they are 
+specified by sequence-independent mechanisms involving the histone H3-variant 
+centromere protein A (CENP-A). Prevailing models indicate that the high 
+intrinsic stability of CENP-A nucleosomes maintains centromere identity 
+indefinitely. Here, we demonstrate that CENP-A is not stable at centromeres but 
+is instead gradually and continuously incorporated in quiescent cells including 
+G0-arrested tissue culture cells and prophase I-arrested oocytes. Quiescent 
+CENP-A incorporation involves the canonical CENP-A deposition machinery but 
+displays distinct requirements from cell cycle-dependent deposition. We 
+demonstrate that Plk1 is required specifically for G1 CENP-A deposition, whereas 
+transcription promotes CENP-A incorporation in quiescent oocytes. Preventing 
+CENP-A deposition during quiescence results in significantly reduced CENP-A 
+levels and perturbs chromosome segregation following the resumption of cell 
+division. In contrast to quiescent cells, terminally differentiated cells fail 
+to maintain CENP-A levels. Our work reveals that quiescent cells actively 
+maintain centromere identity providing an indicator of proliferative potential.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.devcel.2019.07.016
+PMCID: PMC6783363
+PMID: 31422918 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests The authors have no 
+conflicts to declare.
+
+
+32. Elife. 2020 Nov 11;9:e59770. doi: 10.7554/eLife.59770.
+
+Alpha-satellite RNA transcripts are repressed by centromere-nucleolus 
+associations.
+
+Bury L(#)(1), Moodie B(#)(1), Ly J(1)(2), McKay LS(1), Miga KH(3), Cheeseman 
+IM(1)(2).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Cambridge, United States.
+(2)Department of Biology, Massachusetts Institute of Technology, Cambridge, 
+United States.
+(3)UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa 
+Cruz, United States.
+(#)Contributed equally
+
+Although originally thought to be silent chromosomal regions, centromeres are 
+instead actively transcribed. However, the behavior and contributions of 
+centromere-derived RNAs have remained unclear. Here, we used single-molecule 
+fluorescence in-situ hybridization (smFISH) to detect alpha-satellite RNA 
+transcripts in intact human cells. We find that alpha-satellite RNA-smFISH foci 
+levels vary across cell lines and over the cell cycle, but do not remain 
+associated with centromeres, displaying localization consistent with other long 
+non-coding RNAs. Alpha-satellite expression occurs through RNA polymerase 
+II-dependent transcription, but does not require established centromere or cell 
+division components. Instead, our work implicates centromere-nucleolar 
+interactions as repressing alpha-satellite expression. The fraction of 
+nucleolar-localized centromeres inversely correlates with alpha-satellite 
+transcripts levels across cell lines and transcript levels increase 
+substantially when the nucleolus is disrupted. The control of alpha-satellite 
+transcripts by centromere-nucleolar contacts provides a mechanism to modulate 
+centromere transcription and chromatin dynamics across diverse cell states and 
+conditions.
+
+© 2020, Bury et al.
+
+DOI: 10.7554/eLife.59770
+PMCID: PMC7679138
+PMID: 33174837 [Indexed for MEDLINE]
+
+Conflict of interest statement: LB, BM, JL, LM, KM, IC No competing interests 
+declared
+
+
+33. bioRxiv [Preprint]. 2024 May 21:2024.04.06.588385. doi: 
+10.1101/2024.04.06.588385.
+
+Nuclear release of eIF1 globally increases stringency of start-codon selection 
+to preserve mitotic arrest physiology.
+
+Ly J, Xiang K, Su KC, Sissoko GB, Bartel DP, Cheeseman IM.
+
+Regulated start-codon selection has the potential to reshape the proteome 
+through the differential production of uORFs, canonical proteins, and 
+alternative translational isoforms. However, conditions under which start-codon 
+selection is altered remain poorly defined. Here, using transcriptome-wide 
+translation initiation site profiling, we reveal a global increase in the 
+stringency of start-codon selection during mammalian mitosis. Low-efficiency 
+initiation sites are preferentially repressed in mitosis, resulting in pervasive 
+changes in the translation of thousands of start sites and their corresponding 
+protein products. This increased stringency of start-codon selection during 
+mitosis results from increased interactions between the key regulator of 
+start-codon selection, eIF1, and the 40S ribosome. We find that increased 
+eIF1-40S ribosome interactions during mitosis are mediated by the release of a 
+nuclear pool of eIF1 upon nuclear envelope breakdown. Selectively depleting the 
+nuclear pool of eIF1 eliminates the changes to translational stringency during 
+mitosis, resulting in altered mitotic proteome composition. In addition, 
+preventing mitotic translational rewiring results in substantially increased 
+cell death and decreased mitotic slippage following treatment with anti-mitotic 
+chemotherapeutics. Thus, cells globally control translation initiation 
+stringency with critical roles during the mammalian cell cycle to preserve 
+mitotic cell physiology.
+
+DOI: 10.1101/2024.04.06.588385
+PMCID: PMC11014515
+PMID: 38617206
+
+
+34. bioRxiv [Preprint]. 2024 Apr 18:2024.04.17.589883. doi: 
+10.1101/2024.04.17.589883.
+
+A conserved germline-specific Dsn1 alternative splice isoform supports oocyte 
+and embryo development.
+
+Ly J(1)(2), Blengini CS(3), Cady SL(1)(2), Schindler K(3), Cheeseman IM(1)(2).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Cambridge, United States.
+(2)Department of Biology, Massachusetts Institute of Technology, Cambridge, 
+United States.
+(3)Department of Genetics, Rutgers University, Piscataway, New Jersey, United 
+States.
+
+Update in
+    Curr Biol. 2024 Sep 23;34(18):4307-4317.e6. doi: 10.1016/j.cub.2024.07.089.
+
+Alternative mRNA splicing can generate distinct protein isoforms to allow for 
+the differential control of cell processes across cell types. However, 
+alternative splice isoforms that differentially modulate distinct cell division 
+programs have remained elusive. Here, we demonstrate that mammalian germ cells 
+express an alternate mRNA splice isoform for the kinetochore component, DSN1, a 
+subunit of the MIS12 complex that links the centromeres to spindle microtubules 
+during chromosome segregation. This germline DSN1 isoform bypasses the 
+requirement for Aurora kinase phosphorylation for its centromere localization 
+due to the absence of a key regulatory region allowing DSN1 to display 
+persistent centromere localization. Expression of the germline DSN1 isoform in 
+somatic cells results in constitutive kinetochore localization, chromosome 
+segregation errors, and growth defects, providing an explanation for its tight 
+cell type-specific expression. Reciprocally, precisely eliminating expression of 
+the germline DSN1 splice isoform in mouse models disrupts oocyte maturation and 
+early embryonic divisions coupled with a reduction in fertility. Together, this 
+work identifies a germline-specific splice isoform for a chromosome segregation 
+component and implicates its role in mammalian fertility.
+
+DOI: 10.1101/2024.04.17.589883
+PMCID: PMC11042369
+PMID: 38659852
+
+
+35. Curr Biol. 2024 Sep 23;34(18):4307-4317.e6. doi: 10.1016/j.cub.2024.07.089. Epub 
+2024 Aug 22.
+
+A conserved germline-specific Dsn1 alternative splice isoform supports oocyte 
+and embryo development.
+
+Ly J(1), Blengini CS(2), Cady SL(1), Schindler K(2), Cheeseman IM(3).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Cambridge, MA 02142, USA; 
+Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 
+02142, USA.
+(2)Department of Genetics, Rutgers University, Piscataway, NJ 08854, USA.
+(3)Whitehead Institute for Biomedical Research, Cambridge, MA 02142, USA; 
+Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 
+02142, USA. Electronic address: icheese@wi.mit.edu.
+
+Update of
+    bioRxiv. 2024 Apr 18:2024.04.17.589883. doi: 10.1101/2024.04.17.589883.
+
+The chromosome segregation and cell division programs associated with somatic 
+mitosis and germline meiosis display dramatic differences such as kinetochore 
+orientation, cohesin removal, or the presence of a gap phase.1,2,3,4,5,6 These 
+changes in chromosome segregation require alterations to the established cell 
+division machinery.5,6 It remains unclear what aspects of kinetochore function 
+and its regulatory control differ between the mitotic and meiotic cell divisions 
+to rewire these core processes. Alternative RNA splicing can generate distinct 
+protein isoforms to allow for the differential control of cell processes across 
+cell types. However, alternative splice isoforms that differentially modulate 
+distinct cell division programs have remained elusive. Here, we demonstrate that 
+mammalian germ cells express an alternative mRNA splice isoform for the 
+kinetochore component, DSN1, a subunit of the MIS12 complex that links the 
+centromeres to spindle microtubules during chromosome segregation. This germline 
+DSN1 isoform bypasses the requirement for Aurora kinase phosphorylation for its 
+centromere localization due to the absence of a key regulatory region allowing 
+DSN1 to display persistent centromere localization. Expression of the germline 
+DSN1 isoform in somatic cells results in constitutive kinetochore localization, 
+chromosome segregation errors, and growth defects, providing an explanation for 
+its tight cell-type-specific expression. Reciprocally, precisely eliminating 
+expression of the germline-specific DSN1 splice isoform in mouse models disrupts 
+oocyte maturation and early embryonic divisions coupled with a reduction in 
+fertility. Together, this work identifies a germline-specific splice isoform for 
+a chromosome segregation component and implicates its role in mammalian 
+fertility.
+
+Copyright © 2024 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cub.2024.07.089
+PMCID: PMC11421959
+PMID: 39178843 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests I.M.C. is a member of 
+the Current Biology advisory board.
+
+
+36. Nature. 2024 Nov;635(8038):490-498. doi: 10.1038/s41586-024-08088-3. Epub 2024 
+Oct 23.
+
+Nuclear release of eIF1 restricts start-codon selection during mitosis.
+
+Ly J(1)(2), Xiang K(1)(2)(3), Su KC(1)(2), Sissoko GB(1)(2), Bartel DP(1)(2)(3), 
+Cheeseman IM(4)(5).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Cambridge, MA, USA.
+(2)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, 
+USA.
+(3)Howard Hughes Medical Institute, Cambridge, MA, USA.
+(4)Whitehead Institute for Biomedical Research, Cambridge, MA, USA. 
+icheese@wi.mit.edu.
+(5)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, 
+USA. icheese@wi.mit.edu.
+
+Regulated start-codon selection has the potential to reshape the proteome 
+through the differential production of upstream open reading frames, canonical 
+proteins, and alternative translational isoforms1-3. However, conditions under 
+which start codon selection is altered remain poorly defined. Here, using 
+transcriptome-wide translation-initiation-site profiling4, we reveal a global 
+increase in the stringency of start-codon selection during mammalian mitosis. 
+Low-efficiency initiation sites are preferentially repressed in mitosis, 
+resulting in pervasive changes in the translation of thousands of start sites 
+and their corresponding protein products. This enhanced stringency of 
+start-codon selection during mitosis results from increased association between 
+the 40S ribosome and the key regulator of start-codon selection, eIF1. We find 
+that increased eIF1-40S ribosome interaction during mitosis is mediated by the 
+release of a nuclear pool of eIF1 upon nuclear envelope breakdown. Selectively 
+depleting the nuclear pool of eIF1 eliminates the change to translational 
+stringency during mitosis, resulting in altered synthesis of thousands of 
+protein isoforms. In addition, preventing mitotic translational rewiring results 
+in substantially increased cell death and decreased mitotic slippage in cells 
+that experience a mitotic delay induced by anti-mitotic chemotherapies. Thus, 
+cells globally control stringency of translation initiation, which has critical 
+roles during the mammalian cell cycle in preserving mitotic cell physiology.
+
+© 2024. The Author(s), under exclusive licence to Springer Nature Limited.
+
+DOI: 10.1038/s41586-024-08088-3
+PMID: 39443796 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests D.P.B. has equity in Alnylam 
+Pharmaceuticals, where he is a co-founder and advisor. The other authors declare 
+no competing interests.
+
+
+37. Dev Cell. 2008 Nov;15(5):645-55. doi: 10.1016/j.devcel.2008.10.011.
+
+Toward a molecular structure of the eukaryotic kinetochore.
+
+Welburn JP(1), Cheeseman IM.
+
+Author information:
+(1)Whitehead Institute for Biomedical Research and Department of Biology, 
+Massachusetts Institute of Technology, Nine Cambridge Center, Cambridge, MA 
+02142, USA. welburn@wi.mit.edu
+
+Chromosome segregation in eukaryotes requires a large molecular assembly termed 
+the kinetochore to attach chromosomes to spindle microtubules. Recent work has 
+made substantial progress in defining the composition and activities of the 
+kinetochore, but much remains to be learned about its macromolecular structure. 
+This commentary discusses recent insights into structural features of the 
+kinetochore, how these inform our understanding of its biological function, and 
+the key challenges for the future.
+
+DOI: 10.1016/j.devcel.2008.10.011
+PMID: 19000831 [Indexed for MEDLINE]
+
+
+38. Dev Cell. 2009 Mar;16(3):374-85. doi: 10.1016/j.devcel.2009.01.011.
+
+The human kinetochore Ska1 complex facilitates microtubule 
+depolymerization-coupled motility.
+
+Welburn JP(1), Grishchuk EL, Backer CB, Wilson-Kubalek EM, Yates JR 3rd, 
+Cheeseman IM.
+
+Author information:
+(1)Whitehead Institute for Biomedical Research and Department of Biology, 
+Massachusetts Institute of Technology, Suite 401, Nine Cambridge Center, 
+Cambridge, MA 02142, USA.
+
+Mitotic chromosome segregation requires that kinetochores attach to microtubule 
+polymers and harness microtubule dynamics to drive chromosome movement. In 
+budding yeast, the Dam1 complex couples kinetochores with microtubule 
+depolymerization. However, a metazoan homolog of the Dam1 complex has not been 
+identified. To identify proteins that play a corresponding role at the 
+vertebrate kinetochore-microtubule interface, we isolated a three subunit human 
+Ska1 complex, including the previously uncharacterized protein Rama1 that 
+localizes to the outer kinetochore and spindle microtubules. Depletion of Ska1 
+complex subunits severely compromises proper chromosome segregation. 
+Reconstituted Ska1 complex possesses two separable biochemical activities: 
+direct microtubule binding through the Ska1 subunit, and microtubule-stimulated 
+oligomerization imparted by the Rama1 subunit. The full Ska1 complex forms 
+assemblies on microtubules that can facilitate the processive movement of 
+microspheres along depolymerizing microtubules. In total, these results 
+demonstrate a critical role for the Ska1 complex in interacting with dynamic 
+microtubules at the outer kinetochore.
+
+DOI: 10.1016/j.devcel.2009.01.011
+PMCID: PMC2746561
+PMID: 19289083 [Indexed for MEDLINE]
+
+
+39. Mol Cell. 2010 May 14;38(3):383-92. doi: 10.1016/j.molcel.2010.02.034.
+
+Aurora B phosphorylates spatially distinct targets to differentially regulate 
+the kinetochore-microtubule interface.
+
+Welburn JP(1), Vleugel M, Liu D, Yates JR 3rd, Lampson MA, Fukagawa T, Cheeseman 
+IM.
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Massachusetts Institute of 
+Technology, Cambridge, MA 02142, USA.
+
+Accurate chromosome segregation requires carefully regulated interactions 
+between kinetochores and microtubules, but how plasticity is achieved to correct 
+diverse attachment defects remains unclear. Here we demonstrate that Aurora B 
+kinase phosphorylates three spatially distinct targets within the conserved 
+outer kinetochore KNL1/Mis12 complex/Ndc80 complex (KMN) network, the key player 
+in kinetochore-microtubule attachments. The combinatorial phosphorylation of the 
+KMN network generates graded levels of microtubule-binding activity, with full 
+phosphorylation severely compromising microtubule binding. Altering the 
+phosphorylation state of each protein causes corresponding chromosome 
+segregation defects. Importantly, the spatial distribution of these targets 
+along the kinetochore axis leads to their differential phosphorylation in 
+response to changes in tension and attachment state. In total, rather than 
+generating exclusively binary changes in microtubule binding, our results 
+suggest a mechanism for the tension-dependent fine-tuning of 
+kinetochore-microtubule interactions.
+
+Copyright (c) 2010 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.molcel.2010.02.034
+PMCID: PMC2873218
+PMID: 20471944 [Indexed for MEDLINE]
+
+
+40. Mol Biol Cell. 2012 Jun;23(11):2122-30. doi: 10.1091/mbc.E11-11-0931. Epub 2012 
+Apr 4.
+
+CSAP localizes to polyglutamylated microtubules and promotes proper cilia 
+function and zebrafish development.
+
+Backer CB(1), Gutzman JH, Pearson CG, Cheeseman IM.
+
+Author information:
+(1)Whitehead Institute for Biomedical Research and Department of Biology, 
+Massachusetts Institute of Technology, Cambridge, MA 02142, USA.
+
+The diverse populations of microtubule polymers in cells are functionally 
+distinguished by different posttranslational modifications, including 
+polyglutamylation. Polyglutamylation is enriched on subsets of microtubules 
+including those found in the centrioles, mitotic spindle, and cilia. However, 
+whether this modification alters intrinsic microtubule dynamics or affects 
+extrinsic associations with specific interacting partners remains to be 
+determined. Here we identify the microtubule-binding protein centriole and 
+spindle-associated protein (CSAP), which colocalizes with polyglutamylated 
+tubulin to centrioles, spindle microtubules, and cilia in human tissue culture 
+cells. Reducing tubulin polyglutamylation prevents CSAP localization to both 
+spindle and cilia microtubules. In zebrafish, CSAP is required for normal brain 
+development and proper left-right asymmetry, defects that are qualitatively 
+similar to those reported previously for depletion of 
+polyglutamylation-conjugating enzymes. We also find that CSAP is required for 
+proper cilia beating. Our work supports a model in which polyglutamylation can 
+target selected microtubule-associated proteins, such as CSAP, to microtubule 
+subpopulations, providing specific functional capabilities to these populations.
+
+DOI: 10.1091/mbc.E11-11-0931
+PMCID: PMC3364176
+PMID: 22493317 [Indexed for MEDLINE]
+
+
+41. Dev Cell. 2012 Nov 13;23(5):968-80. doi: 10.1016/j.devcel.2012.09.012. Epub 2012 
+Oct 18.
+
+The kinetochore-bound Ska1 complex tracks depolymerizing microtubules and binds 
+to curved protofilaments.
+
+Schmidt JC(1), Arthanari H, Boeszoermenyi A, Dashkevich NM, Wilson-Kubalek EM, 
+Monnier N, Markus M, Oberer M, Milligan RA, Bathe M, Wagner G, Grishchuk EL, 
+Cheeseman IM.
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Cambridge, MA 02142, USA.
+
+Erratum in
+    Dev Cell. 2012 Nov 13;23(5):1081.
+
+To ensure equal chromosome segregation during mitosis, the macromolecular 
+kinetochore must remain attached to depolymerizing microtubules, which drive 
+chromosome movements. How kinetochores associate with depolymerizing 
+microtubules, which undergo dramatic structural changes forming curved 
+protofilaments, has yet to be defined in vertebrates. Here, we demonstrate that 
+the conserved kinetochore-localized Ska1 complex tracks with depolymerizing 
+microtubule ends and associates with both the microtubule lattice and curved 
+protofilaments. In contrast, the Ndc80 complex, a central player in the 
+kinetochore-microtubule interface, binds only to the straight microtubule 
+lattice and lacks tracking activity. We demonstrate that the Ska1 complex 
+imparts its tracking capability to the Ndc80 complex. Finally, we present a 
+structure of the Ska1 microtubule-binding domain that reveals its interaction 
+with microtubules and its regulation by Aurora B. This work defines an 
+integrated kinetochore-microtubule interface formed by the Ska1 and Ndc80 
+complexes that associates with depolymerizing microtubules, potentially by 
+interacting with curved microtubule protofilaments.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.devcel.2012.09.012
+PMCID: PMC3500403
+PMID: 23085020 [Indexed for MEDLINE]
+
+
+42. J Cell Biol. 2013 Mar 4;200(5):557-65. doi: 10.1083/jcb.201211113.
+
+Review series: The functions and consequences of force at kinetochores.
+
+Rago F(1), Cheeseman IM.
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Massachusetts Institute of 
+Technology, Cambridge, MA 0214, USA.
+
+Chromosome segregation requires the generation of force at the kinetochore-the 
+multiprotein structure that facilitates attachment of chromosomes to spindle 
+microtubules. This force is required both to move chromosomes and to signal the 
+formation of proper bioriented attachments. To understand the role of force in 
+these processes, it is critical to define how force is generated at 
+kinetochores, the contributions of this force to chromosome movement, and how 
+the kinetochore is structured and organized to withstand and respond to force. 
+Classical studies and recent work provide a framework to dissect the mechanisms, 
+functions, and consequences of force at kinetochores.
+
+DOI: 10.1083/jcb.201211113
+PMCID: PMC3587826
+PMID: 23460675 [Indexed for MEDLINE]
+
+
+43. J Cell Biol. 2013 Apr 1;201(1):23-32. doi: 10.1083/jcb.201301006. Epub 2013 Mar 
+25.
+
+CDK-dependent phosphorylation and nuclear exclusion coordinately control 
+kinetochore assembly state.
+
+Gascoigne KE(1), Cheeseman IM.
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Massachusetts Institute of 
+Technology, Cambridge, MA 02142, USA.
+
+Accurate chromosome segregation requires assembly of the multiprotein 
+kinetochore complex. Prior work has identified more than 100 different 
+kinetochore components in human cells. However, little is known about the 
+regulatory processes that specify their assembly upon mitotic entry and 
+disassembly at mitotic exit. In this paper, we used a live-cell imaging-based 
+assay to quantify kinetochore disassembly kinetics and systematically analyze 
+the role of potential regulatory mechanisms in controlling kinetochore assembly 
+state. We find that kinetochore assembly and disassembly was driven primarily by 
+mitotic phosphorylation downstream of cyclin-dependent kinase (CDK). In 
+addition, we demonstrate that nuclear exclusion of the Ndc80 complex helped 
+restrict kinetochore formation to mitosis. Combining constitutive CDK-dependent 
+phosphorylation of CENP-T and forced nuclear localization of the Ndc80 complex 
+partially prevented kinetochore disassembly at mitotic exit and led to 
+chromosome segregation defects in subsequent divisions. In total, we find that 
+the coordinated temporal regulation of outer kinetochore assembly is essential 
+for accurate cell division.
+
+DOI: 10.1083/jcb.201301006
+PMCID: PMC3613690
+PMID: 23530067 [Indexed for MEDLINE]
+
+
+44. Cell. 2013 Jul 18;154(2):391-402. doi: 10.1016/j.cell.2013.06.010.
+
+Cortical dynein and asymmetric membrane elongation coordinately position the 
+spindle in anaphase.
+
+Kiyomitsu T(1), Cheeseman IM.
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Nine Cambridge Center, 
+Cambridge, MA 02142, USA. tomomi.kiyomitsu@gmail.com
+
+Erratum in
+    Cell. 2013 Sep 12;154(6):1401.
+
+Comment in
+    Cell. 2013 Jul 18;154(2):269-71. doi: 10.1016/j.cell.2013.06.035.
+    Nat Rev Mol Cell Biol. 2013 Sep;14(9):545. doi: 10.1038/nrm3648.
+
+Mitotic spindle position defines the cell-cleavage site during cytokinesis. 
+However, the mechanisms that control spindle positioning to generate equal-sized 
+daughter cells remain poorly understood. Here, we demonstrate that two 
+mechanisms act coordinately to center the spindle during anaphase in 
+symmetrically dividing human cells. First, the spindle is positioned directly by 
+the microtubule-based motor dynein, which we demonstrate is targeted to the cell 
+cortex by two distinct pathways: a Gαi/LGN/NuMA-dependent pathway and a 4.1G/R 
+and NuMA-dependent, anaphase-specific pathway. Second, we find that asymmetric 
+plasma membrane elongation occurs in response to spindle mispositioning to alter 
+the cellular boundaries relative to the spindle. Asymmetric membrane elongation 
+is promoted by chromosome-derived Ran-GTP signals that locally reduce Anillin at 
+the growing cell cortex. In asymmetrically elongating cells, dynein-dependent 
+spindle anchoring at the stationary cell cortex ensures proper spindle 
+positioning. Our results reveal the anaphase-specific spindle centering systems 
+that achieve equal-sized cell division.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2013.06.010
+PMCID: PMC4177044
+PMID: 23870127 [Indexed for MEDLINE]
+
+
+45. Cell. 2014 Jul 17;158(2):397-411. doi: 10.1016/j.cell.2014.06.016.
+
+Polo-like kinase 1 licenses CENP-A deposition at centromeres.
+
+McKinley KL(1), Cheeseman IM(2).
+
+Author information:
+(1)Whitehead Institute and Department of Biology, MIT, Nine Cambridge Center, 
+Cambridge, MA 02142, USA.
+(2)Whitehead Institute and Department of Biology, MIT, Nine Cambridge Center, 
+Cambridge, MA 02142, USA. Electronic address: icheese@wi.mit.edu.
+
+Comment in
+    Curr Biol. 2014 Sep 8;24(17):R808-10. doi: 10.1016/j.cub.2014.07.026.
+
+To ensure the stable transmission of the genome during vertebrate cell division, 
+the mitotic spindle must attach to a single locus on each chromosome, termed the 
+centromere. The fundamental requirement for faithful centromere inheritance is 
+the controlled deposition of the centromere-specifying histone, CENP-A. However, 
+the regulatory mechanisms that ensure the precise control of CENP-A deposition 
+have proven elusive. Here, we identify polo-like kinase 1 (Plk1) as a 
+centromere-localized regulator required to initiate CENP-A deposition in human 
+cells. We demonstrate that faithful CENP-A deposition requires integrated 
+signals from Plk1 and cyclin-dependent kinase (CDK), with Plk1 promoting the 
+localization of the key CENP-A deposition factor, the Mis18 complex, and CDK 
+inhibiting Mis18 complex assembly. By bypassing these regulated steps, we 
+uncoupled CENP-A deposition from cell-cycle progression, resulting in mitotic 
+defects. Thus, CENP-A deposition is controlled by a two-step regulatory paradigm 
+comprised of Plk1 and CDK that is crucial for genomic integrity.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2014.06.016
+PMCID: PMC4192726
+PMID: 25036634 [Indexed for MEDLINE]
+
+
+46. Mol Biol Cell. 2016 Apr 15;27(8):1197-203. doi: 10.1091/mbc.E15-12-0858. Epub 
+2016 Mar 3.
+
+Structural comparison of the Caenorhabditis elegans and human Ndc80 complexes 
+bound to microtubules reveals distinct binding behavior.
+
+Wilson-Kubalek EM(1), Cheeseman IM(2), Milligan RA(3).
+
+Author information:
+(1)Laboratory of Structure Cell Biology, Department of Integrative Structure and 
+Computational Biology, Scripps Research Institute, La Jolla, CA 92037 
+kubalek@scripps.edu.
+(2)Whitehead Institute for Biomedical Research and Department of Biology, 
+Massachusetts Institute of Technology, Cambridge, MA 02142.
+(3)Laboratory of Structure Cell Biology, Department of Integrative Structure and 
+Computational Biology, Scripps Research Institute, La Jolla, CA 92037.
+
+During cell division, kinetochores must remain tethered to the plus ends of 
+dynamic microtubule polymers. However, the molecular basis for robust 
+kinetochore-microtubule interactions remains poorly understood. The conserved 
+four-subunit Ndc80 complex plays an essential and direct role in generating 
+dynamic kinetochore-microtubule attachments. Here we compare the binding of 
+theCaenorhabditis elegansand human Ndc80 complexes to microtubules at high 
+resolution using cryo-electron microscopy reconstructions. Despite the conserved 
+roles of the Ndc80 complex in diverse organisms, we find that the attachment 
+mode of these complexes for microtubules is distinct. The human Ndc80 complex 
+binds every tubulin monomer along the microtubule protofilament, whereas theC. 
+elegansNdc80 complex binds more tightly to β-tubulin. In addition, theC. 
+elegansNdc80 complex tilts more toward the adjacent protofilament. These 
+structural differences in the Ndc80 complex between different species may play 
+significant roles in the nature of kinetochore-microtubule interactions.
+
+© 2016 Wilson-Kubalek et al. This article is distributed by The American Society 
+for Cell Biology under license from the author(s). Two months after publication 
+it is available to the public under an Attribution–Noncommercial–Share Alike 3.0 
+Unported Creative Commons License 
+(http://creativecommons.org/licenses/by-nc-sa/3.0).
+
+DOI: 10.1091/mbc.E15-12-0858
+PMCID: PMC4831874
+PMID: 26941333 [Indexed for MEDLINE]
+
+
+47. J Cell Biol. 2016 May 9;213(3):315-28. doi: 10.1083/jcb.201510117. Epub 2016 May 
+2.
+
+A mitotic SKAP isoform regulates spindle positioning at astral microtubule plus 
+ends.
+
+Kern DM(1), Nicholls PK(2), Page DC(3), Cheeseman IM(4).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Cambridge, MA 02142 Department 
+of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139.
+(2)Whitehead Institute for Biomedical Research, Cambridge, MA 02142.
+(3)Whitehead Institute for Biomedical Research, Cambridge, MA 02142 Department 
+of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139 Howard 
+Hughes Medical Institute, Chevy Chase, MD 20815.
+(4)Whitehead Institute for Biomedical Research, Cambridge, MA 02142 Department 
+of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139 
+icheese@wi.mit.edu.
+
+Comment in
+    J Cell Biol. 2016 May 9;213(3):293-5. doi: 10.1083/jcb.201604075.
+
+The Astrin/SKAP complex plays important roles in mitotic chromosome alignment 
+and centrosome integrity, but previous work found conflicting results for SKAP 
+function. Here, we demonstrate that SKAP is expressed as two distinct isoforms 
+in mammals: a longer, testis-specific isoform that was used for the previous 
+studies in mitotic cells and a novel, shorter mitotic isoform. Unlike the long 
+isoform, short SKAP rescues SKAP depletion in mitosis and displays robust 
+microtubule plus-end tracking, including localization to astral microtubules. 
+Eliminating SKAP microtubule binding results in severe chromosome segregation 
+defects. In contrast, SKAP mutants specifically defective for plus-end tracking 
+facilitate proper chromosome segregation but display spindle positioning 
+defects. Cells lacking SKAP plus-end tracking have reduced Clasp1 localization 
+at microtubule plus ends and display increased lateral microtubule contacts with 
+the cell cortex, which we propose results in unbalanced dynein-dependent 
+cortical pulling forces. Our work reveals an unappreciated role for the 
+Astrin/SKAP complex as an astral microtubule mediator of mitotic spindle 
+positioning.
+
+© 2016 Kern et al.
+
+DOI: 10.1083/jcb.201510117
+PMCID: PMC4862331
+PMID: 27138257 [Indexed for MEDLINE]
+
+
+48. Mol Biol Cell. 2018 Sep 15;29(19):2336-2345. doi: 10.1091/mbc.E18-07-0418. Epub 
+2018 Jul 19.
+
+Nde1 promotes diverse dynein functions through differential interactions and 
+exhibits an isoform-specific proteasome association.
+
+Monda JK(1)(2), Cheeseman IM(1)(2).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Cambridge, MA 02142.
+(2)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 
+02142.
+
+Nde1 is a key regulator of cytoplasmic dynein, binding directly to both dynein 
+itself and the dynein adaptor, Lis1. Nde1 and Lis1 are thought to function 
+together to promote dynein function, yet mutations in each result in distinct 
+neurodevelopment phenotypes. To reconcile these phenotypic differences, we 
+sought to dissect the contribution of Nde1 to dynein regulation and explore the 
+cellular functions of Nde1. Here we show that an Nde1-Lis1 interaction is 
+required for spindle pole focusing and Golgi organization but is largely 
+dispensable for centrosome placement, despite Lis1 itself being required. Thus, 
+diverse functions of dynein rely on distinct Nde1- and Lis1-mediated regulatory 
+mechanisms. Additionally, we discovered a robust, isoform-specific interaction 
+between human Nde1 and the 26S proteasome and identify precise mutations in Nde1 
+that disrupt the proteasome interaction. Together, our work suggests that Nde1 
+makes unique contributions to human neurodevelopment through its regulation of 
+both dynein and proteasome function.
+
+DOI: 10.1091/mbc.E18-07-0418
+PMCID: PMC6249811
+PMID: 30024347 [Indexed for MEDLINE]
+
+
+49. J Cell Sci. 2018 Aug 16;131(16):jcs214577. doi: 10.1242/jcs.214577.
+
+The kinetochore-microtubule interface at a glance.
+
+Monda JK(1)(2), Cheeseman IM(3)(2).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA.
+(2)Department of Biology, MIT, Cambridge, MA 02142, USA.
+(3)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA icheese@wi.mit.edu.
+
+Accurate chromosome segregation critically depends on the formation of 
+attachments between microtubule polymers and each sister chromatid. The 
+kinetochore is the macromolecular complex that assembles at the centromere of 
+each chromosome during mitosis and serves as the link between the DNA and the 
+microtubules. In this Cell Science at a Glance article and accompanying poster, 
+we discuss the activities and molecular players that are involved in generating 
+kinetochore-microtubule attachments, including the initial stages of lateral 
+kinetochore-microtubule interactions and maturation to stabilized end-on 
+attachments. We additionally explore the features that contribute to the ability 
+of the kinetochore to track with dynamic microtubules. Finally, we examine the 
+contributions of microtubule-associated proteins to the organization and 
+stabilization of the mitotic spindle and the control of microtubule dynamics.
+
+© 2018. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/jcs.214577
+PMCID: PMC6127730
+PMID: 30115751 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interestsThe authors declare no 
+competing or financial interests.
+
+
+50. Dev Cell. 2020 Nov 9;55(3):259-271. doi: 10.1016/j.devcel.2020.09.029.
+
+Cellular Mechanisms and Regulation of Quiescence.
+
+Marescal O(1), Cheeseman IM(2).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA; Department of Biology, Massachusetts Institute of Technology, 
+Cambridge, MA 02142, USA.
+(2)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA; Department of Biology, Massachusetts Institute of Technology, 
+Cambridge, MA 02142, USA. Electronic address: icheese@wi.mit.edu.
+
+Quiescence is a state of reversible proliferative arrest in which cells are not 
+actively dividing and yet retain the capacity to reenter the cell cycle upon 
+receiving an appropriate stimulus. Quiescent cells are remarkably diverse-they 
+reside in different locations throughout the body, serve distinct roles, and are 
+activated by a variety of signals. Despite this diversity, all quiescent cells 
+must be able to persist in a nondividing state without compromising their 
+proliferative potential, which requires changes to core cellular programs. How 
+drastically different cell types are able to implement extensive changes to 
+their gene-expression programs, metabolism, and cellular structures to induce a 
+common cellular state is a fascinating question in cell and developmental 
+biology. In this review, we explore the diversity of quiescent cells and 
+highlight the unifying characteristics that define the quiescent state.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.devcel.2020.09.029
+PMCID: PMC7665062
+PMID: 33171109 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests I.M.C. is a member of 
+the Editorial Advisory Board for Developmental Cell.
+
+
+51. Mol Biol Cell. 2021 Apr 15;32(8):712-721. doi: 10.1091/mbc.E20-11-0751. Epub 
+2021 Feb 17.
+
+Differential requirements for the CENP-O complex reveal parallel PLK1 
+kinetochore recruitment pathways.
+
+Nguyen AL(1), Fadel MD(1)(2), Cheeseman IM(1)(2).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Cambridge, MA 02142.
+(2)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 
+02142.
+
+Similar to other core biological processes, the vast majority of cell division 
+components are essential for viability across human cell lines. However, recent 
+genome-wide screens have identified a number of proteins that exhibit cell 
+line-specific essentiality. Defining the behaviors of these proteins is critical 
+to our understanding of complex biological processes. Here, we harness 
+differential essentiality to reveal the contributions of the four-subunit 
+centromere-localized CENP-O complex, whose precise function has been difficult 
+to define. Our results support a model in which the CENP-O complex and BUB1 act 
+in parallel pathways to recruit a threshold level of PLK1 to mitotic 
+kinetochores, ensuring accurate chromosome segregation. We demonstrate that 
+targeted changes to either pathway sensitizes cells to the loss of the other 
+component, resulting in cell-state dependent requirements. This approach also 
+highlights the advantage of comparing phenotypes across diverse cell lines to 
+define critical functional contributions and behaviors that could be exploited 
+for the targeted treatment of disease.
+
+DOI: 10.1091/mbc.E20-11-0751
+PMCID: PMC8108507
+PMID: 33596090 [Indexed for MEDLINE]
+
+
+52. Semin Cell Dev Biol. 2021 Sep;117:62-74. doi: 10.1016/j.semcdb.2021.03.008. Epub 
+2021 Mar 19.
+
+Kinetochore assembly throughout the cell cycle.
+
+Navarro AP(1), Cheeseman IM(2).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA; Department of Biology, Massachusetts Institute of Technology, 
+Cambridge, MA 02142, USA.
+(2)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA; Department of Biology, Massachusetts Institute of Technology, 
+Cambridge, MA 02142, USA. Electronic address: icheese@wi.mit.edu.
+
+The kinetochore plays an essential role in facilitating chromosome segregation 
+during cell division. This massive protein complex assembles onto the centromere 
+of chromosomes and enables their attachment to spindle microtubules during 
+mitosis. The kinetochore also functions as a signaling hub to regulate cell 
+cycle progression, and is crucial to ensuring the fidelity of chromosome 
+segregation. Despite the fact that kinetochores are large and robust molecular 
+assemblies, they are also highly dynamic structures that undergo structural and 
+organizational changes throughout the cell cycle. This review will highlight our 
+current understanding of kinetochore structure and function, focusing on the 
+dynamic processes that underlie kinetochore assembly.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.semcdb.2021.03.008
+PMCID: PMC8384650
+PMID: 33753005 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations of interest: none
+
+
+53. Mol Biol Cell. 2008 Feb;19(2):587-94. doi: 10.1091/mbc.e07-10-1051. Epub 2007 
+Nov 28.
+
+KNL1 and the CENP-H/I/K complex coordinately direct kinetochore assembly in 
+vertebrates.
+
+Cheeseman IM(1), Hori T, Fukagawa T, Desai A.
+
+Author information:
+(1)Ludwig Institute for Cancer Research, and Department of Cellular and 
+Molecular Medicine, University of California San Diego, La Jolla, CA 92093, USA. 
+icheese@wi.mit.edu
+
+Chromosome segregation during mitosis requires the assembly of a large 
+proteinaceous structure termed the kinetochore. In Caenorhabditis elegans, KNL-1 
+is required to target multiple outer kinetochore proteins. Here, we demonstrate 
+that the vertebrate KNL1 counterpart is essential for chromosome segregation and 
+is required to localize a subset of outer kinetochore proteins. However, unlike 
+in C. elegans, depletion of vertebrate KNL1 does not abolish kinetochore 
+localization of the microtubule-binding Ndc80 complex. Instead, we show that 
+KNL1 and CENP-K, a subunit of a constitutively centromere-associated complex 
+that is missing from C. elegans, coordinately direct Ndc80 complex localization. 
+Simultaneously reducing both hKNL1 and CENP-K function abolishes all aspects of 
+kinetochore assembly downstream of centromeric chromatin and causes catastrophic 
+chromosome segregation defects. These findings explain discrepancies in 
+kinetochore assembly pathways between different organisms and reveal a 
+surprising plasticity in the assembly mechanism of an essential cell division 
+organelle.
+
+DOI: 10.1091/mbc.e07-10-1051
+PMCID: PMC2230600
+PMID: 18045986 [Indexed for MEDLINE]
+
+
+54. Nat Rev Mol Cell Biol. 2008 Jan;9(1):33-46. doi: 10.1038/nrm2310.
+
+Molecular architecture of the kinetochore-microtubule interface.
+
+Cheeseman IM(1), Desai A.
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, and Department of Biology, 
+Massachusetts Institute of Technology, Nine Cambridge Center, Cambridge, 
+Massachusetts 02142, USA. icheese@wi.mit.edu
+
+Segregation of the replicated genome during cell division in eukaryotes requires 
+the kinetochore to link centromeric DNA to spindle microtubules. The kinetochore 
+is composed of a number of conserved protein complexes that direct its 
+specification and assembly, bind to spindle microtubules and regulate chromosome 
+segregation. Recent studies have identified more than 80 kinetochore components, 
+and are revealing how these proteins are organized into the higher order 
+kinetochore structure, as well as how they function to achieve proper chromosome 
+segregation.
+
+DOI: 10.1038/nrm2310
+PMID: 18097444 [Indexed for MEDLINE]
+
+
+55. J Cell Biol. 2010 Oct 18;191(2):269-80. doi: 10.1083/jcb.201006129. Epub 2010 
+Oct 11.
+
+Aurora B kinase controls the targeting of the Astrin-SKAP complex to bioriented 
+kinetochores.
+
+Schmidt JC(1), Kiyomitsu T, Hori T, Backer CB, Fukagawa T, Cheeseman IM.
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Department of Biology, 
+Massachusetts Institute of Technology, Cambridge, MA 02142, USA.
+
+During mitosis, kinetochores play multiple roles to generate interactions with 
+microtubules, and direct chromosome congression, biorientation, error 
+correction, and anaphase segregation. However, it is unclear what changes at the 
+kinetochore facilitate these distinct activities. Here, we describe a complex of 
+the spindle- and kinetochore-associated protein Astrin, the small 
+kinetochore-associated protein (SKAP), and the dynein light chain LC8. Although 
+most dynein-associated proteins localize to unaligned kinetochores in an Aurora 
+B-dependent manner, Astrin, SKAP, and LC8 localization is antagonized by Aurora 
+B such that they target exclusively to bioriented kinetochores. 
+Astrin-SKAP-depleted cells fail to maintain proper chromosome alignment, 
+resulting in a spindle assembly checkpoint-dependent mitotic delay. Consistent 
+with a role in stabilizing bioriented attachments, Astrin and SKAP bind directly 
+to microtubules and are required for CLASP localization to kinetochores. In 
+total, our results suggest that tension-dependent Aurora B phosphorylation can 
+act to control outer kinetochore composition to provide distinct activities to 
+prometaphase and metaphase kinetochores.
+
+DOI: 10.1083/jcb.201006129
+PMCID: PMC2958477
+PMID: 20937697 [Indexed for MEDLINE]
+
+
+56. Mol Biol Cell. 2012 Dec;23(24):4786-95. doi: 10.1091/mbc.E12-03-0214. Epub 2012 
+Oct 19.
+
+The microtubule-binding protein Cep170 promotes the targeting of the kinesin-13 
+depolymerase Kif2b to the mitotic spindle.
+
+Welburn JP(1), Cheeseman IM.
+
+Author information:
+(1)Whitehead Institute for Biomedical Research and Department of Biology, 
+Massachusetts Institute of Technology, Cambridge, MA 02142, USA. 
+Julie.Welburn@ed.ac.uk
+
+Microtubule dynamics are essential throughout mitosis to ensure correct 
+chromosome segregation. Microtubule depolymerization is controlled in part by 
+microtubule depolymerases, including the kinesin-13 family of proteins. In 
+humans, there are three closely related kinesin-13 isoforms (Kif2a, Kif2b, and 
+Kif2c/MCAK), which are highly conserved in their primary sequences but display 
+distinct localization and nonoverlapping functions. Here we demonstrate that the 
+N-terminus is a primary determinant of kinesin-13 localization. However, we also 
+find that differences in the C-terminus alter the properties of kinesin-13, in 
+part by facilitating unique protein-protein interactions. We identify the 
+spindle-localized proteins Cep170 and Cep170R (KIAA0284) as specifically 
+associating with Kif2b. Cep170 binds to microtubules in vitro and provides Kif2b 
+with a second microtubule-binding site to target it to the spindle. Thus the 
+intrinsic properties of kinesin-13s and extrinsic factors such as their 
+associated proteins result in the diversity and specificity within the 
+kinesin-13 depolymerase family.
+
+DOI: 10.1091/mbc.E12-03-0214
+PMCID: PMC3521686
+PMID: 23087211 [Indexed for MEDLINE]
+
+
+57. Mol Biol Cell. 2015 Jan 15;26(2):229-37. doi: 10.1091/mbc.E14-06-1125. Epub 2014 
+Nov 19.
+
+The outer kinetochore protein KNL-1 contains a defined oligomerization domain in 
+nematodes.
+
+Kern DM(1), Kim T(2), Rigney M(3), Hattersley N(2), Desai A(2), Cheeseman IM(4).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Cambridge, MA 02142 Department 
+of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139.
+(2)Ludwig Institute for Cancer Research, Department of Cellular and Molecular 
+Medicine, University of California at San Diego, La Jolla, CA 92093.
+(3)Howard Hughes Medical Institute, Brandeis University, Waltham, MA 02454.
+(4)Whitehead Institute for Biomedical Research, Cambridge, MA 02142 Department 
+of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139 
+icheese@wi.mit.edu.
+
+The kinetochore is a large, macromolecular assembly that is essential for 
+connecting chromosomes to microtubules during mitosis. Despite the recent 
+identification of multiple kinetochore components, the nature and organization 
+of the higher-order kinetochore structure remain unknown. The outer kinetochore 
+KNL-1/Mis12 complex/Ndc80 complex (KMN) network plays a key role in generating 
+and sensing microtubule attachments. Here we demonstrate that Caenorhabditis 
+elegans KNL-1 exists as an oligomer, and we identify a specific domain in KNL-1 
+responsible for this activity. An N-terminal KNL-1 domain from both C. elegans 
+and the related nematode Caenorhabditis remanei oligomerizes into a decameric 
+assembly that appears roughly circular when visualized by electron microscopy. 
+On the basis of sequence and mutational analysis, we identify a small 
+hydrophobic region as responsible for this oligomerization activity. However, 
+mutants that precisely disrupt KNL-1 oligomerization did not alter KNL-1 
+localization or result in the loss of embryonic viability based on gene 
+replacements in C. elegans. In C. elegans, KNL-1 oligomerization may coordinate 
+with other kinetochore activities to ensure the proper organization, function, 
+and sensory capabilities of the kinetochore-microtubule attachment.
+
+© 2015 Kern et al. This article is distributed by The American Society for Cell 
+Biology under license from the author(s). Two months after publication it is 
+available to the public under an Attribution–Noncommercial–Share Alike 3.0 
+Unported Creative Commons License 
+(http://creativecommons.org/licenses/by-nc-sa/3.0).
+
+DOI: 10.1091/mbc.E14-06-1125
+PMCID: PMC4294671
+PMID: 25411336 [Indexed for MEDLINE]
+
+
+58. Curr Biol. 2017 Dec 4;27(23):3666-3675.e6. doi: 10.1016/j.cub.2017.10.018. Epub 
+2017 Nov 16.
+
+Microtubule Tip Tracking by the Spindle and Kinetochore Protein Ska1 Requires 
+Diverse Tubulin-Interacting Surfaces.
+
+Monda JK(1), Whitney IP(2), Tarasovetc EV(3), Wilson-Kubalek E(4), Milligan 
+RA(4), Grishchuk EL(5), Cheeseman IM(6).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA; Department of Biology, Massachusetts Institute of Technology, 
+Cambridge, MA 02142, USA.
+(2)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA.
+(3)Department of Physiology, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA 19104, USA; Center for Theoretical Problems of 
+Physicochemical Pharmacology, Russian Academy of Sciences, Moscow, Russia.
+(4)Department of Cell Biology, The Scripps Research Institute, La Jolla, CA 
+92037, USA.
+(5)Department of Physiology, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA 19104, USA.
+(6)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA; Department of Biology, Massachusetts Institute of Technology, 
+Cambridge, MA 02142, USA. Electronic address: icheese@wi.mit.edu.
+
+The macromolecular kinetochore functions to generate interactions between 
+chromosomal DNA and spindle microtubules [1]. To facilitate chromosome movement 
+and segregation, kinetochores must maintain associations with both growing and 
+shrinking microtubule ends. It is critical to define the proteins and their 
+properties that allow kinetochores to associate with dynamic microtubules. The 
+kinetochore-localized human Ska1 complex binds to microtubules and tracks with 
+depolymerizing microtubule ends [2]. We now demonstrate that the Ska1 complex 
+also autonomously tracks with growing microtubule ends in vitro, a key property 
+that would allow this complex to act at kinetochores to mediate persistent 
+associations with dynamic microtubules. To define the basis for Ska1 complex 
+interactions with dynamic microtubules, we investigated the tubulin-binding 
+properties of the Ska1 microtubule binding domain. In addition to binding to the 
+microtubule lattice and dolastatin-induced protofilament-like structures, we 
+demonstrate that the Ska1 microtubule binding domain can associate with soluble 
+tubulin heterodimers and promote assembly of oligomeric ring-like tubulin 
+structures. We generated mutations on distinct surfaces of the Ska1 microtubule 
+binding domain that disrupt binding to soluble tubulin but do not prevent 
+microtubule binding. These mutants display compromised microtubule tracking 
+activity in vitro and result in defective chromosome alignment and mitotic 
+progression in cells using a CRISPR/Cas9-based replacement assay. Our work 
+supports a model in which multiple surfaces of Ska1 interact with diverse 
+tubulin substrates to associate with dynamic microtubule polymers and facilitate 
+optimal chromosome segregation.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cub.2017.10.018
+PMCID: PMC5726585
+PMID: 29153323 [Indexed for MEDLINE]
+
+
+59. Dev Cell. 2021 Aug 9;56(15):2192-2206.e8. doi: 10.1016/j.devcel.2021.06.019. 
+Epub 2021 Jul 30.
+
+Separase cleaves the kinetochore protein Meikin at the meiosis I/II transition.
+
+Maier NK(1), Ma J(2), Lampson MA(3), Cheeseman IM(4).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA; Department of Biology, Massachusetts Institute of Technology, 
+Cambridge, MA 02142, USA.
+(2)Department of Biology, School of Arts and Sciences, University of 
+Pennsylvania, Philadelphia, PA 19104, USA.
+(3)Department of Biology, School of Arts and Sciences, University of 
+Pennsylvania, Philadelphia, PA 19104, USA. Electronic address: 
+lampson@sas.upenn.edu.
+(4)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA; Department of Biology, Massachusetts Institute of Technology, 
+Cambridge, MA 02142, USA. Electronic address: icheese@wi.mit.edu.
+
+To generate haploid gametes, germ cells undergo two consecutive meiotic 
+divisions requiring key changes to the cell division machinery. Here, we 
+demonstrate that the protease separase rewires key cell division processes at 
+the meiosis I/II transition by cleaving the meiosis-specific protein Meikin. 
+Separase proteolysis does not inactivate Meikin but instead alters its function 
+to create a distinct activity state. Full-length Meikin and the C-terminal 
+Meikin separase cleavage product both localize to kinetochores, bind to Plk1 
+kinase, and promote Rec8 cleavage, but our results reveal distinct roles for 
+these proteins in controlling meiosis. Mutations that prevent Meikin cleavage or 
+that conditionally inactivate Meikin at anaphase I result in defective meiosis 
+II chromosome alignment in mouse oocytes. Finally, as oocytes exit meiosis, 
+C-Meikin is eliminated by APC/C-mediated degradation prior to the first mitotic 
+division. Thus, multiple regulatory events irreversibly modulate Meikin activity 
+during successive meiotic divisions to rewire the cell division machinery at two 
+distinct transitions.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.devcel.2021.06.019
+PMCID: PMC8355204
+PMID: 34331869 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests I.M.C. is a member of 
+the Editorial Advisory Board for Developmental Cell.
+
+
+60. Nat Cell Biol. 2024 Jan;26(1):45-56. doi: 10.1038/s41556-023-01313-7. Epub 2024 
+Jan 2.
+
+Higher-order protein assembly controls kinetochore formation.
+
+Sissoko GB(#)(1)(2), Tarasovetc EV(#)(3), Marescal O(1)(2), Grishchuk EL(4), 
+Cheeseman IM(5)(6).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Cambridge, MA, USA.
+(2)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, 
+USA.
+(3)Department of Physiology, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA, USA.
+(4)Department of Physiology, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA, USA. gekate@pennmedicine.upenn.edu.
+(5)Whitehead Institute for Biomedical Research, Cambridge, MA, USA. 
+icheese@wi.mit.edu.
+(6)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, 
+USA. icheese@wi.mit.edu.
+(#)Contributed equally
+
+To faithfully segregate chromosomes during vertebrate mitosis, 
+kinetochore-microtubule interactions must be restricted to a single site on each 
+chromosome. Prior work on pair-wise kinetochore protein interactions has been 
+unable to identify the mechanisms that prevent outer kinetochore formation in 
+regions with a low density of CENP-A nucleosomes. To investigate the impact of 
+higher-order assembly on kinetochore formation, we generated oligomers of the 
+inner kinetochore protein CENP-T using two distinct, genetically engineered 
+systems in human cells. Although individual CENP-T molecules interact poorly 
+with outer kinetochore proteins, oligomers that mimic centromeric CENP-T density 
+trigger the robust formation of functional, cytoplasmic kinetochore-like 
+particles. Both in cells and in vitro, each molecule of oligomerized CENP-T 
+recruits substantially higher levels of outer kinetochore components than 
+monomeric CENP-T molecules. Our work suggests that the density dependence of 
+CENP-T restricts outer kinetochore recruitment to centromeres, where densely 
+packed CENP-A recruits a high local concentration of inner kinetochore proteins.
+
+© 2024. The Author(s), under exclusive licence to Springer Nature Limited.
+
+DOI: 10.1038/s41556-023-01313-7
+PMCID: PMC10842828
+PMID: 38168769 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests Statement The authors have 
+no competing interests.
+
+
+61. Curr Opin Cell Biol. 2011 Feb;23(1):102-8. doi: 10.1016/j.ceb.2010.07.007. Epub 
+2010 Aug 9.
+
+Kinetochore assembly: if you build it, they will come.
+
+Gascoigne KE(1), Cheeseman IM.
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, and Department of Biology, 
+Massachusetts Institute of Technology, Nine Cambridge Center, Cambridge, MA 
+02142, United States. karengas@wi.mit.edu
+
+Accurate chromosome segregation requires the interaction of chromosomes with the 
+microtubules from the mitotic spindle. This interaction is mediated by the 
+macro-molecular kinetochore complex, which assembles only at the centromeric 
+region of each chromosome. However, how this site is specified and how assembly 
+of the kinetochore structure is regulated in coordination with cell cycle 
+progression remains unclear. Recent studies have begun to shed light on the 
+mechanisms underlying assembly of this complex structure.
+
+Copyright © 2010 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ceb.2010.07.007
+PMCID: PMC2980799
+PMID: 20702077 [Indexed for MEDLINE]
+
+
+62. Nat Cell Biol. 2012 Feb 12;14(3):311-7. doi: 10.1038/ncb2440.
+
+Chromosome- and spindle-pole-derived signals generate an intrinsic code for 
+spindle position and orientation.
+
+Kiyomitsu T(1), Cheeseman IM.
+
+Author information:
+(1)Whitehead Institute, Nine Cambridge Center, Cambridge, Massachusetts 02142, 
+USA.
+
+Comment in
+    Dev Cell. 2012 Mar 13;22(3):475-6. doi: 10.1016/j.devcel.2012.02.012.
+
+Mitotic spindle positioning by cortical pulling forces defines the cell division 
+axis and location, which is critical for proper cell division and development. 
+Although recent work has identified developmental and extrinsic cues that 
+regulate spindle orientation, the contribution of intrinsic signals to spindle 
+positioning and orientation remains unclear. Here, we demonstrate that cortical 
+force generation in human cells is controlled by distinct spindle-pole- and 
+chromosome-derived signals that regulate cytoplasmic dynein localization. First, 
+dynein exhibits a dynamic asymmetric cortical localization that is negatively 
+regulated by spindle-pole proximity, resulting in spindle oscillations to centre 
+the spindle within the cell. We find that this signal comprises the 
+spindle-pole-localized polo-like kinase (Plk1), which regulates dynein 
+localization by controlling the interaction between dynein-dynactin and its 
+upstream cortical targeting factors NuMA and LGN. Second, a chromosome-derived 
+RanGTP gradient restricts the localization of NuMA-LGN to the lateral cell 
+cortex to define and maintain the spindle orientation axis. RanGTP acts in part 
+through the nuclear localization sequence of NuMA to locally alter the ability 
+of NuMA-LGN to associate with the cell cortex in the vicinity of chromosomes. We 
+propose that these chromosome- and spindle-pole-derived gradients generate an 
+intrinsic code to control spindle position and orientation.
+
+DOI: 10.1038/ncb2440
+PMCID: PMC3290711
+PMID: 22327364 [Indexed for MEDLINE]
+
+
+63. Nat Rev Mol Cell Biol. 2016 Jan;17(1):16-29. doi: 10.1038/nrm.2015.5. Epub 2015 
+Nov 25.
+
+The molecular basis for centromere identity and function.
+
+McKinley KL(1), Cheeseman IM(1).
+
+Author information:
+(1)Whitehead Institute and Department of Biology, MIT, Nine Cambridge Center, 
+Cambridge, Massachusetts 02142, USA.
+
+The centromere is the region of the chromosome that directs its segregation in 
+mitosis and meiosis. Although the functional importance of the centromere has 
+been appreciated for more than 130 years, elucidating the molecular features and 
+properties that enable centromeres to orchestrate chromosome segregation is an 
+ongoing challenge. Most eukaryotic centromeres are defined epigenetically and 
+require the presence of nucleosomes containing the histone H3 variant centromere 
+protein A (CENP-A; also known as CENH3). Ongoing work is providing important 
+molecular insights into the central requirements for centromere identity and 
+propagation, and the mechanisms by which centromeres recruit kinetochores to 
+connect to spindle microtubules.
+
+DOI: 10.1038/nrm.2015.5
+PMCID: PMC8603311
+PMID: 26601620 [Indexed for MEDLINE]
+
+
+64. Mol Cell. 2020 Apr 2;78(1):127-140.e7. doi: 10.1016/j.molcel.2020.01.023. Epub 
+2020 Feb 7.
+
+Cohesin Removal Reprograms Gene Expression upon Mitotic Entry.
+
+Perea-Resa C(1), Bury L(2), Cheeseman IM(2), Blower MD(3).
+
+Author information:
+(1)Department of Molecular Biology, Massachusetts General Hospital, Boston, MA 
+02114, USA; Department of Genetics, Harvard Medical School, Boston, MA 02115, 
+USA.
+(2)Whitehead Institute for Biomedical Research, 455 Main St., Cambridge, MA 
+02142, USA; Department of Biology, Massachusetts Institute of Technology, 
+Cambridge, MA 02142, USA.
+(3)Department of Molecular Biology, Massachusetts General Hospital, Boston, MA 
+02114, USA; Department of Genetics, Harvard Medical School, Boston, MA 02115, 
+USA. Electronic address: blower@molbio.mgh.harvard.edu.
+
+As cells enter mitosis, the genome is restructured to facilitate chromosome 
+segregation, accompanied by dramatic changes in gene expression. However, the 
+mechanisms that underlie mitotic transcriptional regulation are unclear. In 
+contrast to transcribed genes, centromere regions retain transcriptionally 
+active RNA polymerase II (Pol II) in mitosis. Here, we demonstrate that 
+chromatin-bound cohesin is necessary to retain elongating Pol II at centromeres. 
+We find that WAPL-mediated removal of cohesin from chromosome arms during 
+prophase is required for the dissociation of Pol II and nascent transcripts, and 
+failure of this process dramatically alters mitotic gene expression. Removal of 
+cohesin/Pol II from chromosome arms in prophase is important for 
+accurate chromosome segregation and normal activation of gene expression in G1. 
+We propose that prophase cohesin removal is a key step in reprogramming gene 
+expression as cells transition from G2 through mitosis to G1.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.molcel.2020.01.023
+PMCID: PMC7178822
+PMID: 32035037 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests The authors declare no 
+competing interests.
+
+
+65. Mol Biol Cell. 2022 Sep 1;33(10):ar87. doi: 10.1091/mbc.E22-06-0239. Epub 2022 
+Jul 13.
+
+Dynamic cell cycle-dependent phosphorylation modulates CENP-L-CENP-N centromere 
+recruitment.
+
+Navarro AP(1)(2), Cheeseman IM(1)(2).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Cambridge, MA 02142.
+(2)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 
+02142.
+
+The kinetochore is a macromolecular structure that is needed to ensure proper 
+chromosome segregation during each cellular division. The kinetochore is 
+assembled upon a platform of the 16-subunit constitutive centromere-associated 
+network (CCAN), which is present at centromeres throughout the cell cycle. The 
+nature and regulation of CCAN assembly, interactions, and dynamics needed to 
+facilitate changing centromere properties and requirements remain to be fully 
+elucidated. The CENP-LN complex is a CCAN component that displays unique cell 
+cycle-dependent localization behavior, peaking in the S phase. Here, we 
+demonstrate that phosphorylation of CENP-L and CENP-N controls CENP-LN complex 
+formation and localization in a cell cycle-dependent manner. Mimicking 
+constitutive phosphorylation of either CENP-L or CENP-N or simultaneously 
+preventing phosphorylation of both proteins prevents CENP-LN localization and 
+disrupts chromosome segregation. Our work suggests that cycles of 
+phosphorylation and dephosphorylation are critical for CENP-LN complex 
+recruitment and dynamics at kinetochores to enable cell cycle-dependent CCAN 
+reorganization.
+
+DOI: 10.1091/mbc.E22-06-0239
+PMCID: PMC9582625
+PMID: 35830614 [Indexed for MEDLINE]
+
+
+66. Mol Biol Cell. 2022 Oct 1;33(12):ar110. doi: 10.1091/mbc.E22-03-0091. Epub 2022 
+Aug 3.
+
+Identification of a Golgi-localized peptide reveals a minimal Golgi-targeting 
+motif.
+
+Navarro AP(1)(2), Cheeseman IM(1)(2).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Cambridge, MA 02142.
+(2)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 
+02142.
+
+Prior work has identified signal sequences and motifs that are necessary and 
+sufficient to target proteins to specific subcellular regions and organelles 
+such as the plasma membrane, nucleus, endoplasmic reticulum, and mitochondria. 
+In contrast, minimal sequence motifs that are sufficient for Golgi localization 
+remain largely elusive. In this work, we identified a 37-amino acid alternative 
+open reading frame (altORF) within the mRNA of the centromere protein CENP-R. 
+This altORF peptide localizes specifically to the cytoplasmic surface of the 
+Golgi apparatus. Through mutational analysis, we identify a minimal 10-amino 
+acid sequence and a critical cysteine residue that are necessary and sufficient 
+for Golgi localization. Pharmacological perturbations suggest that this peptide 
+undergoes lipid modification to promote its localization. Together, our work 
+defines a minimal sequence that is sufficient for Golgi targeting and provide a 
+valuable Golgi marker for live cell imaging.
+
+DOI: 10.1091/mbc.E22-03-0091
+PMCID: PMC9635300
+PMID: 35921174 [Indexed for MEDLINE]
+
+
+67. J Cell Biol. 2009 Jul 27;186(2):173-82. doi: 10.1083/jcb.200903100. Epub 2009 
+Jul 20.
+
+The CENP-S complex is essential for the stable assembly of outer kinetochore 
+structure.
+
+Amano M(1), Suzuki A, Hori T, Backer C, Okawa K, Cheeseman IM, Fukagawa T.
+
+Author information:
+(1)Department of Molecular Genetics, National Institute of Genetics, The 
+Graduate University for Advanced Studies, Mishima, Shizuoka 411-8540, Japan.
+
+The constitutive centromere-associated network (CCAN) proteins are central to 
+kinetochore assembly. To define the molecular architecture of this critical 
+kinetochore network, we sought to determine the full complement of CCAN 
+components and to define their relationships. This work identified a centromere 
+protein S (CENP-S)-containing subcomplex that includes the new constitutive 
+kinetochore protein CENP-X. Both CENP-S- and CENP-X-deficient chicken DT40 cells 
+are viable but show abnormal mitotic behavior based on live cell analysis. Human 
+HeLa cells depleted for CENP-X also showed mitotic errors. The kinetochore 
+localization of CENP-S and -X is abolished in CENP-T- or CENP-K-deficient cells, 
+but reciprocal experiments using CENP-S-deficient cells did not reveal defects 
+in the localization of CCAN components. However, CENP-S- and CENP-X-deficient 
+cells show a significant reduction in the size of the kinetochore outer plate. 
+In addition, we found that intrakinetochore distance was increased in CENP-S- 
+and CENP-X-deficient cells. These results suggest that the CENP-S complex is 
+essential for the stable assembly of the outer kinetochore.
+
+DOI: 10.1083/jcb.200903100
+PMCID: PMC2717651
+PMID: 19620631 [Indexed for MEDLINE]
+
+
+68. Curr Biol. 2015 Mar 2;25(5):671-7. doi: 10.1016/j.cub.2015.01.059. Epub 2015 Feb 
+5.
+
+Distinct organization and regulation of the outer kinetochore KMN network 
+downstream of CENP-C and CENP-T.
+
+Rago F(1), Gascoigne KE(1), Cheeseman IM(2).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research and Department of Biology, MIT, 
+Nine Cambridge Center, Cambridge, MA 02142, USA.
+(2)Whitehead Institute for Biomedical Research and Department of Biology, MIT, 
+Nine Cambridge Center, Cambridge, MA 02142, USA. Electronic address: 
+icheese@wi.mit.edu.
+
+The kinetochore provides a vital connection between chromosomes and spindle 
+microtubules [1, 2]. Defining the molecular architecture of the core kinetochore 
+components is critical for understanding the mechanisms by which the kinetochore 
+directs chromosome segregation. The KNL1/Mis12 complex/Ndc80 complex (KMN) 
+network acts as the primary microtubule-binding interface at kinetochores [3] 
+and provides a platform to recruit regulatory proteins [4]. Recent work found 
+that the inner kinetochore components CENP-C and CENP-T act in parallel to 
+recruit the KMN network to kinetochores [5-8]. However, due to the presence of 
+these dual pathways, it has not been possible to distinguish differences in the 
+nature of kinetochore assembly downstream of CENP-C or CENP-T. Here, we 
+separated these pathways by targeting CENP-C and CENP-T independently to an 
+ectopic chromosomal locus in human cells. Our work reveals that the organization 
+of the KMN network components downstream of CENP-C and CENP-T is distinct. 
+CENP-C recruits the Ndc80 complex through its interactions with KNL1 and the 
+Mis12 complex. In contrast, CENP-T directly interacts with Ndc80, which in turn 
+promotes KNL1/Mis12 complex recruitment through a separate region on CENP-T, 
+resulting in functional relationships for KMN network localization that are 
+inverted relative to the CENP-C pathway. We also find that distinct regulatory 
+paradigms control the assembly of these pathways, with Aurora B kinase promoting 
+KMN network recruitment to CENP-C and cyclin-dependent kinase (CDK) regulating 
+KMN network recruitment to CENP-T. This work reveals unexpected complexity for 
+the architecture and regulation of the core components of the 
+kinetochore-microtubule interface.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cub.2015.01.059
+PMCID: PMC4348146
+PMID: 25660545 [Indexed for MEDLINE]
+
+
+69. Curr Biol. 2019 Jan 7;29(1):104-119.e10. doi: 10.1016/j.cub.2018.11.054. Epub 
+2018 Dec 27.
+
+Ectopic Activation of the Spindle Assembly Checkpoint Signaling Cascade Reveals 
+Its Biochemical Design.
+
+Chen C(1), Whitney IP(2), Banerjee A(3), Sacristan C(4), Sekhri P(5), Kern 
+DM(2), Fontan A(5), Kops GJPL(4), Tyson JJ(3), Cheeseman IM(2), Joglekar AP(6).
+
+Author information:
+(1)Department of Biophysics, University of Michigan, Ann Arbor, MI 48109, USA.
+(2)Whitehead Institute for Biomedical Research and Department of Biology, MIT, 
+Nine Cambridge Center, Cambridge, MA 02142, USA.
+(3)Department of Biological Sciences, Virginia Polytechnic Institute & State 
+University, Blacksburg, VA 24061, USA.
+(4)Hubrecht Institute - KNAW (Royal Netherlands Academy of Arts and Sciences), 
+and Molecular Cancer Research, University Medical Center Utrecht, Utrecht, the 
+Netherlands.
+(5)Cell & Developmental Biology, University of Michigan Medical School, Ann 
+Arbor, MI 48109, USA.
+(6)Department of Biophysics, University of Michigan, Ann Arbor, MI 48109, USA; 
+Cell & Developmental Biology, University of Michigan Medical School, Ann Arbor, 
+MI 48109, USA. Electronic address: ajitj@umich.edu.
+
+Switch-like activation of the spindle assembly checkpoint (SAC) is critical for 
+accurate chromosome segregation and for cell division in a timely manner. To 
+determine the mechanisms that achieve this, we engineered an ectopic, 
+kinetochore-independent SAC activator: the "eSAC." The eSAC stimulates SAC 
+signaling by artificially dimerizing Mps1 kinase domain and a cytosolic KNL1 
+phosphodomain, the kinetochore signaling scaffold. By exploiting variable eSAC 
+expression in a cell population, we defined the dependence of the eSAC-induced 
+mitotic delay on eSAC concentration in a cell to reveal the dose-response 
+behavior of the core signaling cascade of the SAC. These quantitative analyses 
+and subsequent mathematical modeling of the dose-response data uncover two 
+crucial properties of the core SAC signaling cascade: (1) a cellular limit on 
+the maximum anaphase-inhibitory signal that the cascade can generate due to the 
+limited supply of SAC proteins and (2) the ability of the KNL1 phosphodomain to 
+produce the anaphase-inhibitory signal synergistically, when it recruits 
+multiple SAC proteins simultaneously. We propose that these properties together 
+achieve inverse, non-linear scaling between the signal output per kinetochore 
+and the number of signaling kinetochores. When the number of kinetochores is 
+low, synergistic signaling by KNL1 enables each kinetochore to produce a 
+disproportionately strong signal output. However, when many kinetochores signal 
+concurrently, they compete for a limited supply of SAC proteins. This frustrates 
+synergistic signaling and lowers their signal output. Thus, the signaling 
+activity of unattached kinetochores will adapt to the changing number of 
+signaling kinetochores to enable the SAC to approximate switch-like behavior.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cub.2018.11.054
+PMCID: PMC6324986
+PMID: 30595520 [Indexed for MEDLINE]
+
+
+70. Curr Biol. 2020 Feb 24;30(4):R174-R177. doi: 10.1016/j.cub.2019.12.058.
+
+Chromosome Segregation: Evolving a Plastic Chromosome-Microtubule Interface.
+
+Navarro AP(1), Cheeseman IM(2).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, and Department of Biology, 
+Massachusetts Institute of Technology, 455 Main Street, Cambridge, MA 02142, 
+USA.
+(2)Whitehead Institute for Biomedical Research, and Department of Biology, 
+Massachusetts Institute of Technology, 455 Main Street, Cambridge, MA 02142, 
+USA. Electronic address: icheese@wi.mit.edu.
+
+Comment on
+    Curr Biol. 2020 Feb 24;30(4):561-572.e10. doi: 10.1016/j.cub.2019.12.014.
+
+Despite a conserved requirement in mediating chromosome segregation, 
+kinetochores display remarkable plasticity in their structure and composition. 
+New work in holocentric insect species highlights the molecular rewiring that 
+occurs when key structural components of the kinetochore are lost and centromere 
+structure is changed.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cub.2019.12.058
+PMID: 32097646 [Indexed for MEDLINE]
+
+
+71. Mol Biol Cell. 2021 Jun 15;32(13):1241-1255. doi: 10.1091/mbc.E20-07-0461. Epub 
+2021 May 6.
+
+Permitted and restricted steps of human kinetochore assembly in mitotic cell 
+extracts.
+
+Tarasovetc EV(1), Allu PK(2), Wimbish RT(3), DeLuca JG(3), Cheeseman IM(4), 
+Black BE(2), Grishchuk EL(1).
+
+Author information:
+(1)Department of Physiology, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA 19104.
+(2)Department of Biochemistry and Biophysics, Penn Center for Genome Integrity, 
+Epigenetics Institute, Perelman School of Medicine, University of Pennsylvania, 
+Philadelphia, PA 19104.
+(3)Department of Biochemistry and Molecular Biology, Colorado State University, 
+Fort Collins, CO 80523.
+(4)Whitehead Institute for Biomedical Research, Cambridge, MA 02142.
+
+Mitotic kinetochores assemble via the hierarchical recruitment of numerous 
+cytosolic components to the centromere region of each chromosome. However, how 
+these orderly and localized interactions are achieved without spurious 
+macromolecular assemblies forming from soluble kinetochore components in the 
+cell cytosol remains poorly understood. We developed assembly assays to monitor 
+the recruitment of green fluorescent protein-tagged recombinant proteins and 
+native proteins from human cell extracts to inner kinetochore components 
+immobilized on microbeads. In contrast to prior work in yeast and Xenopus egg 
+extracts, we find that human mitotic cell extracts fail to support de novo 
+assembly of microtubule-binding subcomplexes. A subset of interactions, such as 
+those between CENP-A-containing nucleosomes and CENP-C, are permissive under 
+these conditions. However, the subsequent phospho-dependent binding of the Mis12 
+complex is less efficient, whereas recruitment of the Ndc80 complex is blocked, 
+leading to weak microtubule-binding activity of assembled particles. Using 
+molecular variants of the Ndc80 complex, we show that auto-inhibition of native 
+Ndc80 complex restricts its ability to bind to the CENP-T/W complex, whereas 
+inhibition of the Ndc80 microtubule binding is driven by a different mechanism. 
+Together, our work reveals regulatory mechanisms that guard against the spurious 
+formation of cytosolic microtubule-binding kinetochore particles.
+
+DOI: 10.1091/mbc.E20-07-0461
+PMCID: PMC8351545
+PMID: 33956511 [Indexed for MEDLINE]
+
+
+72. Cold Spring Harb Perspect Biol. 2014 Jul 1;6(7):a015826. doi: 
+10.1101/cshperspect.a015826.
+
+The kinetochore.
+
+Cheeseman IM(1).
+
+Author information:
+(1)Whitehead Institute and Department of Biology, MIT Nine Cambridge Center, 
+Cambridge, Massachusetts 02142.
+
+A critical requirement for mitosis is the distribution of genetic material to 
+the two daughter cells. The central player in this process is the macromolecular 
+kinetochore structure, which binds to both chromosomal DNA and spindle 
+microtubule polymers to direct chromosome alignment and segregation. This review 
+will discuss the key kinetochore activities required for mitotic chromosome 
+segregation, including the recognition of a specific site on each chromosome, 
+kinetochore assembly and the formation of kinetochore-microtubule connections, 
+the generation of force to drive chromosome segregation, and the regulation of 
+kinetochore function to ensure that chromosome segregation occurs with high 
+fidelity.
+
+Copyright © 2014 Cold Spring Harbor Laboratory Press; all rights reserved.
+
+DOI: 10.1101/cshperspect.a015826
+PMCID: PMC4067989
+PMID: 24984773 [Indexed for MEDLINE]
+
+
+73. Curr Biol. 2015 Jul 20;25(14):R601-3. doi: 10.1016/j.cub.2015.05.056.
+
+Chromosome Segregation: A Spatial Code to Correct Kinetochore-Microtubule 
+Attachments.
+
+Monda JK(1), Cheeseman IM(2).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Cambridge, MA, USA; Department 
+of Biology, MIT, Nine Cambridge Center, Cambridge, MA 02142, USA.
+(2)Whitehead Institute for Biomedical Research, Cambridge, MA, USA; Department 
+of Biology, MIT, Nine Cambridge Center, Cambridge, MA 02142, USA. Electronic 
+address: icheese@wi.mit.edu.
+
+Comment on
+    Curr Biol. 2015 Jul 20;25(14):1835-41. doi: 10.1016/j.cub.2015.05.013.
+    Curr Biol. 2015 Jul 20;25(14):1842-51. doi: 10.1016/j.cub.2015.06.021.
+
+Erroneous kinetochore-microtubule interactions must be detected and corrected 
+before a cell enters anaphase to prevent chromosome mis-segregation. Two new 
+studies describe an Aurora A-mediated error correction mechanism based on the 
+spatial position of a chromosome within the mitotic spindle.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cub.2015.05.056
+PMID: 26196485 [Indexed for MEDLINE]
+
+
+74. Open Biol. 2018 Sep 26;8(9):180095. doi: 10.1098/rsob.180095.
+
+Dynamic regulation of dynein localization revealed by small molecule inhibitors 
+of ubiquitination enzymes.
+
+Monda JK(1)(2), Cheeseman IM(3)(2).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA.
+(2)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 
+02142, USA.
+(3)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142, USA icheese@wi.mit.edu.
+
+Cytoplasmic dynein is a minus-end-directed microtubule-based motor that acts at 
+diverse subcellular sites. During mitosis, dynein localizes simultaneously to 
+the mitotic spindle, spindle poles, kinetochores and the cell cortex. However, 
+it is unclear what controls the relative targeting of dynein to these locations. 
+As dynein is heavily post-translationally modified, we sought to test a role for 
+these modifications in regulating dynein localization. We find that dynein 
+rapidly and strongly accumulates at mitotic spindle poles following treatment 
+with NSC697923, a small molecule that inhibits the ubiquitin E2 enzyme, Ubc13, 
+or treatment with PYR-41, a ubiquitin E1 inhibitor. Subsets of dynein regulators 
+such as Lis1, ZW10 and Spindly accumulate at the spindle poles, whereas others 
+do not, suggesting that NSC697923 differentially affects specific dynein 
+populations. We additionally find that dynein relocalization induced by 
+NSC697923 or PYR-41 can be suppressed by simultaneous treatment with the 
+non-selective deubiquitinase inhibitor, PR-619. However, we did not observe 
+altered dynein localization following treatment with the selective E1 inhibitor, 
+TAK-243. Although it is possible that off-target effects of NSC697923 and PYR-41 
+are responsible for the observed changes in dynein localization, the rapid 
+relocalization upon drug treatment highlights the highly dynamic nature of 
+dynein regulation during mitosis.
+
+© 2018 The Authors.
+
+DOI: 10.1098/rsob.180095
+PMCID: PMC6170511
+PMID: 30257893 [Indexed for MEDLINE]
+
+Conflict of interest statement: We have no competing interests.
+
+
+75. Curr Biol. 2012 Oct 9;22(19):R842-4. doi: 10.1016/j.cub.2012.08.001.
+
+Kinetochore structure: pulling answers from yeast.
+
+Kern DM(1), Cheeseman IM.
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, and Department of Biology, 
+Massachusetts Institute of Technology, Cambridge, MA 02142, USA.
+
+Comment on
+    Nat Struct Mol Biol. 2012 Sep;19(9):925-9. doi: 10.1038/nsmb.2358.
+
+Despite the identification of multiple kinetochore proteins, their structure 
+and organization has remained unclear. New work uses electron microscopy 
+to visualize isolated budding yeast kinetochore particles and reveal the 
+kinetochore structure on microtubules.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cub.2012.08.001
+PMID: 23058804 [Indexed for MEDLINE]
+
+
+76. Dev Biol. 2010 Jan 1;337(1):148-56. doi: 10.1016/j.ydbio.2009.10.025. Epub 2009 
+Oct 21.
+
+The Zn finger protein Iguana impacts Hedgehog signaling by promoting 
+ciliogenesis.
+
+Glazer AM(1), Wilkinson AW, Backer CB, Lapan SW, Gutzman JH, Cheeseman IM, 
+Reddien PW.
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, 9 Cambridge Center, Cambridge, 
+MA 02142, USA.
+
+Hedgehog signaling is critical for metazoan development and requires cilia for 
+pathway activity. The gene iguana was discovered in zebrafish as required for 
+Hedgehog signaling, and encodes a novel Zn finger protein. Planarians are 
+flatworms with robust regenerative capacities and utilize epidermal cilia for 
+locomotion. RNA interference of Smed-iguana in the planarian Schmidtea 
+mediterranea caused cilia loss and failure to regenerate new cilia, but did not 
+cause defects similar to those observed in hedgehog(RNAi) animals. Smed-iguana 
+gene expression was also similar in pattern to the expression of multiple other 
+ciliogenesis genes, but was not required for expression of these ciliogenesis 
+genes. iguana-defective zebrafish had too few motile cilia in pronephric ducts 
+and in Kupffer's vesicle. Kupffer's vesicle promotes left-right asymmetry and 
+iguana mutant embryos had left-right asymmetry defects. Finally, human Iguana 
+proteins (dZIP1 and dZIP1L) localize to the basal bodies of primary cilia and, 
+together, are required for primary cilia formation. Our results indicate that a 
+critical and broadly conserved function for Iguana is in ciliogenesis and that 
+this function has come to be required for Hedgehog signaling in vertebrates.
+
+DOI: 10.1016/j.ydbio.2009.10.025
+PMCID: PMC2799895
+PMID: 19852954 [Indexed for MEDLINE]
+
+
+77. Nat Commun. 2019 Jul 22;10(1):3262. doi: 10.1038/s41467-019-11194-w.
+
+The AAA + ATPase TorsinA polymerizes into hollow helical tubes with 8.5 subunits 
+per turn.
+
+Demircioglu FE(1), Zheng W(2), McQuown AJ(3), Maier NK(1)(4), Watson N(5), 
+Cheeseman IM(1)(4), Denic V(3), Egelman EH(2), Schwartz TU(6).
+
+Author information:
+(1)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, 
+02139, USA.
+(2)Department of Biochemistry and Molecular Genetics, University of Virginia, 
+Charlottesville, VA, 22908, USA.
+(3)Department of Molecular and Cellular Biology, Harvard University, Cambridge, 
+MA, 02138, USA.
+(4)Whitehead Institute for Biomedical Research, Cambridge, MA, 02142, USA.
+(5)W. M. Keck Microscopy Facility, The Whitehead Institute, Cambridge, MA, 
+02142, USA.
+(6)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, 
+02139, USA. tus@mit.edu.
+
+TorsinA is an ER-resident AAA + ATPase, whose deletion of glutamate E303 results 
+in the genetic neuromuscular disease primary dystonia. TorsinA is an unusual 
+AAA + ATPase that needs an external activator. Also, it likely does not thread a 
+peptide substrate through a narrow central channel, in contrast to its closest 
+structural homologs. Here, we examined the oligomerization of TorsinA to get 
+closer to a molecular understanding of its still enigmatic function. We observe 
+TorsinA to form helical filaments, which we analyzed by cryo-electron microscopy 
+using helical reconstruction. The 4.4 Å structure reveals long hollow tubes with 
+a helical periodicity of 8.5 subunits per turn, and an inner channel of ~ 4 nm 
+diameter. We further show that the protein is able to induce tubulation of 
+membranes in vitro, an observation that may reflect an entirely new 
+characteristic of AAA + ATPases. We discuss the implications of these 
+observations for TorsinA function.
+
+DOI: 10.1038/s41467-019-11194-w
+PMCID: PMC6646356
+PMID: 31332180 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+78. J Cell Biol. 2010 Mar 22;188(6):809-20. doi: 10.1083/jcb.201001006. Epub 2010 
+Mar 15.
+
+Regulated targeting of protein phosphatase 1 to the outer kinetochore by KNL1 
+opposes Aurora B kinase.
+
+Liu D(1), Vleugel M, Backer CB, Hori T, Fukagawa T, Cheeseman IM, Lampson MA.
+
+Author information:
+(1)Department of Biology, University of Pennsylvania, Philadelphia, PA 19104, 
+USA.
+
+Comment in
+    J Cell Biol. 2012 Aug 20;198(4):477-9. doi: 10.1083/jcb.201207145.
+
+Regulated interactions between kinetochores and spindle microtubules are 
+essential to maintain genomic stability during chromosome segregation. The 
+Aurora B kinase phosphorylates kinetochore substrates to destabilize 
+kinetochore-microtubule interactions and eliminate incorrect attachments. These 
+substrates must be dephosphorylated to stabilize correct attachments, but how 
+opposing kinase and phosphatase activities are coordinated at the kinetochore is 
+unknown. Here, we demonstrate that a conserved motif in the kinetochore protein 
+KNL1 directly interacts with and targets protein phosphatase 1 (PP1) to the 
+outer kinetochore. PP1 recruitment by KNL1 is required to dephosphorylate Aurora 
+B substrates at kinetochores and stabilize microtubule attachments. PP1 levels 
+at kinetochores are regulated and inversely proportional to local Aurora B 
+activity. Indeed, we demonstrate that phosphorylation of KNL1 by Aurora B 
+disrupts the KNL1-PP1 interaction. In total, our results support a positive 
+feedback mechanism by which Aurora B activity at kinetochores not only targets 
+substrates directly, but also prevents localization of the opposing phosphatase.
+
+DOI: 10.1083/jcb.201001006
+PMCID: PMC2845083
+PMID: 20231380 [Indexed for MEDLINE]
+
+
+79. Nature. 2023 May;617(7959):154-161. doi: 10.1038/s41586-023-05943-7. Epub 2023 
+Apr 26.
+
+Alternative CDC20 translational isoforms tune mitotic arrest duration.
+
+Tsang MJ(1)(2), Cheeseman IM(3)(4).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Cambridge, MA, USA.
+(2)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, 
+USA.
+(3)Whitehead Institute for Biomedical Research, Cambridge, MA, USA. 
+icheese@wi.mit.edu.
+(4)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, 
+USA. icheese@wi.mit.edu.
+
+Comment in
+    Nature. 2023 May;617(7959):39-40. doi: 10.1038/d41586-023-01355-9.
+
+Mitotic defects activate the spindle-assembly checkpoint, which inhibits the 
+anaphase-promoting complex co-activator CDC20 to induce a prolonged cell cycle 
+arrest1,2. Once errors are corrected, the spindle-assembly checkpoint is 
+silenced, allowing anaphase onset to occur. However, in the presence of 
+persistent unresolvable errors, cells can undergo 'mitotic slippage', exiting 
+mitosis into a tetraploid G1 state and escaping the cell death that results from 
+a prolonged arrest. The molecular logic that enables cells to balance these 
+duelling mitotic arrest and slippage behaviours remains unclear. Here we 
+demonstrate that human cells modulate the duration of their mitotic arrest 
+through the presence of conserved, alternative CDC20 translational isoforms. 
+Downstream translation initiation results in a truncated CDC20 isoform that is 
+resistant to spindle-assembly-checkpoint-mediated inhibition and promotes 
+mitotic exit even in the presence of mitotic perturbations. Our study supports a 
+model in which the relative levels of CDC20 translational isoforms control the 
+duration of mitotic arrest. During a prolonged mitotic arrest, new protein 
+synthesis and differential CDC20 isoform turnover create a timer, with mitotic 
+exit occurring once the truncated Met43 isoform achieves sufficient levels. 
+Targeted molecular changes or naturally occurring cancer mutations that alter 
+CDC20 isoform ratios or its translational control modulate mitotic arrest 
+duration and anti-mitotic drug sensitivity, with potential implications for the 
+diagnosis and treatment of human cancers.
+
+© 2023. The Author(s), under exclusive licence to Springer Nature Limited.
+
+DOI: 10.1038/s41586-023-05943-7
+PMCID: PMC10461078
+PMID: 37100900 [Indexed for MEDLINE]
+
+
+80. Curr Biol. 2018 Nov 5;28(21):3422-3429.e5. doi: 10.1016/j.cub.2018.10.006. Epub 
+2018 Oct 25.
+
+Distinct Roles of RZZ and Bub1-KNL1 in Mitotic Checkpoint Signaling and 
+Kinetochore Expansion.
+
+Rodriguez-Rodriguez JA(1), Lewis C(1), McKinley KL(2), Sikirzhytski V(3), Corona 
+J(1), Maciejowski J(1), Khodjakov A(3), Cheeseman IM(2), Jallepalli PV(4).
+
+Author information:
+(1)Molecular Biology Program, Sloan Kettering Institute, Memorial Sloan 
+Kettering Cancer Center, New York, NY, 10065, USA.
+(2)Whitehead Institute for Biomedical Research, 9 Cambridge Center, Cambridge, 
+MA 02142, USA; Department of Biology, Massachusetts Institute of Technology, 
+Cambridge, MA 02142, USA.
+(3)Wadsworth Center, New York State Department of Health, Albany, NY 12201, USA; 
+Rensselaer Polytechnic Institute, Troy, NY 12180, USA.
+(4)Molecular Biology Program, Sloan Kettering Institute, Memorial Sloan 
+Kettering Cancer Center, New York, NY, 10065, USA. Electronic address: 
+jallepap@mskcc.org.
+
+Comment in
+    Curr Biol. 2018 Nov 5;28(21):R1250-R1252. doi: 10.1016/j.cub.2018.10.001.
+
+The Mad1-Mad2 heterodimer is the catalytic hub of the spindle assembly 
+checkpoint (SAC), which controls M phase progression through a multi-subunit 
+anaphase inhibitor, the mitotic checkpoint complex (MCC) [1, 2]. During 
+interphase, Mad1-Mad2 generates MCC at nuclear pores [3]. After nuclear envelope 
+breakdown (NEBD), kinetochore-associated Mad1-Mad2 catalyzes MCC assembly until 
+all chromosomes achieve bipolar attachment [1, 2]. Mad1-Mad2 and other factors 
+are also incorporated into the fibrous corona, a phospho-dependent expansion of 
+the outer kinetochore that precedes microtubule attachment [4-6]. The factor(s) 
+involved in targeting Mad1-Mad2 to kinetochores in higher eukaryotes remain 
+controversial [7-12], and the specific phosphorylation event(s) that trigger 
+corona formation remain elusive [5, 13]. We used genome editing to eliminate 
+Bub1, KNL1, and the Rod-Zw10-Zwilch (RZZ) complex in human cells. We show that 
+RZZ's sole role in SAC activation is to tether Mad1-Mad2 to kinetochores. 
+Separately, Mps1 kinase triggers fibrous corona formation by phosphorylating two 
+N-terminal sites on Rod. In contrast, Bub1 and KNL1 activate kinetochore-bound 
+Mad1-Mad2 to produce a "wait anaphase" signal but are not required for corona 
+formation. We also show that clonal lines isolated after BUB1 disruption recover 
+Bub1 expression and SAC function through nonsense-associated alternative 
+splicing (NAS). Our study reveals a fundamental division of labor in the 
+mammalian SAC and highlights a transcriptional response to nonsense mutations 
+that can reduce or eliminate penetrance in genome editing experiments.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cub.2018.10.006
+PMCID: PMC6522255
+PMID: 30415700 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests The authors declare no 
+competing interests.
+
+
+81. Chromosome Res. 2013 Jul;21(4):407-18. doi: 10.1007/s10577-013-9368-6. Epub 2013 
+Jun 22.
+
+Induced dicentric chromosome formation promotes genomic rearrangements and 
+tumorigenesis.
+
+Gascoigne KE(1), Cheeseman IM.
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Nine Cambridge Center, 
+Cambridge, MA 02142, USA.
+
+Chromosomal rearrangements can radically alter gene products and their function, 
+driving tumor formation or progression. However, the molecular origins and 
+evolution of such rearrangements are varied and poorly understood, with cancer 
+cells often containing multiple, complex rearrangements. One mechanism that can 
+lead to genomic rearrangements is the formation of a "dicentric" chromosome 
+containing two functional centromeres. Indeed, such dicentric chromosomes have 
+been observed in cancer cells. Here, we tested the ability of a single dicentric 
+chromosome to contribute to genomic instability and neoplastic conversion in 
+vertebrate cells. We developed a system to transiently and reversibly induce 
+dicentric chromosome formation on a single chromosome with high temporal 
+control. We find that induced dicentric chromosomes are frequently damaged and 
+mis-segregated during mitosis, and that this leads to extensive chromosomal 
+rearrangements including translocations with other chromosomes. Populations of 
+pre-neoplastic cells in which a single dicentric chromosome is induced acquire 
+extensive genomic instability and display hallmarks of cellular transformation 
+including anchorage-independent growth in soft agar. Our results suggest that a 
+single dicentric chromosome could contribute to tumor initiation.
+
+DOI: 10.1007/s10577-013-9368-6
+PMCID: PMC3713265
+PMID: 23793898 [Indexed for MEDLINE]
+
+
+82. Curr Biol. 2021 Dec 20;31(24):5633-5641.e4. doi: 10.1016/j.cub.2021.10.022. Epub 
+2021 Nov 4.
+
+Polarized Dishevelled dissolution and reassembly drives embryonic axis 
+specification in sea star oocytes.
+
+Swartz SZ(1), Tan TH(2), Perillo M(3), Fakhri N(2), Wessel GM(3), Wikramanayake 
+AH(4), Cheeseman IM(5).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Cambridge, MA 02142, USA; 
+Embryology Course: Concepts and Techniques in Modern Developmental Biology, 
+Marine Biological Laboratory, Woods Hole, MA 02543, USA. Electronic address: 
+szs@wi.mit.edu.
+(2)Massachusetts Institute of Technology, Department of Physics, Cambridge, MA 
+02142, USA.
+(3)MCB Department, Brown University, Providence, RI 02912, USA.
+(4)Department of Biology, University of Miami, Coral Gables, FL 33134, USA; 
+Embryology Course: Concepts and Techniques in Modern Developmental Biology, 
+Marine Biological Laboratory, Woods Hole, MA 02543, USA.
+(5)Whitehead Institute for Biomedical Research, Cambridge, MA 02142, USA. 
+Electronic address: icheese@wi.mit.edu.
+
+Comment in
+    Curr Biol. 2021 Dec 20;31(24):R1582-R1585. doi: 10.1016/j.cub.2021.10.060.
+
+The organismal body axes that are formed during embryogenesis are intimately 
+linked to intrinsic asymmetries established at the cellular scale in oocytes.1 
+However, the mechanisms that generate cellular asymmetries within the oocyte and 
+then transduce that polarity to organismal scale body axes are poorly understood 
+outside of select model organisms. Here, we report an axis-defining event in 
+meiotic oocytes of the sea star Patiria miniata. Dishevelled (Dvl) is a 
+cytoplasmic Wnt pathway effector required for axis development in diverse 
+species,2-4 but the mechanisms governing its function and distribution remain 
+poorly defined. Using time-lapse imaging, we find that Dvl localizes uniformly 
+to puncta throughout the cell cortex in Prophase I-arrested oocytes but becomes 
+enriched at the vegetal pole following meiotic resumption through a 
+dissolution-reassembly mechanism. This process is driven by an initial 
+disassembly phase of Dvl puncta, followed by selective reformation of Dvl 
+assemblies at the vegetal pole. Rather than being driven by Wnt signaling, this 
+localization behavior is coupled to meiotic cell cycle progression and 
+influenced by Lamp1+ endosome association and Frizzled receptors pre-localized 
+within the oocyte cortex. Our results reveal a cell cycle-linked mechanism by 
+which maternal cellular polarity is transduced to the embryo through spatially 
+regulated Dvl dynamics.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cub.2021.10.022
+PMCID: PMC8692449
+PMID: 34739818 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests I.M.C. is a member of 
+the Editorial Advisory Board for Current Biology.
+
+
+83. Cell. 2006 Dec 1;127(5):983-97. doi: 10.1016/j.cell.2006.09.039.
+
+The conserved KMN network constitutes the core microtubule-binding site of the 
+kinetochore.
+
+Cheeseman IM(1), Chappie JS, Wilson-Kubalek EM, Desai A.
+
+Author information:
+(1)Ludwig Institute for Cancer Research, Department of Cellular and Molecular 
+Medicine (UCSD), CMM-East, Room 3052, La Jolla, CA 92093, USA. 
+icheeseman@ucsd.edu
+
+The microtubule-binding interface of the kinetochore is of central importance in 
+chromosome segregation. Although kinetochore components that stabilize, 
+translocate on, and affect the polymerization state of microtubules have been 
+identified, none have proven essential for kinetochore-microtubule interactions. 
+Here, we examined the conserved KNL-1/Mis12 complex/Ndc80 complex (KMN) network, 
+which is essential for kinetochore-microtubule interactions in vivo. We 
+identified two distinct microtubule-binding activities within the KMN network: 
+one associated with the Ndc80/Nuf2 subunits of the Ndc80 complex, and a second 
+in KNL-1. Formation of the complete KMN network, which additionally requires the 
+Mis12 complex and the Spc24/Spc25 subunits of the Ndc80 complex, synergistically 
+enhances microtubule-binding activity. Phosphorylation by Aurora B, which 
+corrects improper kinetochore-microtubule connections in vivo, reduces the 
+affinity of the Ndc80 complex for microtubules in vitro. Based on these 
+findings, we propose that the conserved KMN network constitutes the core 
+microtubule-binding site of the kinetochore.
+
+DOI: 10.1016/j.cell.2006.09.039
+PMID: 17129783 [Indexed for MEDLINE]
+
+
+84. Elife. 2021 Aug 3;10:e70588. doi: 10.7554/eLife.70588.
+
+Selective dephosphorylation by PP2A-B55 directs the meiosis I-meiosis II 
+transition in oocytes.
+
+Swartz SZ(1)(2), Nguyen HT(3), McEwan BC(3), Adamo ME(4), Cheeseman IM(1)(2), 
+Kettenbach AN(3)(4).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, Cambridge, United States.
+(2)Department of Biology, Massachusetts Institute of Technology, Cambridge, 
+United States.
+(3)Department of Biochemistry and Cell Biology, Geisel School of Medicine at 
+Dartmouth, Hanover, United States.
+(4)Norris Cotton Cancer Center, Geisel School of Medicine at Dartmouth, Lebanon, 
+United States.
+
+Meiosis is a specialized cell cycle that requires sequential changes to the cell 
+division machinery to facilitate changing functions. To define the mechanisms 
+that enable the oocyte-to-embryo transition, we performed time-course proteomics 
+in synchronized sea star oocytes from prophase I through the first embryonic 
+cleavage. Although we found that protein levels were broadly stable, our 
+analysis reveals that dynamic waves of phosphorylation underlie each meiotic 
+stage. We found that the phosphatase PP2A-B55 is reactivated at the meiosis 
+I/meiosis II (MI/MII) transition, resulting in the preferential 
+dephosphorylation of threonine residues. Selective dephosphorylation is critical 
+for directing the MI/MII transition as altering PP2A-B55 substrate preferences 
+disrupts key cell cycle events after MI. In addition, threonine to serine 
+substitution of a conserved phosphorylation site in the substrate INCENP 
+prevents its relocalization at anaphase I. Thus, through its inherent 
+phospho-threonine preference, PP2A-B55 imposes specific phosphoregulated 
+behaviors that distinguish the two meiotic divisions.
+
+© 2021, Swartz et al.
+
+DOI: 10.7554/eLife.70588
+PMCID: PMC8370769
+PMID: 34342579 [Indexed for MEDLINE]
+
+Conflict of interest statement: SS, HN, BM, MA, IC, AK No competing interests 
+declared
+
+
+85. Cell. 2008 Oct 17;135(2):322-33. doi: 10.1016/j.cell.2008.08.038.
+
+Fibrils connect microtubule tips with kinetochores: a mechanism to couple 
+tubulin dynamics to chromosome motion.
+
+McIntosh JR(1), Grishchuk EL, Morphew MK, Efremov AK, Zhudenkov K, Volkov VA, 
+Cheeseman IM, Desai A, Mastronarde DN, Ataullakhanov FI.
+
+Author information:
+(1)Department of M.C.D. Biology, University of Colorado, Boulder, CO 80309-0347, 
+USA. richard.mcintosh@colorado.edu
+
+Comment in
+    Cell. 2008 Oct 17;135(2):211-3. doi: 10.1016/j.cell.2008.10.001.
+
+Kinetochores of mitotic chromosomes are coupled to spindle microtubules in ways 
+that allow the energy from tubulin dynamics to drive chromosome motion. Most 
+kinetochore-associated microtubule ends display curving "protofilaments," 
+strands of tubulin dimers that bend away from the microtubule axis. Both a 
+kinetochore "plate" and an encircling, ring-shaped protein complex have been 
+proposed to link protofilament bending to poleward chromosome motion. Here we 
+show by electron tomography that slender fibrils connect curved protofilaments 
+directly to the inner kinetochore. Fibril-protofilament associations correlate 
+with a local straightening of the flared protofilaments. Theoretical analysis 
+reveals that protofilament-fibril connections would be efficient couplers for 
+chromosome motion, and experimental work on two very different kinetochore 
+components suggests that filamentous proteins can couple shortening microtubules 
+to cargo movements. These analyses define a ring-independent mechanism for 
+harnessing microtubule dynamics directly to chromosome movement.
+
+DOI: 10.1016/j.cell.2008.08.038
+PMCID: PMC2746696
+PMID: 18957206 [Indexed for MEDLINE]
+
+
+86. Curr Biol. 2011 Feb 8;21(3):R110-2. doi: 10.1016/j.cub.2010.12.030.
+
+Chromosome segregation: keeping kinetochores in the loop.
+
+Schmidt JC(1), Cheeseman IM.
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, and Department of Biology, 
+Massachusetts Institute of Technology, Nine Cambridge Center, Cambridge, MA 
+02142, USA.
+
+Comment on
+    Curr Biol. 2011 Feb 8;21(3):207-13. doi: 10.1016/j.cub.2010.12.050.
+    Curr Biol. 2011 Feb 8;21(3):214-20. doi: 10.1016/j.cub.2010.12.048.
+
+The Ndc80 complex is a key component of the kinetochore-microtubule interface. 
+Two studies now demonstrate that a conserved loop region within the extended 
+coiled-coil of Ndc80 plays an unexpected role in recruiting proteins to the 
+kinetochore.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cub.2010.12.030
+PMID: 21300272 [Indexed for MEDLINE]
+
+
+87. J Cell Biol. 2006 Apr 10;173(1):9-17. doi: 10.1083/jcb.200509158. Epub 2006 Apr 
+3.
+
+The human Mis12 complex is required for kinetochore assembly and proper 
+chromosome segregation.
+
+Kline SL(1), Cheeseman IM, Hori T, Fukagawa T, Desai A.
+
+Author information:
+(1)Ludwig Institute for Cancer Research, Department of Cellular and Molecular 
+Medicine, University of California, San Diego, School of Medicine, La Jolla, CA 
+92093, USA.
+
+During cell division, kinetochores form the primary chromosomal attachment sites 
+for spindle microtubules. We previously identified a network of 10 interacting 
+kinetochore proteins conserved between Caenorhabditis elegans and humans. In 
+this study, we investigate three proteins in the human network (hDsn1Q9H410, 
+hNnf1PMF1, and hNsl1DC31). Using coexpression in bacteria and fractionation of 
+mitotic extracts, we demonstrate that these proteins form a stable complex with 
+the conserved kinetochore component hMis12. Human or chicken cells depleted of 
+Mis12 complex subunits are delayed in mitosis with misaligned chromosomes and 
+defects in chromosome biorientation. Aligned chromosomes exhibited reduced 
+centromere stretch and diminished kinetochore microtubule bundles. Consistent 
+with this, localization of the outer plate constituent Ndc80HEC1 was severely 
+reduced. The checkpoint protein BubR1, the fibrous corona component centromere 
+protein (CENP) E, and the inner kinetochore proteins CENP-A and CENP-H also 
+failed to accumulate to wild-type levels in depleted cells. These results 
+indicate that a four-subunit Mis12 complex plays an essential role in chromosome 
+segregation in vertebrates and contributes to mitotic kinetochore assembly.
+
+DOI: 10.1083/jcb.200509158
+PMCID: PMC2063780
+PMID: 16585270 [Indexed for MEDLINE]
+
+
+88. Nat Commun. 2017 Jun 9;8:15775. doi: 10.1038/ncomms15775.
+
+Centromeres are maintained by fastening CENP-A to DNA and directing an arginine 
+anchor-dependent nucleosome transition.
+
+Guo LY(1)(2), Allu PK(1), Zandarashvili L(1), McKinley KL(3), Sekulic N(1), 
+Dawicki-McKenna JM(1), Fachinetti D(4), Logsdon GA(1)(2), Jamiolkowski RM(5), 
+Cleveland DW(4), Cheeseman IM(3), Black BE(1)(2).
+
+Author information:
+(1)Department of Biochemistry and Biophysics, Perelman School of Medicine, 
+University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA.
+(2)Graduate Program in Biochemistry and Molecular Biophysics, Perelman School of 
+Medicine, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA.
+(3)Whitehead Institute for Biomedical Research and Department of Biology, 
+Massachusetts Institute of Technology, Cambridge, Massachusetts 02142, USA.
+(4)Ludwig Institute for Cancer Research and Department of Cellular and Molecular 
+Medicine, University of California, San Diego, La Jolla, California 92093, USA.
+(5)Graduate Program in Bioengineering, University of Pennsylvania, Philadelphia, 
+Pennsylvania 19104, USA.
+
+Maintaining centromere identity relies upon the persistence of the epigenetic 
+mark provided by the histone H3 variant, centromere protein A (CENP-A), but the 
+molecular mechanisms that underlie its remarkable stability remain unclear. 
+Here, we define the contributions of each of the three candidate CENP-A 
+nucleosome-binding domains (two on CENP-C and one on CENP-N) to CENP-A stability 
+using gene replacement and rapid protein degradation. Surprisingly, the most 
+conserved domain, the CENP-C motif, is dispensable. Instead, the stability is 
+conferred by the unfolded central domain of CENP-C and the folded N-terminal 
+domain of CENP-N that becomes rigidified 1,000-fold upon crossbridging CENP-A 
+and its adjacent nucleosomal DNA. Disrupting the 'arginine anchor' on CENP-C for 
+the nucleosomal acidic patch disrupts the CENP-A nucleosome structural 
+transition and removes CENP-A nucleosomes from centromeres. CENP-A nucleosome 
+retention at centromeres requires a core centromeric nucleosome complex where 
+CENP-C clamps down a stable nucleosome conformation and CENP-N fastens CENP-A to 
+the DNA.
+
+DOI: 10.1038/ncomms15775
+PMCID: PMC5472775
+PMID: 28598437 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interests.
+
+
+89. J Cell Biol. 2001 Jan 8;152(1):197-212. doi: 10.1083/jcb.152.1.197.
+
+Mitotic spindle integrity and kinetochore function linked by the Duo1p/Dam1p 
+complex.
+
+Cheeseman IM(1), Enquist-Newman M, Müller-Reichert T, Drubin DG, Barnes G.
+
+Author information:
+(1)Department of Molecular and Cell Biology, University of California at 
+Berkeley, Berkeley, California 94720, USA.
+
+Duo1p and Dam1p were previously identified as spindle proteins in the budding 
+yeast, Saccharomyces cerevisiae. Here, analyses of a diverse collection of duo1 
+and dam1 alleles were used to develop a deeper understanding of the functions 
+and interactions of Duo1p and Dam1p. Based on the similarity of mutant 
+phenotypes, genetic interactions between duo1 and dam1 alleles, interdependent 
+localization to the mitotic spindle, and Duo1p/Dam1p coimmunoprecipitation from 
+yeast protein extracts, these analyses indicated that Duo1p and Dam1p perform a 
+shared function in vivo as components of a protein complex. Duo1p and Dam1p are 
+not required to assemble bipolar spindles, but they are required to maintain 
+metaphase and anaphase spindle integrity. Immunofluorescence and electron 
+microscopy of duo1 and dam1 mutant spindles revealed a diverse variety of 
+spindle defects. Our results also indicate a second, previously unidentified, 
+role for the Duo1p/Dam1p complex. duo1 and dam1 mutants show high rates of 
+chromosome missegregation, premature anaphase events while arrested in 
+metaphase, and genetic interactions with a subset of kinetochore components 
+consistent with a role in kinetochore function. In addition, Duo1p and Dam1p 
+localize to kinetochores in chromosome spreads, suggesting that this complex may 
+serve as a link between the kinetochore and the mitotic spindle.
+
+DOI: 10.1083/jcb.152.1.197
+PMCID: PMC2193660
+PMID: 11149931 [Indexed for MEDLINE]
+
+
+90. Trends Cell Biol. 2011 Mar;21(3):133-40. doi: 10.1016/j.tcb.2010.10.007. Epub 
+2010 Nov 22.
+
+Sensing centromere tension: Aurora B and the regulation of kinetochore function.
+
+Lampson MA(1), Cheeseman IM.
+
+Author information:
+(1)Department of Biology, University of Pennsylvania, Philadelphia, PA 19104, 
+USA.
+
+Maintaining genome integrity during cell division requires regulated 
+interactions between chromosomes and spindle microtubules. To ensure that 
+daughter cells inherit the correct chromosomes, the sister kinetochores must 
+attach to opposite spindle poles. Tension across the centromere stabilizes 
+correct attachments, whereas phosphorylation of kinetochore substrates by the 
+conserved Ipl1/Aurora B kinase selectively eliminates incorrect attachments. 
+Here, we review our current understanding of how mechanical forces acting on the 
+kinetochore are linked to biochemical changes to control chromosome segregation. 
+We discuss models for tension sensing and regulation of kinetochore function 
+downstream of Aurora B, and mechanisms that specify Aurora B localization to the 
+inner centromere and determine its interactions with substrates at distinct 
+locations.
+
+Copyright © 2010 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tcb.2010.10.007
+PMCID: PMC3049846
+PMID: 21106376 [Indexed for MEDLINE]
+
+
+91. Cell. 2002 Oct 18;111(2):163-72. doi: 10.1016/s0092-8674(02)00973-x.
+
+Phospho-regulation of kinetochore-microtubule attachments by the Aurora kinase 
+Ipl1p.
+
+Cheeseman IM(1), Anderson S, Jwa M, Green EM, Kang Js, Yates JR 3rd, Chan CS, 
+Drubin DG, Barnes G.
+
+Author information:
+(1)Department of Molecular and Cell Biology, University of California, Berkeley, 
+Berkeley, CA 94720, USA.
+
+Comment in
+    Cell Cycle. 2003 May-Jun;2(3):228-9.
+
+The Aurora kinase Ipl1p plays a crucial role in regulating 
+kinetochore-microtubule attachments in budding yeast, but the underlying basis 
+for this regulation is not known. To identify Ipl1p targets, we first purified 
+28 kinetochore proteins from yeast protein extracts. These studies identified 
+five previously uncharacterized kinetochore proteins and defined two additional 
+kinetochore subcomplexes. We then used mass spectrometry to identify 18 
+phosphorylation sites in 7 of these 28 proteins. Ten of these phosphorylation 
+sites are targeted directly by Ipl1p, allowing us to identify a consensus 
+phosphorylation site for an Aurora kinase. Our systematic mutational analysis of 
+the Ipl1p phosphorylation sites demonstrated that the essential microtubule 
+binding protein Dam1p is a key Ipl1p target for regulating 
+kinetochore-microtubule attachments in vivo.
+
+DOI: 10.1016/s0092-8674(02)00973-x
+PMID: 12408861 [Indexed for MEDLINE]
+
+
+92. J Cell Biol. 1998 Nov 16;143(4):1029-40. doi: 10.1083/jcb.143.4.1029.
+
+Saccharomyces cerevisiae Duo1p and Dam1p, novel proteins involved in mitotic 
+spindle function.
+
+Hofmann C(1), Cheeseman IM, Goode BL, McDonald KL, Barnes G, Drubin DG.
+
+Author information:
+(1)Department of Molecular and Cell Biology, University of California, Berkeley, 
+California 94720-3202, USA.
+
+In this paper, we describe the identification and characterization of two novel 
+and essential mitotic spindle proteins, Duo1p and Dam1p. Duo1p was isolated 
+because its overexpression caused defects in mitosis and a mitotic arrest. Duo1p 
+was localized by immunofluorescence, by immunoelectron microscopy, and by 
+tagging with green fluorescent protein (GFP), to intranuclear spindle 
+microtubules and spindle pole bodies. Temperature-sensitive duo1 mutants arrest 
+with short spindles. This arrest is dependent on the mitotic checkpoint. Dam1p 
+was identified by two-hybrid analysis as a protein that binds to Duo1p. By 
+expressing a GFP-Dam1p fusion protein in yeast, Dam1p was also shown to be 
+associated with intranuclear spindle microtubules and spindle pole bodies in 
+vivo. As with Duo1p, overproduction of Dam1p caused mitotic defects. Biochemical 
+experiments demonstrated that Dam1p binds directly to microtubules with 
+micromolar affinity. We suggest that Dam1p might localize Duo1p to intranuclear 
+microtubules and spindle pole bodies to provide a previously unrecognized 
+function (or functions) required for mitosis.
+
+DOI: 10.1083/jcb.143.4.1029
+PMCID: PMC2132964
+PMID: 9817759 [Indexed for MEDLINE]
+
+
+93. PLoS Biol. 2012;10(8):e1001378. doi: 10.1371/journal.pbio.1001378. Epub 2012 Aug 
+21.
+
+LAB-1 targets PP1 and restricts Aurora B kinase upon entrance into meiosis to 
+promote sister chromatid cohesion.
+
+Tzur YB(1), Egydio de Carvalho C, Nadarajan S, Van Bostelen I, Gu Y, Chu DS, 
+Cheeseman IM, Colaiácovo MP.
+
+Author information:
+(1)Department of Genetics, Harvard Medical School, Boston, Massachusetts, USA.
+
+Successful execution of the meiotic program depends on the timely establishment 
+and removal of sister chromatid cohesion. LAB-1 has been proposed to act in the 
+latter by preventing the premature removal of the meiosis-specific cohesin REC-8 
+at metaphase I in C. elegans, yet the mechanism and scope of LAB-1 function 
+remained unknown. Here we identify an unexpected earlier role for LAB-1 in 
+promoting the establishment of sister chromatid cohesion in prophase I. LAB-1 
+and REC-8 are both required for the chromosomal association of the cohesin 
+complex subunit SMC-3. Depletion of lab-1 results in partial loss of sister 
+chromatid cohesion in rec-8 and coh-4 coh-3 mutants and further enhanced 
+chromatid dissociation in worms where all three kleisins are mutated. Moreover, 
+lab-1 depletion results in increased Aurora B kinase (AIR-2) signals in early 
+prophase I nuclei, coupled with a parallel decrease in signals for the PP1 
+homolog, GSP-2. Finally, LAB-1 directly interacts with GSP-1 and GSP-2. We 
+propose that LAB-1 targets the PP1 homologs to the chromatin at the onset of 
+meiosis I, thereby antagonizing AIR-2 and cooperating with the cohesin complex 
+to promote sister chromatid association and normal progression of the meiotic 
+program.
+
+DOI: 10.1371/journal.pbio.1001378
+PMCID: PMC3424243
+PMID: 22927794 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+94. Cytoskeleton (Hoboken). 2012 Dec;69(12):1069-85. doi: 10.1002/cm.21077. Epub 
+2012 Oct 11.
+
+Targeted proteomic dissection of Toxoplasma cytoskeleton sub-compartments using 
+MORN1.
+
+Lorestani A(1), Ivey FD, Thirugnanam S, Busby MA, Marth GT, Cheeseman IM, 
+Gubbels MJ.
+
+Author information:
+(1)Department of Biology, Boston College, Chestnut Hill, MA 02467, USA.
+
+The basal complex in Toxoplasma functions as the contractile ring in the cell 
+division process. Basal complex contraction tapers the daughter cytoskeleton 
+toward the basal end and is required for daughter segregation. We have 
+previously shown that the protein MORN1 is essential for basal complex assembly 
+and likely acts as a scaffolding protein. To further our understanding of the 
+basal complex, we combined subcellular fractionation with an affinity 
+purification of the MORN1 complex and identified its protein composition. We 
+identified two new components of the basal complex, one of which uniquely 
+associated with the basal complex in mature parasites, the first of its kind. In 
+addition, we identified several other novel cytoskeleton proteins with different 
+spatiotemporal dynamics throughout cell division. Since many of these proteins 
+are unique to Apicomplexa this study significantly contributes to the annotation 
+of their unique cytoskeleton. Furthermore, we show that G-actin binding protein 
+TgCAP is localized at the apical cap region in intracellular parasites, but 
+quickly redistributes to a cytoplasmic localization pattern upon egress. © 2012 
+Wiley Periodicals, Inc.
+
+Copyright © 2012 Wiley Periodicals, Inc.
+
+DOI: 10.1002/cm.21077
+PMCID: PMC3566231
+PMID: 23027733 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+95. Biomol NMR Assign. 2014 Oct;8(2):275-8. doi: 10.1007/s12104-013-9499-x. Epub 
+2013 Jun 14.
+
+Resonance assignments of the microtubule-binding domain of the C. elegans 
+spindle and kinetochore-associated protein 1.
+
+Boeszoermenyi A(1), Schmidt JC, Cheeseman IM, Oberer M, Wagner G, Arthanari H.
+
+Author information:
+(1)Department of Biological Chemistry and Molecular Pharmacology, Harvard 
+Medical School, Boston, MA, 02115, USA.
+
+During mitosis, kinetochores coordinate the attachment of centromeric DNA to the 
+dynamic plus ends of microtubules, which is hypothesized to pull sister 
+chromatids toward opposing poles of the mitotic spindle. The outer kinetochore 
+Ndc80 complex acts synergistically with the Ska (spindle and 
+kinetochore-associated) complex to harness the energy of depolymerizing 
+microtubules and power chromosome movement. The Ska complex is a hexamer 
+consisting of two copies of the proteins Ska1, Ska2 and Ska3, respectively. The 
+C-terminal domain of the spindle and kinetochore-associated protein 1 (Ska1) is 
+the microtubule-binding domain of the Ska complex. We solved the solution 
+structure of the C. elegans microtubule-binding domain (MTBD) of the protein 
+Ska1 using NMR spectroscopy. Here, we report the resonance assignments of the 
+MTBD of C. elegans Ska1.
+
+DOI: 10.1007/s12104-013-9499-x
+PMCID: PMC3823668
+PMID: 23765286 [Indexed for MEDLINE]
+
+
+96. Cell. 2012 Feb 3;148(3):487-501. doi: 10.1016/j.cell.2011.11.061.
+
+CENP-T-W-S-X forms a unique centromeric chromatin structure with a histone-like 
+fold.
+
+Nishino T(1), Takeuchi K, Gascoigne KE, Suzuki A, Hori T, Oyama T, Morikawa K, 
+Cheeseman IM, Fukagawa T.
+
+Author information:
+(1)Department of Molecular Genetics, National Institute of Genetics and The 
+Graduate University for Advanced Studies (SOKENDAI), Mishima, Shizuoka 411-8540, 
+Japan.
+
+Comment in
+    Cell. 2012 Feb 3;148(3):394-6. doi: 10.1016/j.cell.2012.01.023.
+
+The multiprotein kinetochore complex must assemble at a specific site on each 
+chromosome to achieve accurate chromosome segregation. Defining the nature of 
+the DNA-protein interactions that specify the position of the kinetochore and 
+provide a scaffold for kinetochore formation remain key goals. Here, we 
+demonstrate that the centromeric histone-fold-containing CENP-T-W and CENP-S-X 
+complexes coassemble to form a stable CENP-T-W-S-X heterotetramer. 
+High-resolution structural analysis of the individual complexes and the 
+heterotetramer reveals similarity to other histone fold-containing complexes 
+including canonical histones within a nucleosome. The CENP-T-W-S-X 
+heterotetramer binds to and supercoils DNA. Mutants designed to compromise 
+heterotetramerization or the DNA-protein contacts around the heterotetramer 
+strongly reduce the DNA binding and supercoiling activities in vitro and 
+compromise kinetochore assembly in vivo. These data suggest that the 
+CENP-T-W-S-X complex forms a unique nucleosome-like structure to generate 
+contacts with DNA, extending the "histone code" beyond canonical nucleosome 
+proteins.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2011.11.061
+PMCID: PMC3277711
+PMID: 22304917 [Indexed for MEDLINE]
+
+
+97. Cell. 2008 Dec 12;135(6):1039-52. doi: 10.1016/j.cell.2008.10.019.
+
+CCAN makes multiple contacts with centromeric DNA to provide distinct pathways 
+to the outer kinetochore.
+
+Hori T(1), Amano M, Suzuki A, Backer CB, Welburn JP, Dong Y, McEwen BF, Shang 
+WH, Suzuki E, Okawa K, Cheeseman IM, Fukagawa T.
+
+Author information:
+(1)Department of Molecular Genetics, National Institute of Genetics and The 
+Graduate University for Advanced Studies (SOKENDAI), Mishima, Shizuoka 411-8540, 
+Japan.
+
+Kinetochore specification and assembly requires the targeted deposition of 
+specialized nucleosomes containing the histone H3 variant CENP-A at centromeres. 
+However, CENP-A is not sufficient to drive full-kinetochore assembly, and it is 
+not clear how centromeric chromatin is established. Here, we identify CENP-W as 
+a component of the DNA-proximal constitutive centromere-associated network 
+(CCAN) of proteins. We demonstrate that CENP-W forms a DNA-binding complex 
+together with the CCAN component CENP-T. This complex directly associates with 
+nucleosomal DNA and with canonical histone H3, but not with CENP-A, in 
+centromeric regions. CENP-T/CENP-W functions upstream of other CCAN components 
+with the exception of CENP-C, an additional putative DNA-binding protein. Our 
+analysis indicates that CENP-T/CENP-W and CENP-C provide distinct pathways to 
+connect the centromere with outer kinetochore assembly. In total, our results 
+suggest that the CENP-T/CENP-W complex is directly involved in establishment of 
+centromere chromatin structure coordinately with CENP-A.
+
+DOI: 10.1016/j.cell.2008.10.019
+PMID: 19070575 [Indexed for MEDLINE]
+
+
+98. Mol Biol Cell. 2001 Sep;12(9):2601-13. doi: 10.1091/mbc.12.9.2601.
+
+Dad1p, third component of the Duo1p/Dam1p complex involved in kinetochore 
+function and mitotic spindle integrity.
+
+Enquist-Newman M(1), Cheeseman IM, Van Goor D, Drubin DG, Meluh PB, Barnes G.
+
+Author information:
+(1)Department of Molecular and Cell Biology, University of California, Berkeley, 
+CA 94720-3202, USA.
+
+We showed recently that a complex between Duo1p and Dam1p is required for both 
+spindle integrity and kinetochore function in the budding yeast Saccharomyces 
+cerevisiae. To extend our understanding of the functions and interactions of the 
+Duo1p/Dam1p complex, we analyzed the novel gene product Dad1p (for Duo1 and Dam1 
+interacting). Dad1p physically associates with Duo1p by two-hybrid analysis, 
+coimmunoprecipitates with Duo1p and Dam1p out of yeast protein extracts, and 
+shows interdependent localization with Duo1p and Dam1p to the mitotic spindle. 
+These results indicate that Dad1p functions as a component of the Duo1p/Dam1p 
+complex. Like Duo1p and Dam1p, Dad1p also localizes to kinetochore regions in 
+chromosomes spreads. Here, we also demonstrate by chromatin immunoprecipitation 
+that Duo1p, Dam1p, and Dad1p associate specifically with centromeric DNA in a 
+manner that is dependent upon Ndc10 and partially dependent upon the presence of 
+microtubules. To explore the functions of Dad1p in vivo, we generated a 
+temperature-sensitive allele, dad1-1. This allele shows spindle defects and a 
+mitotic arrest phenotype that is dependent upon the spindle assembly checkpoint. 
+In addition, dad1-1 mutants undergo chromosome mis-segregation at the 
+restrictive temperature, resulting in a dramatic decrease in viability.
+
+DOI: 10.1091/mbc.12.9.2601
+PMCID: PMC59698
+PMID: 11553702 [Indexed for MEDLINE]
+
+
+99. J Cell Biol. 2001 Nov 26;155(5):763-74. doi: 10.1083/jcb.200105029. Epub 2001 
+Nov 26.
+
+Functional cooperation of Dam1, Ipl1, and the inner centromere protein 
+(INCENP)-related protein Sli15 during chromosome segregation.
+
+Kang J(1), Cheeseman IM, Kallstrom G, Velmurugan S, Barnes G, Chan CS.
+
+Author information:
+(1)Section of Molecular Genetics and Microbiology, Institute for Cellular and 
+Molecular Biology, The University of Texas, Austin, TX 78712, USA.
+
+We have shown previously that Ipl1 and Sli15 are required for chromosome 
+segregation in Saccharomyces cerevisiae. Sli15 associates directly with the Ipl1 
+protein kinase and these two proteins colocalize to the mitotic spindle. We show 
+here that Sli15 stimulates the in vitro, and likely in vivo, kinase activity of 
+Ipl1, and Sli15 facilitates the association of Ipl1 with the mitotic spindle. 
+The Ipl1-binding and -stimulating activities of Sli15 both reside within a 
+region containing homology to the metazoan inner centromere protein (INCENP). 
+Ipl1 and Sli15 also bind to Dam1, a microtubule-binding protein required for 
+mitotic spindle integrity and kinetochore function. Sli15 and Dam1 are most 
+likely physiological targets of Ipl1 since Ipl1 can phosphorylate both proteins 
+efficiently in vitro, and the in vivo phosphorylation of both proteins is 
+reduced in ipl1 mutants. Some dam1 mutations exacerbate the phenotype of ipl1 
+and sli15 mutants, thus providing evidence that Dam1 interactions with 
+Ipl1-Sli15 are functionally important in vivo. Similar to Dam1, Ipl1 and Sli15 
+each bind to microtubules directly in vitro, and they are associated with yeast 
+centromeric DNA in vivo. Given their dual association with microtubules and 
+kinetochores, Ipl1, Sli15, and Dam1 may play crucial roles in regulating 
+chromosome-spindle interactions or in the movement of kinetochores along 
+microtubules.
+
+DOI: 10.1083/jcb.200105029
+PMCID: PMC2150868
+PMID: 11724818 [Indexed for MEDLINE]
+
+
+100. Genes Dev. 2004 Sep 15;18(18):2255-68. doi: 10.1101/gad.1234104.
+
+A conserved protein network controls assembly of the outer kinetochore and its 
+ability to sustain tension.
+
+Cheeseman IM(1), Niessen S, Anderson S, Hyndman F, Yates JR 3rd, Oegema K, Desai 
+A.
+
+Author information:
+(1)Ludwig Institute for Cancer Research, La Jolla, California 92093, USA. 
+icheeseman@ucsd.edu
+
+Kinetochores play an essential role in chromosome segregation by forming dynamic 
+connections with spindle microtubules. Here, we identify a set of 10 copurifying 
+kinetochore proteins from Caenorhabditis elegans, seven of which were previously 
+uncharacterized. Using in vivo assays to monitor chromosome segregation, 
+kinetochore assembly, and the mechanical stability of chromosome-microtubule 
+attachments, we show that this copurifying protein network plays a central role 
+at the kinetochore-microtubule interface. In addition, our analysis suggests 
+that the network is comprised of three groups of proteins that contribute in 
+distinct ways to this interface: KNL proteins act after the assembly of 
+centromeric chromatin to generate the core of the microtubule-binding interface, 
+MIS proteins control the rate and extent of formation of this interface, and NDC 
+proteins are necessary to sustain tension during interactions with spindle 
+microtubules. We also purify a similar set of associated proteins from human 
+cells that includes four novel proteins and has recognizable homologs from each 
+functional class. Thus, this protein network is a conserved constituent of the 
+outer kinetochore, and the functions defined by our analysis in C. elegans are 
+likely to be widely relevant.
+
+DOI: 10.1101/gad.1234104
+PMCID: PMC517519
+PMID: 15371340 [Indexed for MEDLINE]
+
+
+101. J Cell Biol. 2003 Oct 27;163(2):215-22. doi: 10.1083/jcb.200305100.
+
+Architecture of the budding yeast kinetochore reveals a conserved molecular 
+core.
+
+Westermann S(1), Cheeseman IM, Anderson S, Yates JR 3rd, Drubin DG, Barnes G.
+
+Author information:
+(1)Department of Molecular and Cell Biology, Barker Hall, University of 
+California, Berkeley, Berkeley, CA 94720, USA. gbarnes@socrates.berkeley.edu
+
+How kinetochore proteins are organized to connect chromosomes to spindle 
+microtubules, and whether any structural and organizational themes are common to 
+kinetochores from distantly related organisms, are key unanswered questions. 
+Here, we used affinity chromatography and mass spectrometry to generate a map of 
+kinetochore protein interactions. The budding yeast CENP-C homologue Mif2p 
+specifically copurified with histones H2A, H2B, and H4, and with the histone 
+H3-like CENP-A homologue Cse4p, strongly suggesting that Cse4p replaces histone 
+H3 in a specialized centromeric nucleosome. A novel four-protein Mtw1 complex, 
+the Nnf1p subunit of which has homology to the vertebrate kinetochore protein 
+CENP-H, also copurified with Mif2p and a variety of central kinetochore 
+proteins. We show that Mif2 is a critical in vivo target of the Aurora kinase 
+Ipl1p. Chromatin immunoprecipitation studies demonstrated the biological 
+relevance of these associations. We propose that a molecular core consisting of 
+CENP-A, -C, -H, and Ndc80/HEC has been conserved from yeast to humans to link 
+centromeres to spindle microtubules.
+
+DOI: 10.1083/jcb.200305100
+PMCID: PMC2173538
+PMID: 14581449 [Indexed for MEDLINE]
+
+
+102. Mol Biol Cell. 2012 Nov;23(21):4145-7. doi: 10.1091/mbc.E12-05-0382.
+
+Building a path in cell biology.
+
+Voeltz G(1), Cheeseman I.
+
+Author information:
+(1)Department of Molecular, Cellular & Developmental Biology, University of 
+Colorado, Boulder, Boulder, CO 80309, USA. gia.voeltz@colorado.edu
+
+Setting up a new lab is an exciting but challenging prospect. We discuss our 
+experiences in finding a path to tackle some of the key current questions in 
+cell biology and the hurdles that we have encountered along the way.
+
+DOI: 10.1091/mbc.E12-05-0382
+PMCID: PMC3484087
+PMID: 23112222 [Indexed for MEDLINE]
+
+
+103. J Cell Biol. 2008 Sep 22;182(6):1055-61. doi: 10.1083/jcb.200804170. Epub 2008 
+Sep 15.
+
+Orientation and structure of the Ndc80 complex on the microtubule lattice.
+
+Wilson-Kubalek EM(1), Cheeseman IM, Yoshioka C, Desai A, Milligan RA.
+
+Author information:
+(1)Department of Cell Biology, The Scripps Research Institute, La Jolla, CA 
+92037, USA.
+
+The four-subunit Ndc80 complex, comprised of Ndc80/Nuf2 and Spc24/Spc25 dimers, 
+directly connects kinetochores to spindle microtubules. The complex is anchored 
+to the kinetochore at the Spc24/25 end, and the Ndc80/Nuf2 dimer projects 
+outward to bind to microtubules. Here, we use cryoelectron microscopy and 
+helical image analysis to visualize the interaction of the Ndc80/Nuf2 dimer with 
+microtubules. Our results, when combined with crystallography data, suggest that 
+the globular domain of the Ndc80 subunit binds strongly at the interface between 
+tubulin dimers and weakly at the adjacent intradimer interface along the 
+protofilament axis. Such a binding mode, in which the Ndc80 complex interacts 
+with sequential alpha/beta-tubulin heterodimers, may be important for 
+stabilizing kinetochore-bound microtubules. Additionally, we define the binding 
+of the Ndc80 complex relative to microtubule polarity, which reveals that the 
+microtubule interaction surface is at a considerable distance from the opposite 
+kinetochore-anchored end; this binding geometry may facilitate polymerization 
+and depolymerization at kinetochore-attached microtubule ends.
+
+DOI: 10.1083/jcb.200804170
+PMCID: PMC2542468
+PMID: 18794333 [Indexed for MEDLINE]
+
+
+104. bioRxiv [Preprint]. 2024 Mar 13:2024.03.12.584469. doi: 
+10.1101/2024.03.12.584469.
+
+Functional genetics reveals modulators of anti-microtubule drug sensitivity.
+
+Su KC(1)(2), Radul E(1)(2)(3), Maier NK(1)(4)(2)(5), Tsang MJ(1)(2)(6), Goul 
+C(1)(4)(7), Moodie B(1), Keys HR(1), Cheeseman IM(1)(4).
+
+Author information:
+(1)Whitehead Institute for Biomedical Research, 455 Main Street, Cambridge, MA 
+02142.
+(2)These authors contributed equally.
+(3)Present address: Cell Biology, Neurobiology and Biophysics, Department of 
+Biology, Faculty of Science, Utrecht University, Utrecht, the Netherlands.
+(4)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 
+02142.
+(5)Present address: Department of Microbiology, Harvard Medical School, Boston, 
+MA.
+(6)Present address: Peter MacCallum Cancer Centre, Melbourne, VIC, Australia.
+(7)Present address: Department of Molecular and Cellular Biology, UC Berkeley, 
+Berkeley, CA.
+
+Microtubules play essential roles in diverse cellular processes and are 
+important pharmacological targets for treating human disease. Here, we sought to 
+identify cellular factors that modulate the sensitivity of cells to 
+anti-microtubule drugs. We conducted a genome-wide CRISPR/Cas9-based functional 
+genetics screen in human cells treated with the microtubule-destabilizing drug 
+nocodazole or the microtubule-stabilizing drug taxol. We further conducted a 
+focused secondary screen to test drug sensitivity for ~1400 gene targets across 
+two distinct human cell lines and to additionally test sensitivity to the 
+Kif11-inhibitor, STLC. These screens defined gene targets whose loss enhances or 
+suppresses sensitivity to anti-microtubule drugs. In addition to gene targets 
+whose loss sensitized cells to multiple compounds, we observed cases of 
+differential sensitivity to specific compounds and differing requirements 
+between cell lines. Our downstream molecular analysis further revealed 
+additional roles for established microtubule-associated proteins and identified 
+new players in microtubule function.
+
+DOI: 10.1101/2024.03.12.584469
+PMCID: PMC10979949
+PMID: 38559203
+
+
+105. bioRxiv [Preprint]. 2024 Oct 14:2024.02.25.581584. doi: 
+10.1101/2024.02.25.581584.
+
+Binding Site Maturation Modulated by Molecular Density Underlies Ndc80 Binding 
+to Kinetochore Receptor CENP-T.
+
+Tarasovetc EV(1), Sissoko GB(2)(3), Maiorov A(1), Mukhina AS(1), Ataullakhanov 
+FI(1), Cheeseman IM(2)(3), Grishchuk EL(1).
+
+Author information:
+(1)Department of Physiology, Perelman School of Medicine, University of 
+Pennsylvania; Philadelphia, PA 19104, USA.
+(2)Whitehead Institute for Biomedical Research; Cambridge, MA 02142, USA.
+(3)Department of Biology, Massachusetts Institute of Technology; Cambridge, MA 
+02142, USA.
+
+Macromolecular assembly depends on tightly regulated pairwise binding 
+interactions that are selectively favored at assembly sites while being 
+disfavored in the soluble phase. This selective control can arise due to 
+molecular density-enhanced binding, as recently found for the kinetochore 
+scaffold protein CENP-T. When clustered, CENP-T recruits markedly more Ndc80 
+complexes than its monomeric counterpart, but the underlying molecular basis 
+remains elusive. Here, we use quantitative in vitro assays to reveal two 
+distinct mechanisms driving this behavior. First, Ndc80 binding to CENP-T is a 
+two-step process: initially, Ndc80 molecules rapidly associate and dissociate 
+from disordered N-terminal binding sites on CENP-T. Over time, these sites 
+undergo maturation, resulting in stronger Ndc80 retention. Second, we find that 
+this maturation transition is regulated by a kinetic barrier that is sensitive 
+to the molecular environment. In the soluble phase, binding site maturation is 
+slow, but within CENP-T clusters, this process is markedly accelerated. Notably, 
+the two Ndc80 binding sites in human CENP-T exhibit distinct maturation rates 
+and environmental sensitivities, which correlate with their different amino-acid 
+content and predicted binding conformations. This clustering-induced maturation 
+is evident in dividing human cells, suggesting a distinct regulatory entry point 
+for controlling kinetochore assembly. We propose that the tunable acceleration 
+of binding site maturation by molecular crowding may represent a general 
+mechanism for promoting the formation of macromolecular structures.
+
+DOI: 10.1101/2024.02.25.581584
+PMCID: PMC10925139
+PMID: 38464265
+
+Conflict of interest statement: Competing Interest Statement: Authors declare 
+that they have no competing interests.

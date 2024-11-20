@@ -1,0 +1,21 @@
+title: Cheeseman Lab
+description: The Cheeseman Lab studies kinetochore biology and chromosome segregation at MIT's Whitehead Institute
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - research.md
+  - publications.html
+  - people.html
+
+collections:
+  pages:
+    output: true
+    permalink: /:name

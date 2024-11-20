@@ -1,0 +1,279 @@
+# Principal Investigator
+- name: Iain Cheeseman
+  pos: Principal Investigator
+  email: icheese@wi.mit.edu
+  id: iain_cheeseman
+  alum: false
+  bio: "I guess we could call him \"The Big Cheese\". As our Principal Investigator, he is responsible for all the awesome things our lab does on a daily basis."
+  cheese: Fromage Affinois
+
+# Staff Scientist
+- name: Kuan-Chung Su
+  pos: Staff Scientist
+  email: kc.su@wi.mit.edu
+  id: kuanchung_su
+  alum: false
+  bio: "Kuan-Chung likes sports and uses CRISPR/Cas9 approaches to study mitosis. He is also our resident food detector, if you want to know good spots to get food, KC is the one to consult."
+  cheese: Cream Cheese
+
+- name: Kaitlyn Manzer
+  pos: Staff Scientist
+  email: kmanzer@wi.mit.edu
+  id: kaitlyn_manzer
+  alum: false
+  bio: "Kaitlyn's research is focused on using large-scale phenotypic screening approaches to uncover new cell biological insights. Outside of the lab, Kaitlyn loves to cook, hike, and spend time with friends and family."
+  cheese: Babybel
+
+# Postdocs
+- name: Ally Nguyen
+  pos: Post-doc
+  id: ally_nguyen
+  alum: false
+  bio: "Ally loves turtles, snowboarding, and hiking with her dog. Ally is interested in identifying the specific genetic requirements for cell division that differ across cell types, cell states, and among organisms and investigating how these differences influence disease, development, and evolution."
+  cheese: Brie
+
+- name: Eric Smith
+  pos: Post-doc
+  id: eric_smith
+  alum: false
+  bio: "Eric enjoys skiing, hockey, and cooking in his free time. Eric's research focuses on understanding how cancer cells transform their proteome to support continued cell division."
+  cheese: Mozzarella
+
+# Graduate Students
+- name: Jimmy Ly
+  pos: Graduate Student
+  id: jimmy_ly
+  alum: false
+  bio: "Jimmy's research focuses on the control of gene expression during the cell cycle and is investigating mechanisms underlying differences in the meiotic and mitotic division. Jimmy likes to bake, bike and freeload on Ryan's roommate's Costco membership!"
+  cheese: "Cheese curds a.k.a. poutine cheese"
+
+- name: Océane Marescal
+  pos: Graduate Student
+  id: oceane_marescal
+  alum: false
+  bio: "Océane enjoys reading, climbing, and playing her violin. Her research focuses on understanding the role of proteasome subunits in spindle bipolarity."
+  cheese: "Comté, because obviously I had to pick a french one 🙂"
+
+- name: Ryan Kim
+  pos: Graduate Student
+  id: ryan_kim
+  alum: false
+  bio: "Ryan studies how interactions amongst translational isoforms of components of the Spindle Assembly Checkpoint determine mitotic length. A self-proclaimed foodie, Ryan also likes to play football, bake, and freeload on his roommate's Costco membership."
+  cheese: "Ricotta because it is so versatile."
+
+- name: Katya Khalizeva
+  pos: Graduate Student
+  id: katya_khalizeva
+  alum: false
+  bio: "Katya research focuses on regulation of gene expression during the cell cycle. Outside of lab you can find Katya reading, doing craft, and going on walks to touch grass."
+  cheese: Cheese Cake
+
+- name: Yi Fei Tao
+  pos: Graduate Student
+  id: yifei_tao
+  alum: false
+  bio: "Yi Fei's research focuses on the rewiring of gene expression programs in quiescence, particularly at the levels of chromatin organization and transcriptional control. Her favorite things include her dog, her rollerskates, ice cream, and film photography."
+  cheese: "Cream cheese frosting on red velvet cupcakes"
+
+- name: Matteo Di Bernardo
+  pos: Graduate Student
+  id: matteo_dibernardo
+  alum: false
+  bio: "Matteo is interested in applying machine learning approaches to image-based phenotypic screening data for novel biological and disease related discovery. Outside of the lab, Matteo is interested in global cancer disparities, skiing, and soccer."
+  cheese: "Provola Ragusana & pepato"
+
+- name: Ben Velez
+  pos: Graduate Student
+  id: ben_velez
+  alum: false
+  bio: "Ben's research focuses on understanding the role of the proteasome in mitosis. Outside of the lab, Ben enjoys playing soccer, hiking, and cooking."
+  cheese: "Queso de bola"
+
+- name: Noah Taylor
+  pos: Graduate Student
+  id: noah_taylor
+  alum: false
+  bio: "Noah's research focuses on understanding the role of the proteasome in mitosis. Outside of the lab, Noah enjoys playing soccer, hiking, and cooking."
+  cheese: "Queso de bola"
+
+# Technicians
+- name: Brittania Moodie
+  pos: Technician
+  id: brittania_moodie
+  alum: false
+  bio: "Brittania's most recent publication studied alpha-satellite RNA transcripts in intact human cells, its variation across the cell cycle and cell lines. When not at the bench she enjoys doing outreach work with children to enhance their STEM education, with great focus on underserved communities and students who lack resources for healthy learning environments."
+  cheese: Cheddar
+
+- name: Sarah Cady
+  pos: Technician
+  id: sarah_cady
+  alum: false
+  bio: "Sarah is studying centromeric changes in oocytes and their role in female reproductive aging. She also enjoys painting and hiking."
+  cheese: "The online quiz I took told me I would be gorgonzola!"
+
+# Undergraduates
+- name: Sofia Haug
+  pos: Undergraduate
+  id: sofia_haug
+  alum: false
+  bio: "In the lab I'm studying how protein extensions affect their localization and function. My favorite procrastination strategies include tidying my bench and expanding my Wall of Memes."
+  cheese: Imeruli
+
+- name: Kevin Cadieux
+  pos: Undergraduate
+  id: kevin_cadieux
+  alum: false
+  bio: "Kevin is studying the role of the proteasome in mitosis. Outside of the lab, Kevin enjoys playing soccer, hiking, and cooking."
+  cheese: "Queso de bola"
+
+- name: Roshan Kern
+  pos: Undergraduate
+  id: roshan_kern
+  alum: false
+  bio: "Roshan likes turtles, reading, and going to the gym. His research focuses on developing the computational methods we use to understand cell biology."
+  cheese: "Aged cheddar"
+
+# Alumni (in alphabetical order by last name)
+- name: Chelsea Backer
+  pos: Graduate Student
+  id: chelsea_backer
+  alum: true
+  now: Physician | Baltimore, MD
+
+- name: Sanne Boersma
+  pos: Graduate Student
+  id: sanne_boersma
+  alum: true
+  now: Graduate Student | Marvin Tanenbaum Lab at the Hubrecht Institute
+
+- name: Scott Foster
+  pos: Post-doc
+  id: scott_foster
+  alum: true
+  now: Post-doctoral Researcher | Genentech
+
+- name: Karen Gascoigne
+  pos: Graduate Student
+  id: karen_gascoigne
+  alum: true
+  now: Scientist | Genentech
+
+- name: Claire Goul
+  pos: Graduate Student
+  id: claire_goul
+  alum: true
+  now: Graduate Student | UC Berkeley
+
+- name: David Kern
+  pos: Graduate Student
+  id: david_kern
+  alum: true
+  now: Post-doctoral Researcher | Steve Brohawn Lab at UC Berkeley
+
+- name: Tomomi Kiyomitsu
+  pos: Post-doc
+  id: tomomi_kiyomitsu
+  alum: true
+  now: Assistant Professor | Okinawa Institute of Science and Technology (OIST)
+
+- name: Nolan Maier
+  pos: Graduate Student
+  id: nolan_maier
+  alum: true
+  now: Research Fellow in Microbiology | Harvard
+
+- name: Lily McKay
+  pos: Graduate Student
+  id: lily_mckay
+  alum: true
+  now: Graduate Student | UNC Chapel Hill
+
+- name: Kara McKinley
+  pos: Graduate Student
+  id: kara_mckinley
+  alum: true
+  now: Assistant Professor of Stem Cell and Regenerative Biology | Harvard University
+
+- name: Julie Monda
+  pos: Graduate Student
+  id: julia_monda
+  alum: true
+  now: Post-doctoral Researcher | Eric Bennett Lab at UCSD
+
+- name: Alexandra Navarro
+  pos: Lab Manager
+  id: alexandra_navarro
+  alum: true
+  now: Senior Project Coordinator | Broad Institute
+
+- name: Charlotte Pennings
+  pos: Graduate Student
+  id: charlotte_pennings
+  alum: true
+  now: Graduate Student | Hein te Riele Lab
+
+- name: Elena Radul
+  pos: Graduate Student
+  id: elena_radul
+  alum: true
+  now: PhD Student | Utrecht University
+
+- name: Florencia Rago
+  pos: Post-doc
+  id: florencia_rago
+  alum: true
+  now: Post-doctoral Researcher | Novartis
+
+- name: Jens Schmidt
+  pos: Post-doc
+  id: jens_schmidt
+  alum: true
+  now: Assistant Professor | Michigan State University
+
+- name: Gunter Sissoko
+  pos: Post-doc
+  id: gunter_sissoko
+  alum: true
+  now: Research Scientist
+
+- name: Zak Swartz
+  pos: Post-doc
+  id: zak_swartz
+  alum: true
+  now: Faculty | The Marine Biological Laboratory, University of Chicago
+
+- name: Sasha Targ
+  pos: Graduate Student
+  id: sasha_targ
+  alum: true
+  now: Medical Student | UCSF
+
+- name: Mary Jane Tsang
+  pos: Post-doc
+  id: maryjane_tsang
+  alum: true
+  now: Post-doctoral Researcher | Peter MacCallum Cancer Center, Melbourne
+
+- name: Tonia Tsinman
+  pos: Graduate Student
+  id: tonia_tsinman
+  alum: true
+  now: Graduate Student | UPenn
+
+- name: Mathijs Vleugel
+  pos: Post-doc
+  id: mathijs_vleugel
+  alum: true
+  now: Associate Editor | Nature Protocols
+
+- name: Julie Welburn
+  pos: Post-doc
+  id: julie_welburn
+  alum: true
+  now: Group Leader | Wellcome Trust Centre for Cell Biology at the University of Edinburgh
+
+- name: Ian Whitney
+  pos: Graduate Student
+  id: ian_whitney
+  alum: true
+  now: Research Scientist | Roche

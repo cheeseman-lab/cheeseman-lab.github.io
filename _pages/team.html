@@ -1,0 +1,117 @@
+---
+layout: default
+title: "Team"
+permalink: /team/
+---
+
+<div class="container">
+   <div class="heading mb-5">
+      <h1>Team</h1>
+   </div>
+
+   {% assign current = site.data.team | where: "alum", "false" %}
+   {% assign pi = current | where: "pos", "Principal Investigator" %}
+   {% assign other_members = current | where_exp: "member", "member.pos != 'Principal Investigator'" %}
+   {% assign sorted_members = other_members | sort: "id" | sort_natural: "id" %}
+
+   <!-- PI Section -->
+   {% for pi_member in pi %}
+   <div class="row mb-5">
+      <div class="col-md-4">
+         <img class="img-fluid portrait-pi rounded" src="{{ site.baseurl }}/assets/img/team/{{ pi_member.id }}.jpg" alt="{{ pi_member.name }}"/>
+      </div>
+      <div class="col-md-8">
+         <h2>{{ pi_member.name }}</h2>
+         <h4>{{ pi_member.pos }}</h4>
+         <p>{{ pi_member.bio }}</p>
+         <p>🧀 <strong>identity:</strong> {{ pi_member.cheese }}</p>
+         {% if pi_member.email %}
+         <p><strong>Email:</strong> {{ pi_member.email }}</p>
+         {% endif %}
+      </div>
+   </div>
+   {% endfor %}
+
+   <!-- Current Lab Members -->
+   <div class="row">
+      {% for member in sorted_members %}
+      <div class="col-md-3 mb-4">
+         <div class="team-member">
+            <img class="portrait" src="{{ site.baseurl }}/assets/img/team/{{ member.id }}.jpg" alt="{{ member.name }}">
+            <div class="member-info">
+               <h5>{{ member.name }}</h5>
+               <h6 class="text-muted">{{ member.pos }}</h6>
+               <p>{{ member.bio }}</p>
+               <p class="member-detail">🧀 <strong>identity:</strong> {{ member.cheese }}</p>
+               {% if member.email %}
+               <p class="member-detail"><strong>Email:</strong> {{ member.email }}</p>
+               {% endif %}
+            </div>
+         </div>
+      </div>
+      {% endfor %}
+   </div>
+
+   <!-- Alumni Section -->
+   <h2 id="alumni" class="mt-5 mb-4">Alumni</h2>
+   <div class="row">
+      {% assign alums = site.data.team | where: "alum", "true" | sort: "id" %}
+      {% for alum in alums %}
+      <div class="col-12 mb-2">
+         <div class="alumni-entry">
+            <strong>{{ alum.name }}</strong> - {{ alum.pos }} → {{ alum.now }}
+         </div>
+      </div>
+      {% endfor %}
+   </div>
+</div>
+
+<style>
+.portrait {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: center 20%;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+
+.portrait-pi {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    object-position: center 20%;
+}
+
+.team-member {
+    margin-bottom: 2rem;
+}
+
+.member-info {
+    padding: 0.5rem 0;
+}
+
+.member-info h5 {
+    margin-bottom: 0.25rem;
+    color: #333;
+}
+
+.member-info h6 {
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+}
+
+.member-detail {
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+}
+
+.alumni-entry {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.alumni-entry:hover {
+    background: #f8f9fa;
+}
+</style>
