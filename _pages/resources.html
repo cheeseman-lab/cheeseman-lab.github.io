@@ -1,0 +1,91 @@
+---
+layout: default
+title: "Resources"
+permalink: /resources/
+---
+<div class="container">
+    <h1 class="mb-5">Resources</h1>
+    
+    <!-- Plasmids Section -->
+    <section class="resource-section mb-5">
+        <h2>Plasmids</h2>
+        <p class="mb-4">Our lab has generated numerous plasmids for studying kinetochore and cell division proteins. 
+           Plasmids are available through Addgene.</p>
+        <div class="resource-link">
+            <a href="https://www.addgene.org/Iain_Cheeseman/" class="btn btn-outline-dark">
+                Browse Our Plasmids on Addgene
+            </a>
+        </div>
+    </section>
+
+    <!-- Software Section -->
+    <section class="resource-section mb-5">
+        <h2>Software</h2>
+        <p class="mb-4">We develop and maintain software tools for analyzing cell biological data.</p>
+        <div class="resource-link">
+            <a href="https://github.com/cheeseman-lab" class="btn btn-outline-dark">
+                Visit Our GitHub Repository
+            </a>
+        </div>
+    </section>
+
+    <!-- Vesuvius Section -->
+    <section class="resource-section mb-5">
+        <h2>Vesuvius</h2>
+        <p class="mb-4">An interactive web portal for exploring image-based CRISPR screens of essential genes in human cells. 
+           Browse phenotypic data from our microscopy-based genetic screens.</p>
+        <div class="resource-link">
+            <a href="https://vesuvius.wi.mit.edu/" class="btn btn-outline-dark">
+                Explore Vesuvius Database
+            </a>
+        </div>
+    </section>
+</div>
+
+<style>
+.resource-section {
+    padding: 2rem 0;
+    border-bottom: 1px solid #eee;
+}
+.resource-section:last-child {
+    border-bottom: none;
+}
+.resource-section h2 {
+    margin-bottom: 1.5rem;
+}
+.protocol-item h3, .reagent-item h3, .data-item h3 {
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+}
+.protocol-list ul, .data-list ul {
+    list-style: none;
+    padding-left: 0;
+}
+.protocol-list li, .data-list li {
+    margin-bottom: 0.5rem;
+}
+.resource-link {
+    margin-top: 1rem;
+}
+.btn-outline-dark {
+    border: 1px solid #343a40;
+    padding: 0.5rem 1rem;
+    transition: all 0.3s ease;
+}
+.btn-outline-dark:hover {
+    background-color: #343a40;
+    color: white;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+@media (max-width: 767px) {
+    .mb-4 {
+        margin-bottom: 2rem !important;
+    }
+}
+</style>

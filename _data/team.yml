@@ -86,15 +86,15 @@
   pos: Graduate Student
   id: ben_velez
   alum: false
-  bio: "Ben's research focuses on understanding the role of the proteasome in mitosis. Outside of the lab, Ben enjoys playing soccer, hiking, and cooking."
-  cheese: "Queso de bola"
+  bio: "Ben is interested in studying how alternative translational start sites impact protein quality control across different cell states, cell types, and environments. In his free time, he enjoys watching American football, playing video games, and working to make MIT even better through the GSU."
+  cheese: "Cotija"
 
 - name: Noah Taylor
   pos: Graduate Student
   id: noah_taylor
   alum: false
-  bio: "Noah's research focuses on understanding the role of the proteasome in mitosis. Outside of the lab, Noah enjoys playing soccer, hiking, and cooking."
-  cheese: "Queso de bola"
+  bio: "Noah's research focuses on defining the cellular biology of irreversible cell-cycle arrest, specifically focusing on the pathways that underlie the maintenance of senescent cell function. In his free time, you can find Noah running along the Esplanade, playing chess, or trying new restaurants."
+  cheese: "Parmesan"
 
 # Technicians
 - name: Brittania Moodie

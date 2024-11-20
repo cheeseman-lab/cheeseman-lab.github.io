@@ -9,3 +9,8 @@ conda install -c conda-forge compilers
 gem install bundler jekyll
 jekyll new . --force
 ```
+
+
+```bash
+bundle exec jekyll serve
+```
