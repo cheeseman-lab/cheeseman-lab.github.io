@@ -3,15 +3,23 @@ layout: default
 title: Home
 ---
 
-<div class="hero">
-    <h1 class="hero-title">Cheeseman Lab</h1>
+<div class="page-wrapper">
+    <div class="hero">
+        <h1 class="hero-title">Cheeseman Lab</h1>
+    </div>
 </div>
 
 <style>
+.page-wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
 .hero {
-    height: 100vh;
+    flex: 1;
     width: 100%;
-    background-image: url('{{ site.baseurl }}assets/img/research/divison.jpg');
+    background-image: url('{{ site.baseurl }}assets/img/research/background.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -25,3 +33,4 @@ title: Home
     font-size: 4rem;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
+</style>
