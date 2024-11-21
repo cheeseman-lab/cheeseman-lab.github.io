@@ -4,37 +4,49 @@ title: "Publications"
 permalink: /publications/
 ---
 
-{% assign lab_members = site.data.people | map: "id" %}
-{% assign years = site.data.publications | map: "publication_year" | uniq | sort | reverse %}
+<div class="page-wrapper">
+    <div class="container content-wrapper">
+        <h1 class="mb-5">Publications</h1>
 
-<div class="container">
-    <h1 class="mb-5">Publications</h1>
+        {% assign lab_members = site.data.people | map: "id" %}
+        {% assign years = site.data.publications | map: "publication_year" | uniq | sort | reverse %}
 
-    {% for year in years %}
-    <div class="collapsible-section">
-        <button class="collapsible-button" onclick="toggleSection('year{{ year }}')">
-            <h2>{{ year }}</h2>
-            <span class="toggle-icon">+</span>
-        </button>
-        <div class="collapsible-content" id="year{{ year }}">
-            {% assign year_pubs = site.data.publications | where: "publication_year", year %}
-            {% for pub in year_pubs %}
-            <div class="publication-item">
-                <h5>{{ pub.title }}</h5>
-                <div class="authors">
-                    {% for author in pub.authors %}
-                        <nobr>{{ author }}{% if forloop.last == false %},{% endif %}</nobr>
-                    {% endfor %}
+        {% for year in years %}
+        <div class="collapsible-section">
+            <button class="collapsible-button" onclick="toggleSection('year{{ year }}')">
+                <h2>{{ year }}</h2>
+                <span class="toggle-icon">+</span>
+            </button>
+            <div class="collapsible-content" id="year{{ year }}">
+                {% assign year_pubs = site.data.publications | where: "publication_year", year %}
+                {% for pub in year_pubs %}
+                <div class="publication-item">
+                    <h5>{{ pub.title }}</h5>
+                    <div class="authors">
+                        {% for author in pub.authors %}
+                            <nobr>{{ author }}{% if forloop.last == false %},{% endif %}</nobr>
+                        {% endfor %}
+                    </div>
+                    <a href="https://doi.org/{{ pub.doi }}" class="article_link">{{ pub.journal }}</a>
                 </div>
-                <a href="https://doi.org/{{ pub.doi }}" class="article_link">{{ pub.journal }}</a>
+                {% endfor %}
             </div>
-            {% endfor %}
         </div>
+        {% endfor %}
     </div>
-    {% endfor %}
 </div>
 
 <style>
+.page-wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.content-wrapper {
+    flex: 1;
+}
+
 .collapsible-section {
     border-bottom: 1px solid #dee2e6;
 }
@@ -89,7 +101,6 @@ permalink: /publications/
     text-decoration: underline;
 }
 
-/* No bottom border for last section */
 .collapsible-section:last-child {
     border-bottom: none;
 }

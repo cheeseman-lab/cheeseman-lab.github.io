@@ -3,46 +3,66 @@ layout: default
 title: "Resources"
 permalink: /resources/
 ---
-<div class="container">
-    <h1 class="mb-5">Resources</h1>
-    
-    <!-- Plasmids Section -->
-    <section class="resource-section mb-5">
-        <h2>Plasmids</h2>
-        <p class="mb-4">Our lab has generated numerous plasmids for studying kinetochore and cell division proteins. 
-           Plasmids are available through Addgene.</p>
-        <div class="resource-link">
-            <a href="https://www.addgene.org/Iain_Cheeseman/" class="btn btn-outline-dark">
-                Browse Our Plasmids on Addgene
-            </a>
-        </div>
-    </section>
-
-    <!-- Software Section -->
-    <section class="resource-section mb-5">
-        <h2>Software</h2>
-        <p class="mb-4">We develop and maintain software tools for analyzing cell biological data.</p>
-        <div class="resource-link">
-            <a href="https://github.com/cheeseman-lab" class="btn btn-outline-dark">
-                Visit Our GitHub Repository
-            </a>
-        </div>
-    </section>
-
-    <!-- Vesuvius Section -->
-    <section class="resource-section mb-5">
-        <h2>Vesuvius</h2>
-        <p class="mb-4">An interactive web portal for exploring image-based CRISPR screens of essential genes in human cells. 
-           Browse phenotypic data from our microscopy-based genetic screens.</p>
-        <div class="resource-link">
-            <a href="https://vesuvius.wi.mit.edu/" class="btn btn-outline-dark">
-                Explore Vesuvius Database
-            </a>
-        </div>
-    </section>
+<div class="page-wrapper">
+    <div class="container content-wrapper">
+        <h1 class="mb-5">Resources</h1>
+        
+        <!-- Plasmids Section -->
+        <section class="resource-section mb-5">
+            <h2>Plasmids</h2>
+            <p class="mb-4">Our lab has generated numerous plasmids for studying kinetochore and cell division proteins. 
+               Plasmids are available through Addgene.</p>
+            <div class="resource-link">
+                <a href="https://www.addgene.org/Iain_Cheeseman/" class="btn btn-outline-dark">
+                    Browse Our Plasmids on Addgene
+                </a>
+            </div>
+        </section>
+        <!-- Vesuvius Section -->
+        <section class="resource-section mb-5">
+            <h2>Vesuvius</h2>
+            <p class="mb-4">An interactive web portal for exploring image-based CRISPR screens of essential genes in human cells. 
+               Browse phenotypic data from our microscopy-based genetic screens.</p>
+            <div class="resource-link">
+                <a href="https://vesuvius.wi.mit.edu/" class="btn btn-outline-dark">
+                    Explore Vesuvius Database
+                </a>
+            </div>
+        </section>
+        <!-- Cell Cycle Knockouts Section -->
+        <section class="resource-section mb-5">
+            <h2>Cell Cycle Knockouts Database</h2>
+            <p class="mb-4">We have generated a collection of inducible CRISPR/Cas9-based knockout human cell lines targeting 209 genes with key roles in cell cycle functions. This resource enables precise studies of cell cycle structures, processes, and checkpoints. The database includes micrographs from analyses of knockout cell lines in HeLa cells.</p>
+            <div class="resource-link">
+                <a href="http://cellcycleknockouts.wi.mit.edu/" class="btn btn-outline-dark">
+                    Explore Cell Cycle Knockouts Database
+                </a>
+            </div>
+        </section>
+        <!-- Software Section -->
+        <section class="resource-section mb-5">
+            <h2>Software</h2>
+            <p class="mb-4">We develop and maintain software tools for analyzing cell biological data.</p>
+            <div class="resource-link">
+                <a href="https://github.com/cheeseman-lab" class="btn btn-outline-dark">
+                    Visit Our GitHub Repository
+                </a>
+            </div>
+        </section>
+    </div>
 </div>
 
 <style>
+.page-wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.content-wrapper {
+    flex: 1;
+}
+
 .resource-section {
     padding: 2rem 0;
     border-bottom: 1px solid #eee;
