@@ -1,6 +1,8 @@
 # cheeseman-lab
 Cheeseman lab website
 
+To setup Jekyll:
+
 ```bash
 conda create -n website
 conda activate website
@@ -10,6 +12,7 @@ gem install bundler jekyll
 jekyll new . --force
 ```
 
+To launch test:
 
 ```bash
 bundle exec jekyll serve
