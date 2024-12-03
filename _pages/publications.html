@@ -11,13 +11,9 @@ permalink: /publications/
         {% assign lab_members = site.data.people | map: "id" %}
         {% assign years = site.data.publications | map: "publication_year" | uniq | sort | reverse %}
 
+        <!-- Recent publications (2024-2025) displayed openly -->
         {% for year in years %}
-        <div class="collapsible-section">
-            <button class="collapsible-button" onclick="toggleSection('year{{ year }}')">
-                <h2>{{ year }}</h2>
-                <span class="toggle-icon">+</span>
-            </button>
-            <div class="collapsible-content" id="year{{ year }}">
+            {% if year >= 2024 %}
                 {% assign year_pubs = site.data.publications | where: "publication_year", year %}
                 {% for pub in year_pubs %}
                 <div class="publication-item">
@@ -30,106 +26,55 @@ permalink: /publications/
                     <a href="https://doi.org/{{ pub.doi }}" class="article_link">{{ pub.journal }}</a>
                 </div>
                 {% endfor %}
+            {% endif %}
+        {% endfor %}
+
+        <!-- 2023-2007 publications in collapsible sections -->
+        {% for year in years %}
+            {% if year <= 2023 and year > 2006 %}
+                <div class="collapsible-section">
+                    <button class="collapsible-button" onclick="toggleSection('year{{ year }}')">
+                        <h2>{{ year }}</h2>
+                        <span class="toggle-icon">+</span>
+                    </button>
+                    <div class="collapsible-content" id="year{{ year }}">
+                        {% assign year_pubs = site.data.publications | where: "publication_year", year %}
+                        {% for pub in year_pubs %}
+                        <div class="publication-item">
+                            <h5>{{ pub.title }}</h5>
+                            <div class="authors">
+                                {% for author in pub.authors %}
+                                    <nobr>{{ author }}{% if forloop.last == false %},{% endif %}</nobr>
+                                {% endfor %}
+                            </div>
+                            <a href="https://doi.org/{{ pub.doi }}" class="article_link">{{ pub.journal }}</a>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+
+        <!-- 2006 and earlier in a single collapsible section -->
+        <div class="collapsible-section">
+            <button class="collapsible-button" onclick="toggleSection('year2006andearlier')">
+                <h2>2006 and Earlier</h2>
+                <span class="toggle-icon">+</span>
+            </button>
+            <div class="collapsible-content" id="year2006andearlier">
+                {% assign early_pubs = site.data.publications | where_exp: "pub", "pub.publication_year <= 2006" %}
+                {% for pub in early_pubs %}
+                <div class="publication-item">
+                    <h5>{{ pub.title }}</h5>
+                    <div class="authors">
+                        {% for author in pub.authors %}
+                            <nobr>{{ author }}{% if forloop.last == false %},{% endif %}</nobr>
+                        {% endfor %}
+                    </div>
+                    <a href="https://doi.org/{{ pub.doi }}" class="article_link">{{ pub.journal }}</a>
+                </div>
+                {% endfor %}
             </div>
         </div>
-        {% endfor %}
     </div>
 </div>
-
-<style>
-.page-wrapper {
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-}
-
-.content-wrapper {
-    flex: 1;
-}
-
-.collapsible-section {
-    border-bottom: 1px solid #dee2e6;
-}
-
-.collapsible-button {
-    width: 100%;
-    padding: 1rem 0;
-    background: none;
-    border: none;
-    text-align: left;
-    cursor: pointer;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.collapsible-button h2 {
-    margin: 0;
-    font-size: 2rem;
-    font-weight: normal;
-}
-
-.toggle-icon {
-    font-size: 1.5rem;
-    line-height: 1;
-    color: #666;
-}
-
-.collapsible-content {
-    display: none;
-    padding: 1rem 0 2rem 0;
-}
-
-.publication-item {
-    margin-bottom: 2rem;
-}
-
-.publication-item h5 {
-    margin-bottom: 0.5rem;
-}
-
-.authors {
-    margin-bottom: 0.5rem;
-}
-
-.article_link {
-    color: inherit;
-    text-decoration: none;
-}
-
-.article_link:hover {
-    text-decoration: underline;
-}
-
-.collapsible-section:last-child {
-    border-bottom: none;
-}
-</style>
-
-<script>
-function toggleSection(id) {
-    const content = document.getElementById(id);
-    const button = content.previousElementSibling;
-    const icon = button.querySelector('.toggle-icon');
-    
-    if (content.style.display === 'block') {
-        content.style.display = 'none';
-        icon.textContent = '+';
-    } else {
-        content.style.display = 'block';
-        icon.textContent = '−';
-    }
-}
-
-// Open current year by default
-document.addEventListener('DOMContentLoaded', function() {
-    const currentYear = new Date().getFullYear().toString();
-    const currentYearSection = document.getElementById('year' + currentYear);
-    if (currentYearSection) {
-        currentYearSection.style.display = 'block';
-        const button = currentYearSection.previousElementSibling;
-        const icon = button.querySelector('.toggle-icon');
-        icon.textContent = '−';
-    }
-});
-</script>
