@@ -33,7 +33,7 @@ permalink: /publications/
 
         <!-- 2023-2007 publications in collapsible sections -->
         {% for year in years %}
-            {% if year <= 2023 and year > 2006 %}
+            {% if year <= 2023 and year > 2007 %}
                 <div class="collapsible-section">
                     <button class="collapsible-button" onclick="toggleSection('year{{ year }}')">
                         <h2>{{ year }}</h2>
@@ -57,14 +57,14 @@ permalink: /publications/
             {% endif %}
         {% endfor %}
 
-        <!-- 2006 and earlier in a single collapsible section -->
+        <!-- 2007 and earlier in a single collapsible section -->
         <div class="collapsible-section">
-            <button class="collapsible-button" onclick="toggleSection('year2006andearlier')">
-                <h2>2006 and earlier</h2>
+            <button class="collapsible-button" onclick="toggleSection('year2007andearlier')">
+                <h2>2007 and earlier</h2>
                 <span class="toggle-icon">+</span>
             </button>
-            <div class="collapsible-content" id="year2006andearlier">
-                {% assign early_pubs = site.data.publications | where_exp: "pub", "pub.publication_year <= 2006" %}
+            <div class="collapsible-content" id="year2007andearlier">
+                {% assign early_pubs = site.data.publications | where_exp: "pub", "pub.publication_year <= 2007" %}
                 {% for pub in early_pubs %}
                 <div class="publication-item">
                     <h5>{{ pub.title }}</h5>
@@ -138,10 +138,10 @@ permalink: /publications/
     }
     
     .article_link {
-        color: inherit;
+        color: #0066cc;  /* Standard blue link color */
         text-decoration: none;
     }
-    
+
     .article_link:hover {
         text-decoration: underline;
     }
@@ -166,14 +166,4 @@ permalink: /publications/
         }
     }
     
-    // Open the most recent collapsible year by default (2023)
-    document.addEventListener('DOMContentLoaded', function() {
-        const year2023Section = document.getElementById('year2023');
-        if (year2023Section) {
-            year2023Section.style.display = 'block';
-            const button = year2023Section.previousElementSibling;
-            const icon = button.querySelector('.toggle-icon');
-            icon.textContent = '−';
-        }
-    });
     </script>

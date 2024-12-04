@@ -53,16 +53,16 @@ permalink: /team/
    </div>
 
    <!-- Alumni Section -->
-   <h2 id="alumni" class="mt-5 mb-4">Alumni</h2>
+   <h2 id="alumni" class="mt-5 mb-4">Alumni (chronologically ordered)</h2>
    <div class="row">
-      {% assign alums = site.data.team | where: "alum", "true" | sort: "id" %}
-      {% for alum in alums %}
-      <div class="col-12 mb-2">
-         <div class="alumni-entry">
-            <strong>{{ alum.name }}</strong> - {{ alum.pos }} → {{ alum.now }}
-         </div>
+   {% assign alums = site.data.team | where: "alum", "true" | sort: "departure_year" | reverse %}
+   {% for alum in alums %}
+   <div class="col-12 mb-2">
+      <div class="alumni-entry">
+         <strong>{{ alum.name }}</strong> - {{ alum.pos }} → {{ alum.now }}
       </div>
-      {% endfor %}
+   </div>
+   {% endfor %}
    </div>
 </div>
 

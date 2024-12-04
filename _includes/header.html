@@ -1,28 +1,51 @@
 <header class="site-header">
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-      <div class="container">
-        <a class="navbar-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav ms-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="{{ '/research' | relative_url }}">Research</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ '/team' | relative_url }}">Team</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ '/publications' | relative_url }}">Publications</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ '/resources' | relative_url }}">Resources</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ '/contact' | relative_url }}">Contact</a>
-          </ul>
-        </div>
+  <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #000066;">
+    <div class="container py-3">
+      <img src="/assets/img/logo/cheeseman-logo.png" alt="Cheeseman Logo" class="header-logo me-3">
+      <a class="navbar-brand fs-4 text-white" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link fs-5 text-white" href="{{ '/research' | relative_url }}">Research</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link fs-5 text-white" href="{{ '/team' | relative_url }}">Team</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link fs-5 text-white" href="{{ '/publications' | relative_url }}">Publications</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link fs-5 text-white" href="{{ '/resources' | relative_url }}">Resources</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link fs-5 text-white" href="{{ '/contact' | relative_url }}">Contact</a>
+        </ul>
       </div>
-    </nav>
-  </header>
+    </div>
+  </nav>
+</header>
+
+<style>
+.header-logo {
+  height: 75px;
+  width: auto;
+}
+
+.navbar-nav .nav-link {
+  padding: 0.5rem 1rem;
+  color: white !important;  /* Forces white color */
+}
+
+.navbar-nav .nav-link:hover {
+  color: rgba(255, 255, 255, 0.8) !important;  /* Slightly transparent white on hover */
+}
+
+@media (max-width: 768px) {
+  .header-logo {
+    height: 200px;
+  }
+}
+</style>

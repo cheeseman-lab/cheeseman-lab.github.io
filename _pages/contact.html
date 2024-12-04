@@ -7,28 +7,28 @@ permalink: /contact/
 <div class="page-wrapper">
     <div class="container content-wrapper">
         <h1 class="mb-5">Contact</h1>
-
+ 
         <!-- Primary Contact Info -->
-        <section class="mb-5">
+        <section class="mb-4">  <!-- Changed from mb-5 to mb-4 -->
             <div class="row">
                 <div class="col-md-4 mb-4">
                     <h2>Principal Investigator</h2>
                     <p>
                         <strong>Iain Cheeseman</strong><br>
-                        <a href="mailto:icheese@wi.mit.edu">icheese@wi.mit.edu</a>
+                        <a href="mailto:icheese@wi.mit.edu" class="email-link">icheese@wi.mit.edu</a>
                     </p>
                 </div>
-
+ 
                 <div class="col-md-4 mb-4">
                     <h2>Administrative Support</h2>
                     <p>
                         <strong>Brittany Brady</strong><br>
-                        Assistant Lab Manager<br>
+                        Administrative Lab Manager<br>
                         <a href="tel:6172589243">617-258-9243</a><br>
-                        <a href="mailto:bbrady@wi.mit.edu">bbrady@wi.mit.edu</a>
+                        <a href="mailto:bbrady@wi.mit.edu" class="email-link">bbrady@wi.mit.edu</a>
                     </p>
                 </div>
-
+ 
                 <div class="col-md-4 mb-4">
                     <h2>Location</h2>
                     <p>
@@ -39,65 +39,85 @@ permalink: /contact/
                 </div>
             </div>
         </section>
-
+ 
         <!-- Join the Lab Section -->
-        <section class="contact-section mb-5">
-            <h2>Join the Lab</h2>
+        <section class="contact-section">  <!-- Removed mb-5 class -->
+            <h2>Join us!</h2>
             
             <div class="position-info mb-4">
-                <h3>Graduate Students</h3>
-                <p>We accept students from MIT graduate programs. Please contact us to learn more about rotation opportunities.</p>
+                <h3>Postdoctoral Fellows</h3>
+                <p>We welcome applications from potential postdoctoral fellows. Please email Iain at <a href="mailto:icheese@wi.mit.edu" class="email-link">icheese@wi.mit.edu</a> for potential postdoc opportunities.</p>
             </div>
-
+        
+            <div class="position-info mb-4">
+                <h3>Graduate Students</h3>
+                <p>MIT graduate students across all departments can join the lab through a rotation. Please contact <a href="mailto:cheeseman_admin@wi.mit.edu" class="email-link">cheeseman_admin@wi.mit.edu</a> to learn more about rotation opportunities. External graduate students interested in opportunities should also email us to discuss possibilities for joining the lab.</p>
+            </div>
+        
             <div class="position-info mb-4">
                 <h3>Undergraduate Students</h3>
-                <p>MIT students interested in UROP opportunities should email any lab member or Iain Cheeseman to discuss potential projects.</p>
+                <p>MIT students can join the lab through the <a href="https://urop.mit.edu/" class="email-link">UROP</a> program. Please email <a href="mailto:cheeseman_admin@wi.mit.edu" class="email-link">cheeseman_admin@wi.mit.edu</a> to discuss potential projects. External undergraduate students interested in research opportunities are encouraged to apply to the <a href="https://oge.mit.edu/msrp/" class="email-link">MSRP</a> program or to contact us to learn about possible positions.</p>
             </div>
         </section>
-    </div>
-</div>
+        
+        <!-- Lab Photo Section -->
+        <section class="lab-photo-section mt-5 mb-5">
+            <div class="text-center">
+                <img src="{{ site.baseurl }}/assets/img/lab_photos/retreat_2024.jpg" alt="Cheeseman Lab Retreat 2024" class="img-fluid rounded shadow mb-3">
+                <p class="text-muted">Lab Retreat 2024</p>
+            </div>
+        </section>
+        <style>
 
-<style>
 .page-wrapper {
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+   min-height: 100vh;
+   display: flex;
+   flex-direction: column;
 }
 
 .content-wrapper {
-    flex: 1;
+   flex: 1;
 }
 
 .contact-section {
-    padding: 2rem 0;
-    border-bottom: 1px solid #eee;
+   padding: 2rem 0;
+   border-bottom: 1px solid #eee;
 }
 
 .contact-section:last-child {
-    border-bottom: none;
+   border-bottom: none;
 }
 
 .position-info {
-    margin-bottom: 2rem;
+   margin-bottom: 2rem;
 }
 
 .position-info h3 {
-    margin-bottom: 1rem;
-    font-size: 1.4rem;
+   margin-bottom: 1rem;
+   font-size: 1.4rem;
 }
 
 a {
-    color: inherit;
-    text-decoration: none;
+   color: inherit;
+   text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline;
+   text-decoration: underline;
+}
+
+.email-link {
+   color: #0066cc;
+   text-decoration: none;
+}
+
+.email-link:hover {
+   text-decoration: underline;
 }
 
 @media (max-width: 767px) {
-    .mb-4 {
-        margin-bottom: 2rem !important;
-    }
+   .mb-4 {
+       margin-bottom: 2rem !important;
+   }
 }
 </style>
