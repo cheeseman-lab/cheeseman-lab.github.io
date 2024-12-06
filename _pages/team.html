@@ -60,11 +60,16 @@ permalink: /team/
    <div class="col-12 mb-2">
       <div class="alumni-entry">
          <strong>{{ alum.name }}</strong> - {{ alum.pos }} → {{ alum.now }}
+         {% if alum.lab_website %}
+         <a href="{{ alum.lab_website }}" target="_blank"> (Lab Website)</a>
+         {% endif %}
+         {% if alum.email %}
+         <a href="mailto:{{ alum.email }}"> (Email)</a>
+         {% endif %}
       </div>
    </div>
    {% endfor %}
    </div>
-</div>
 
 <style>
 .portrait {

@@ -195,6 +195,7 @@
   id: tomomi_kiyomitsu
   alum: true
   now: Assistant Professor at OIST, Okinawa, Japan
+  lab_website: https://groups.oist.jp/cddu/tomomi-kiyomitsu
   departure_year: 2013
 
 - name: Nolan Maier
@@ -216,6 +217,7 @@
   id: kara_mckinley
   alum: true
   now: Assistant Professor at Harvard University, Department of Stem Cell and Regenerative Biology
+  lab_website: https://www.mckinleylab.org/
   departure_year: 2016
 
 - name: Julie Monda
@@ -232,11 +234,12 @@
   now: Senior Project Coordinator at Broad Institute
   departure_year: 2022
 
-- name: Alexandra Nguyen
+- name: Alexandra (Ally) Nguyen
   pos: Post-doc
   id: ally_nguyen
   alum: true
   now: Assistant Professor at University of Colorado, Anschutz Medical Campus
+  email: Ally.Nguyen@CUAnschutz.edu 
   departure_year: 2024
 
 - name: Charlotte Pennings
@@ -265,6 +268,7 @@
   id: jens_schmidt
   alum: true
   now: Assistant Professor at Michigan State University, Institute for Quantitative Health Sciences and Engineering
+  lab_website: https://www.theschmidtlab.com/
   departure_year: 2012
 
 - name: Gunter Sissoko
@@ -274,11 +278,12 @@
   now: Research Scientist
   departure_year: 2023
 
-- name: Zak Swartz
+- name: S. Zachary (Zak) Swartz
   pos: Post-doc
   id: zak_swartz
   alum: true
   now: Assistant Professor at the Marine Biology Lab (MBL), Wood's Hole, MA
+  lab_website: https://www.theswartzlab.org/
   departure_year: 2022
 
 - name: Sasha Targ
@@ -327,7 +332,7 @@
   pos: Undergraduate Student (MSRP)
   id: katherine_franzone
   alum: true
-  now: Cedar Crest College
+  now: Graduate student at Rutgers University
   departure_year: 2023
 
 - name: Daxi Carballo
