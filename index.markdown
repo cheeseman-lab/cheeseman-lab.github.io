@@ -30,7 +30,23 @@ title: Home
 
 .hero-title {
     color: white;
+    text-align: center;
     font-size: 4rem;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Responsive font size */
+@media (max-width: 768px) {
+    .hero-title {
+        font-size: 3rem;
+        width: 100%;
+        padding: 0 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-title {
+        font-size: 2.5rem;
+    }
 }
 </style>
