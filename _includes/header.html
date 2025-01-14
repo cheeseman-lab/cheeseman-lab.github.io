@@ -1,7 +1,7 @@
 <header class="site-header">
-  <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #000066;">
+  <nav class="navbar navbar-expand-lg navbar-dark m-0 p-0" style="background-color: #000066;">
     <div class="container py-3">
-      <img src="/assets/img/logo/cheeseman-logo.png" alt="Cheeseman Logo" class="header-logo me-3">
+      <img src="/assets/img/logo/cheeseman-logo.png" alt="Cheeseman Logo" class="header-logo d-none d-md-block me-3">
       <a class="navbar-brand fs-4 text-white" href="{{ '/' | relative_url }}">{{ site.title }}</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>
@@ -22,6 +22,7 @@
           </li>
           <li class="nav-item">
             <a class="nav-link fs-5 text-white" href="{{ '/contact' | relative_url }}">Contact</a>
+          </li>
         </ul>
       </div>
     </div>
@@ -29,6 +30,16 @@
 </header>
 
 <style>
+.site-header {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.navbar {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
 .header-logo {
   height: 75px;
   width: auto;
@@ -36,16 +47,10 @@
 
 .navbar-nav .nav-link {
   padding: 0.5rem 1rem;
-  color: white !important;  /* Forces white color */
+  color: white !important;
 }
 
 .navbar-nav .nav-link:hover {
-  color: rgba(255, 255, 255, 0.8) !important;  /* Slightly transparent white on hover */
-}
-
-@media (max-width: 768px) {
-  .header-logo {
-    height: 200px;
-  }
+  color: rgba(255, 255, 255, 0.8) !important;
 }
 </style>

@@ -124,14 +124,6 @@
   cheese: Imeruli
   email: haug[at]mit.edu
 
-- name: Kevin Cadieux
-  pos: Undergraduate
-  id: kevin_cadieux
-  alum: false
-  bio: "Kevin is currently investigating the differences between kinetochore proteins in quiescent cells and cycling cells. Kevin also loves go to the beach, listen to live music and attempt to play music."
-  cheese: "Queso frito"
-  email: kcadieux[at]wi.mit.edu
-
 - name: Roshan Kern
   pos: Undergraduate
   id: roshan_kern
@@ -161,6 +153,13 @@
   alum: true
   now: Lead Scientific Product and Communications Designer at Immunai
   departure_year: 2019
+
+- name: Kevin Cadieux
+  pos: Undergraduate
+  id: kevin_cadieux
+  alum: true
+  now: MIT
+  departure_year: 2024
 
 - name: Scott Foster
   pos: Post-doc

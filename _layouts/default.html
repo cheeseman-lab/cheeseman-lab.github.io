@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
   {% include head.html %}
-  <body>
+  <body class="d-flex flex-column min-vh-100{% if page.url == '/' %} home{% endif %}">
     {% include header.html %}
     
-    <div class="container mt-4">
+    <main class="flex-grow-1">
       {{ content }}
-    </div>
+    </main>
 
     {% include footer.html %}
     
