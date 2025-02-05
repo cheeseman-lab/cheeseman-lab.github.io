@@ -132,6 +132,15 @@
   cheese: "Aged cheddar"
   email: rkern[at]wi.mit.edu
 
+- name: Alexa Mallar
+  pos: Undergraduate
+  id: alexa_mallar
+  alum: false
+  bio: "Alexa's research interests lie at the intersection of computer science and biology, focusing on developing computational tools for biological data analysis. In her free time, she enjoys drawing, creative writing, and skating."
+  cheese: "Mascarpone"
+  email: amallar[at]wi.mit.edu
+  
+
 # Alumni (in alphabetical order by last name)
 - name: Chelsea Backer
   pos: Technician
