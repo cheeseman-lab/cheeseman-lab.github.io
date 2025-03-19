@@ -139,7 +139,14 @@
   bio: "Alexa's research interests lie at the intersection of computer science and biology, focusing on developing computational tools for biological data analysis. In her free time, she enjoys drawing, creative writing, and skating."
   cheese: "Mascarpone"
   email: amallar[at]wi.mit.edu
-  
+
+# Confidential
+- name: Lyra C.
+  pos: Confidential
+  id: lyra_cheeseman
+  alum: false
+  bio: ".-.. -.-- .-. .- / .. ... / .. .- .. -. .----. ... / -.. .- ..- --. .... - . .-. / .-- .... --- / -... .-. .. -... . -.. / - .... . / -.-. .... . . ... . -- .- -. / .-.. .- -... / .. -. / --- .-. -.. . .-. / - --- / -... . / --- -. / - .... . / .-.. .- -... / .-- . -... ... .. - ."
+  cheese: "Fromage Pavé"
 
 # Alumni (in alphabetical order by last name)
 - name: Chelsea Backer
