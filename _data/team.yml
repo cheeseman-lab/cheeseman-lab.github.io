@@ -29,8 +29,8 @@
   pos: Post-doc
   id: eric_smith
   alum: false
-  bio: "Eric enjoys skiing, hockey, and cooking in his free time. Eric's research focuses on understanding how cancer cells transform their proteome to support continued cell division."
-  cheese: Mozzarella
+  bio: "Eric enjoys skiing, hockey, and cooking in his free time. Eric's research investigates the function of protein-nucleic acid complexes. He is particularly interested in defining how their composition and cellular roles are modulated by incorporating alternative protein isoforms and paralogs."
+  cheese: Humboldt Fog
   email: ericms[at]wi.mit.edu
 
 # Graduate Students
@@ -58,7 +58,7 @@
   cheese: "Ricotta because it is so versatile."
   email: rkkim[at]wi.mit.edu
 
-- name: Katya Khalizeva
+- name: Ekaterina (Katya) Khalizeva
   pos: Graduate Student
   id: katya_khalizeva
   alum: false
@@ -97,6 +97,14 @@
   bio: "Noah's research focuses on defining the cellular biology of irreversible cell-cycle arrest, specifically focusing on the pathways that underlie the maintenance of senescent cell function. In his free time, you can find Noah running along the Esplanade, playing chess, or trying new restaurants."
   cheese: "Parmesan"
   email: noahjlt[at]wi.mit.edu
+
+- name: Lia Munson
+  pos: Graduate Student
+  id: lia_munson
+  alum: false
+  bio: "Lia’s research is focused on the changes made to core translational machinery under prolonged and short-term cellular stress. She enjoys running, listening to jazz, and trying out local breweries."
+  cheese: "Manchego"
+  email: lmunson[at]wi.mit.edu
 
 # Technicians
 - name: Brittania Moodie
@@ -292,6 +300,13 @@
   alum: true
   now: Research Scientist
   departure_year: 2023
+
+- name: Nathalie Torres
+  pos: Undergraduate Student (MSRP)
+  id: nathalie_torres
+  alum: true
+  now: Undergraduate Student at University of Puerto Rico, Aguadilla
+  departure_year: 2025
 
 - name: S. Zachary (Zak) Swartz
   pos: Post-doc
