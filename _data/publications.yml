@@ -1,1186 +1,1374 @@
-- title: Functional genetics reveals modulators of antimicrotubule drug sensitivity
+- title: Adaptive evolution of CENP-T modulates centromere binding
   authors:
-  - Su KC
-  - Radul E
-  - Maier NK
-  - Tsang MJ
-  - Goul C
-  - Moodie B
-  - Marescal O
-  - Keys HR
-  - Cheeseman IM
-  journal: J. Cell Biol.
+  - Damian Dudka
+  - Alexandra L. Nguyen
+  - Katelyn G. Boese
+  - Océane Marescal
+  - R. B. Akins
+  - B. E. Black
+  - I. Cheeseman
+  - M. Lampson
+  journal: Current Biology
   publication_year: 2025
-  doi: 10.1083/jcb.202403065
-- title: A conserved germline-specific Dsn1 alternative splice isoform supports oocyte
-    and embryo development
+  doi: 10.1016/j.cub.2025.01.017
+- title: Alternative start codon selection shapes mitochondrial function during evolution,
+    homeostasis, and disease
   authors:
-  - Ly J
-  - Blengini CS
-  - Cady SL
-  - Schindler K
-  - Cheeseman IM
-  journal: Curr. Biol.
+  - Jimmy Ly
+  - Yi Fei Tao
+  - Matteo Di Bernardo
+  - Ekaterina Khalizeva
+  - Christopher J. Giuliano
+  - Sebastian Lourido
+  - Mark D. Fleming
+  - I. Cheeseman
+  journal: bioRxiv
+  publication_year: 2025
+  doi: 10.1101/2025.03.27.645657
+- title: Molecular determinants of RNase MRP specificity and function
+  authors:
+  - Eric M. Smith
+  - Jimmy Ly
+  - Sofia Haug
+  - I. Cheeseman
+  journal: bioRxiv
+  publication_year: 2025
+  doi: 10.1101/2025.01.28.635360
+- title: 'Brieflow: An Integrated Computational Pipeline for High-Throughput Analysis
+    of Optical Pooled Screening Data'
+  authors:
+  - Matteo Di iernardo
+  - Roshan S. Kern
+  - Alexa Mallar
+  - Andrew Nutter-Upham
+  - P. Blainey
+  - I. Cheeseman
+  journal: bioRxiv
+  publication_year: 2025
+  doi: 10.1101/2025.05.26.656231
+- title: 19S proteasome loss causes monopolar spindles through ubiquitin-independent
+    KIF11 degradation
+  authors:
+  - Océane Marescal
+  - I. Cheeseman
+  journal: bioRxiv
+  publication_year: 2025
+  doi: 10.1101/2025.01.08.632038
+- title: Differential roles for the spindle assembly checkpoint in error surveillance
+    and mitotic timing
+  authors:
+  - Ryan K. Kim
+  - Kuan-Chung Su
+  - Mary-Jane Tsang
+  - Nolan K Maier
+  - Brittania Moodie
+  - I. Cheeseman
+  journal: bioRxiv
+  publication_year: 2025
+  doi: 10.1101/2025.06.14.659703
+- title: Higher-order protein assembly controls kinetochore formation
+  authors:
+  - Gunter B Sissoko
+  - Ekaterina V Tarasovetc
+  - Océane Marescal
+  - E. Grishchuk
+  - I. Cheeseman
+  journal: Nature Cell Biology
   publication_year: 2024
-  doi: 10.1016/j.cub.2024.07.089
+  doi: 10.1038/s41556-023-01313-7
+- title: Nuclear release of eIF1 globally increases stringency of start-codon selection
+    to preserve mitotic arrest physiology
+  authors:
+  - Jimmy Ly
+  - Kehui Xiang
+  - Kuan-Chung Su
+  - Gunter B Sissoko
+  - David P. Bartel
+  - I. Cheeseman
+  journal: bioRxiv
+  publication_year: 2024
+  doi: 10.1101/2024.04.06.588385
 - title: Nuclear release of eIF1 restricts start-codon selection during mitosis
   authors:
-  - Ly J
-  - Xiang K
-  - Su KC
-  - Sissoko GB
-  - Bartel DP
-  - Cheeseman IM
+  - Jimmy Ly
+  - Kehui Xiang
+  - Kuan-Chung Su
+  - Gunter B Sissoko
+  - David P. Bartel
+  - I. Cheeseman
   journal: Nature
   publication_year: 2024
   doi: 10.1038/s41586-024-08088-3
-- title: Higher-order protein assembly controls kinetochore formation
+- title: Co-essentiality analysis identifies PRR12 as a cohesin interacting protein
+    and contributor to genomic integrity
   authors:
-  - Sissoko GB
-  - Tarasovetc EV
-  - Marescal O
-  - Grishchuk EL
-  - Cheeseman IM
-  journal: Nat. Cell Biol.
+  - Alexandra L. Nguyen
+  - Eric M. Smith
+  - I. Cheeseman
+  journal: Developmental Cell
   publication_year: 2024
-  doi: 10.1038/s41556-023-01313-7
+  doi: 10.1016/j.devcel.2024.12.015
+- title: A conserved germline-specific Dsn1 alternative splice isoform supports oocyte
+    and embryo development
+  authors:
+  - Jimmy Ly
+  - Cecilia S. Blengini
+  - Sarah L. Cady
+  - Karen Schindler
+  - I. Cheeseman
+  journal: bioRxiv
+  publication_year: 2024
+  doi: 10.1101/2024.04.17.589883
+- title: Structural constraints and drivers of molecular evolution in a macromolecular
+    complex; the kinetochore
+  authors:
+  - Hannah K. Pare
+  - Alexandra L. Nguyen
+  - M. S. Pankey
+  - I. Cheeseman
+  - David Plachetzki
+  journal: bioRxiv
+  publication_year: 2024
+  doi: 10.1101/2024.07.10.602950
+- title: Functional genetics reveals modulators of anti-microtubule drug sensitivity
+  authors:
+  - Kuan-Chung Su
+  - Elena Radul
+  - Nolan K Maier
+  - Mary-Jane Tsang
+  - Claire Goul
+  - Brittania Moodie
+  - Heather R Keys
+  - I. Cheeseman
+  journal: bioRxiv
+  publication_year: 2024
+  doi: 10.1101/2024.03.12.584469
+- title: Co-Essentiality Analysis Identifies PRR12 as a Regulator of Cohesin and Genome
+    Integrity
+  authors:
+  - Alexandra L. Nguyen
+  - Eric M. Smith
+  - I. Cheeseman
+  journal: bioRxiv
+  publication_year: 2024
+  doi: 10.1101/2024.03.29.587394
+- title: Binding Site Maturation Modulated by Molecular Density Underlies Ndc80 Binding
+    to Kinetochore Receptor CENP-T
+  authors:
+  - Ekaterina V Tarasovetc
+  - Gunter B Sissoko
+  - Aleksandr Maiorov
+  - Anna S. Mukhina
+  - F. Ataullakhanov
+  - I. Cheeseman
+  - E. Grishchuk
+  journal: bioRxiv
+  publication_year: 2024
+  doi: 10.1101/2024.02.25.581584
 - title: Alternative CDC20 translational isoforms tune mitotic arrest duration
   authors:
-  - Tsang MJ
-  - Cheeseman IM
+  - Mary-Jane Tsang
+  - I. Cheeseman
   journal: Nature
   publication_year: 2023
   doi: 10.1038/s41586-023-05943-7
-- title: The phenotypic landscape of essential human genes
-  authors:
-  - Funk L
-  - Su KC
-  - Ly J
-  - Feldman D
-  - Singh A
-  - Moodie B
-  - Blainey PC
-  - Cheeseman IM
-  journal: Cell
-  publication_year: 2022
-  doi: 10.1016/j.cell.2022.10.017
-- title: Dynamic cell cycle-dependent phosphorylation modulates CENP-L-CENP-N centromere
+- title: Higher-order assembly is a regulatory switch that promotes outer kinetochore
     recruitment
   authors:
-  - Navarro AP
-  - Cheeseman IM
-  journal: Mol. Biol. Cell
-  publication_year: 2022
-  doi: 10.1091/mbc.E22-06-0239
-- title: Identification of a Golgi-localized peptide reveals a minimal Golgi-targeting
-    motif
+  - Gunter B Sissoko
+  - Ekaterina V Tarasovetc
+  - E. Grishchuk
+  - I. Cheeseman
+  journal: bioRxiv
+  publication_year: 2023
+  doi: 10.1101/2023.05.22.541649
+- title: The phenotypic landscape of essential human genes
   authors:
-  - Navarro AP
-  - Cheeseman IM
-  journal: Mol. Biol. Cell
-  publication_year: 2022
-  doi: 10.1091/mbc.E22-03-0091
-- title: Differential requirements for the CENP-O complex reveal parallel PLK1 kinetochore
-    recruitment pathways
-  authors:
-  - Nguyen AL
-  - Fadel MD
-  - Cheeseman IM
-  journal: Mol. Biol. Cell
+  - Luke Funk
+  - Kuan-Chung Su
+  - David Feldman
+  - Avtar Singh
+  - Brittania Moodie
+  - P. Blainey
+  - I. Cheeseman
+  journal: Cell
   publication_year: 2021
-  doi: 10.1091/mbc.E20-11-0751
+  doi: 10.1101/2021.11.28.470116
 - title: Kinetochore assembly throughout the cell cycle
   authors:
-  - Navarro AP
-  - Cheeseman IM
-  journal: Semin. Cell Dev. Biol.
+  - Alexandra P. Navarro
+  - I. Cheeseman
+  journal: Seminars in Cell and Developmental Biology
   publication_year: 2021
   doi: 10.1016/j.semcdb.2021.03.008
 - title: Separase cleaves the kinetochore protein Meikin at the meiosis I/II transition
   authors:
-  - Maier NK
-  - Ma J
-  - Lampson MA
-  - Cheeseman IM
-  journal: Dev. Cell
+  - N. Maier
+  - Jun Ma
+  - M. Lampson
+  - I. Cheeseman
+  journal: Developmental Cell
   publication_year: 2021
   doi: 10.1016/j.devcel.2021.06.019
-- title: Permitted and restricted steps of human kinetochore assembly in mitotic cell
-    extracts
-  authors:
-  - Tarasovetc EV
-  - Allu PK
-  - Wimbish RT
-  - DeLuca JG
-  - Cheeseman IM
-  - Black BE
-  - Grishchuk EL
-  journal: Mol. Biol. Cell
-  publication_year: 2021
-  doi: 10.1091/mbc.E20-07-0461
 - title: Polarized Dishevelled dissolution and reassembly drives embryonic axis specification
     in sea star oocytes
   authors:
-  - Swartz SZ
-  - Tan TH
-  - Perillo M
-  - Fakhri N
-  - Wessel GM
-  - Wikramanayake AH
-  - Cheeseman IM
-  journal: Curr. Biol.
+  - S. Z. Swartz
+  - Tzer Han Tan
+  - M. Perillo
+  - N. Fakhri
+  - G. Wessel
+  - A. Wikramanayake
+  - I. Cheeseman
+  journal: Current Biology
   publication_year: 2021
   doi: 10.1016/j.cub.2021.10.022
+- title: Dynamic cell cycle–dependent phosphorylation modulates CENP-L–CENP-N centromere
+    recruitment
+  authors:
+  - Alexandra P. Navarro
+  - I. Cheeseman
+  journal: bioRxiv
+  publication_year: 2021
+  doi: 10.1101/2021.12.17.473210
+- title: Permitted and restricted steps of human kinetochore assembly in mitotic cell
+    extracts
+  authors:
+  - Ekaterina V Tarasovetc
+  - P. K. Allu
+  - Robert T. Wimbish
+  - J. DeLuca
+  - I. Cheeseman
+  - B. E. Black
+  - E. Grishchuk
+  journal: Molecular Biology of the Cell
+  publication_year: 2021
+  doi: 10.1091/mbc.E20-07-0461
+- title: Alternative Cdc20 translational isoforms bypass the spindle assembly checkpoint
+    to control mitotic arrest duration
+  authors:
+  - Mary-Jane Tsang
+  - I. Cheeseman
+  journal: bioRxiv
+  publication_year: 2021
+  doi: 10.1101/2021.10.24.465552
+- title: Polarized Dishevelled dissolution and condensation drives embryonic axis
+    specification in oocytes
+  authors:
+  - S. Swartz
+  - Tzer Han Tan
+  - M. Perillo
+  - N. Fakhri
+  - G. Wessel
+  - A. Wikramanayake
+  - I. Cheeseman
+  journal: bioRxiv
+  publication_year: 2021
+  doi: 10.1101/2021.05.17.444558
+- title: Cellular Mechanisms and Regulation of Quiescence
+  authors:
+  - Océane Marescal
+  - I. Cheeseman
+  journal: Developmental Cell
+  publication_year: 2020
+  doi: 10.1016/j.devcel.2020.09.029
+- title: Alpha-satellite RNA transcripts are repressed by centromere-nucleolus associations
+  authors:
+  - L. Bury
+  - Brittania Moodie
+  - Liliana S. McKay
+  - K. Miga
+  - I. Cheeseman
+  journal: bioRxiv
+  publication_year: 2020
+  doi: 10.1101/2020.04.14.040766
+- title: Differential requirements for the CENP-O complex reveal parallel PLK1 kinetochore
+    recruitment pathways
+  authors:
+  - Alexandra L. Nguyen
+  - Marie Diane Fadel
+  - I. Cheeseman
+  journal: bioRxiv
+  publication_year: 2020
+  doi: 10.1101/2020.11.30.404327
 - title: Selective dephosphorylation by PP2A-B55 directs the meiosis I-meiosis II
     transition in oocytes
   authors:
-  - Swartz SZ
-  - Nguyen HT
-  - McEwan BC
-  - Adamo ME
-  - Cheeseman IM
-  - Kettenbach AN
-  journal: Elife
-  publication_year: 2021
-  doi: 10.7554/eLife.70588
-- title: Alpha-satellite RNA transcripts are repressed by centromere-nucleolus associations
-  authors:
-  - Bury L
-  - Moodie B
-  - Ly J
-  - McKay LS
-  - Miga KH
-  - Cheeseman IM
-  journal: Elife
+  - S. Zachary Swartz
+  - Hieu T Nguyen
+  - Brennan C McEwan
+  - M. Adamo
+  - I. Cheeseman
+  - A. Kettenbach
+  journal: bioRxiv
   publication_year: 2020
-  doi: 10.7554/eLife.59770
-- title: Cellular mechanisms and regulation of quiescence
+  doi: 10.1101/2020.08.21.260216
+- title: Identification of a Golgi-localized peptide reveals a minimal Golgi-targeting
+    motif
   authors:
-  - Marescal O
-  - Cheeseman IM
-  journal: Dev. Cell
+  - Alexandra P. Navarro
+  - I. Cheeseman
+  journal: bioRxiv
   publication_year: 2020
-  doi: 10.1016/j.devcel.2020.09.029
-- title: Cohesin removal reprograms gene expression upon mitotic entry
+  doi: 10.1101/2020.12.13.422530
+- title: 'Chromosome Segregation: Evolving a Plastic Chromosome–Microtubule Interface'
   authors:
-  - Perea-Resa C
-  - Bury L
-  - Cheeseman IM
-  - Blower MD
-  journal: Mol. Cell
-  publication_year: 2020
-  doi: 10.1016/j.molcel.2020.01.023
-- title: 'Chromosome segregation: Evolving a plastic chromosome-microtubule interface'
-  authors:
-  - Navarro AP
-  - Cheeseman IM
-  journal: Curr. Biol.
+  - Alexandra P. Navarro
+  - I. Cheeseman
+  journal: Current Biology
   publication_year: 2020
   doi: 10.1016/j.cub.2019.12.058
-- title: Quiescent cells actively replenish CENP-A nucleosomes to maintain centromere
-    identity and proliferative potential
+- title: Reconstitution of human kinetochore in mitotic cell extracts reveals permitted
+    and restricted assembly steps
   authors:
-  - Swartz SZ
-  - McKay LS
-  - Su KC
-  - Bury L
-  - Padeganeh A
-  - Maddox PS
-  - Knouse KA
-  - Cheeseman IM
-  journal: Dev. Cell
-  publication_year: 2019
-  doi: 10.1016/j.devcel.2019.07.016
-- title: Ectopic activation of the spindle assembly checkpoint signaling cascade reveals
-    its biochemical design
+  - Ekaterina V Tarasovetc
+  - P. K. Allu
+  - I. Cheeseman
+  - B. E. Black
+  - E. Grishchuk
+  journal: bioRxiv
+  publication_year: 2020
+  doi: 10.1101/2020.07.15.203109
+- title: Cohesin removal reprograms gene expression upon mitotic entry
   authors:
-  - Chen C
-  - Whitney IP
-  - Banerjee A
-  - Sacristan C
-  - Sekhri P
-  - Kern DM
-  - Fontan A
-  - Kops GJPL
-  - Tyson JJ
-  - Cheeseman IM
-  - Joglekar AP
-  journal: Curr. Biol.
+  - C. Perea-Resa
+  - L. Bury
+  - I. Cheeseman
+  - Michael D. Blower
+  journal: bioRxiv
   publication_year: 2019
-  doi: 10.1016/j.cub.2018.11.054
+  doi: 10.1101/678003
 - title: The AAA + ATPase TorsinA polymerizes into hollow helical tubes with 8.5 subunits
     per turn
   authors:
-  - Demircioglu FE
-  - Zheng W
-  - McQuown AJ
-  - Maier NK
-  - Watson N
-  - Cheeseman IM
-  - Denic V
-  - Egelman EH
-  - Schwartz TU
-  journal: Nat. Commun.
+  - E. Demircioğlu
+  - Weili Zheng
+  - Alexander J. McQuown
+  - N. Maier
+  - N. Watson
+  - I. Cheeseman
+  - Vladimir Denic
+  - E. Egelman
+  - T. Schwartz
+  journal: Nature Communications
   publication_year: 2019
   doi: 10.1038/s41467-019-11194-w
-- title: CRISPR/Cas9-based gene targeting using synthetic guide RNAs enables robust
-    cell biological analyses
+- title: Ectopic Activation of the Spindle Assembly Checkpoint Signaling Cascade Reveals
+    Its Biochemical Design
   authors:
-  - Su KC
-  - Tsang MJ
-  - Emans N
-  - Cheeseman IM
-  journal: Mol. Biol. Cell
+  - Chu Chen
+  - Ian P. Whitney
+  - A. Banerjee
+  - C. Sacristán
+  - P. Sekhri
+  - D. Kern
+  - A. Fontan
+  - G. Kops
+  - J. Tyson
+  - I. Cheeseman
+  - Ajit P. Joglekar
+  journal: Current Biology
+  publication_year: 2019
+  doi: 10.1016/j.cub.2018.11.054
+- title: The AAA+ ATPase TorsinA polymerizes into hollow tubes with a helical periodicity
+    of 8.5 subunits per turn
+  authors:
+  - F. E. Demircioglu
+  - Weili Zheng
+  - Alexander J. McQuown
+  - N. Maier
+  - N. Watson
+  - I. Cheeseman
+  - Vladimir Denic
+  - E. Egelman
+  - T. Schwartz
+  journal: bioRxiv
+  publication_year: 2019
+  doi: 10.1101/567099
+- title: Distinct Roles of RZZ and Bub1-KNL1 in Mitotic Checkpoint Signaling and Kinetochore
+    Expansion
+  authors:
+  - J. Rodriguez-Rodriguez
+  - C. Lewis
+  - Kara L. McKinley
+  - Vitali Sikirzhytski
+  - Jennifer Corona
+  - J. Maciejowski
+  - A. Khodjakov
+  - I. Cheeseman
+  - P. Jallepalli
+  journal: Current Biology
   publication_year: 2018
-  doi: 10.1091/mbc.E18-04-0214
-- title: Microcephaly modeling of kinetochore mutation reveals a brain-specific phenotype
+  doi: 10.1016/j.cub.2018.10.006
+- title: The kinetochore–microtubule interface at a glance
   authors:
-  - Omer Javed A
-  - Li Y
-  - Muffat J
-  - Su KC
-  - Cohen MA
-  - Lungjangwa T
-  - Aubourg P
-  - Cheeseman IM
-  - Jaenisch R
-  journal: Cell Rep.
+  - Julie K. Monda
+  - I. Cheeseman
+  journal: Journal of Cell Science
+  publication_year: 2018
+  doi: 10.1242/jcs.214577
+- title: Quiescent cells actively replenish CENP-A nucleosomes to maintain centromere
+    identity and proliferative potential
+  authors:
+  - Zachary Swartz
+  - Liliana S. McKay
+  - Kuan-Chung Su
+  - L. Bury
+  - Abbas Padeganeh
+  - P. Maddox
+  - Kristin A. Knouse
+  - I. Cheeseman
+  journal: bioRxiv
+  publication_year: 2018
+  doi: 10.1101/433391
+- title: Microcephaly Modeling of Kinetochore Mutation Reveals a Brain-Specific Phenotype
+  authors:
+  - Attya Omer Javed
+  - Yun Li
+  - J. Muffat
+  - Kuan-Chung Su
+  - Malkiel A. Cohen
+  - Tenzin Lungjangwa
+  - P. Aubourg
+  - I. Cheeseman
+  - R. Jaenisch
+  journal: Cell Reports
   publication_year: 2018
   doi: 10.1016/j.celrep.2018.09.032
 - title: Nde1 promotes diverse dynein functions through differential interactions
     and exhibits an isoform-specific proteasome association
   authors:
-  - Monda JK
-  - Cheeseman IM
-  journal: Mol. Biol. Cell
+  - Julie K. Monda
+  - I. Cheeseman
+  journal: Molecular Biology of the Cell
   publication_year: 2018
   doi: 10.1091/mbc.E18-07-0418
-- title: The kinetochore-microtubule interface at a glance
+- title: CRISPR/Cas9-based gene targeting using synthetic guide RNAs enables robust
+    cell biological analyses
   authors:
-  - Monda JK
-  - Cheeseman IM
-  journal: J. Cell Sci.
+  - Kuan-Chung Su
+  - Mary-Jane Tsang
+  - N. Emans
+  - I. Cheeseman
+  journal: Molecular Biology of the Cell
   publication_year: 2018
-  doi: 10.1242/jcs.214577
+  doi: 10.1091/mbc.E18-04-0214
 - title: Dynamic regulation of dynein localization revealed by small molecule inhibitors
     of ubiquitination enzymes
   authors:
-  - Monda JK
-  - Cheeseman IM
-  journal: Open Biol.
+  - Julie K. Monda
+  - I. Cheeseman
+  journal: Open Biology
   publication_year: 2018
   doi: 10.1098/rsob.180095
-- title: Distinct roles of RZZ and Bub1-KNL1 in mitotic checkpoint signaling and kinetochore
-    expansion
+- title: The RZZ complex integrates spindle checkpoint maintenance with dynamic expansion
+    of unattached kinetochores
   authors:
-  - Rodriguez-Rodriguez JA
-  - Lewis C
-  - McKinley KL
-  - Sikirzhytski V
-  - Corona J
-  - Maciejowski J
-  - Khodjakov A
-  - Cheeseman IM
-  - Jallepalli PV
-  journal: Curr. Biol.
+  - J. Rodriguez-Rodriguez
+  - Kara L. McKinley
+  - Vitali Sikirzhytski
+  - Jennifer Corona
+  - J. Maciejowski
+  - A. Khodjakov
+  - I. Cheeseman
+  - P. Jallepalli
+  journal: bioRxiv
   publication_year: 2018
-  doi: 10.1016/j.cub.2018.10.006
-- title: Large-scale analysis of CRISPR/Cas9 cell-cycle knockouts reveals the diversity
-    of p53-dependent responses to cell-cycle defects
+  doi: 10.1101/297580
+- title: Large-Scale Analysis of CRISPR/Cas9 Cell-Cycle Knockouts Reveals the Diversity
+    of p53-Dependent Responses to Cell-Cycle Defects
   authors:
-  - McKinley KL
-  - Cheeseman IM
-  journal: Dev. Cell
+  - Kara L. McKinley
+  - I. Cheeseman
+  journal: Developmental Cell
   publication_year: 2017
   doi: 10.1016/j.devcel.2017.01.012
-- title: Astrin-SKAP complex reconstitution reveals its kinetochore interaction with
-    microtubule-bound Ndc80
-  authors:
-  - Kern DM
-  - Monda JK
-  - Su KC
-  - Wilson-Kubalek EM
-  - Cheeseman IM
-  journal: Elife
-  publication_year: 2017
-  doi: 10.7554/eLife.26866
-- title: Microtubule tip tracking by the spindle and kinetochore protein Ska1 requires
-    diverse tubulin-interacting surfaces
-  authors:
-  - Monda JK
-  - Whitney IP
-  - Tarasovetc EV
-  - Wilson-Kubalek E
-  - Milligan RA
-  - Grishchuk EL
-  - Cheeseman IM
-  journal: Curr. Biol.
-  publication_year: 2017
-  doi: 10.1016/j.cub.2017.10.018
 - title: Centromeres are maintained by fastening CENP-A to DNA and directing an arginine
     anchor-dependent nucleosome transition
   authors:
-  - Guo LY
-  - Allu PK
-  - Zandarashvili L
-  - McKinley KL
-  - Sekulic N
-  - Dawicki-McKenna JM
-  - Fachinetti D
-  - Logsdon GA
-  - Jamiolkowski RM
-  - Cleveland DW
-  - Cheeseman IM
-  - Black BE
-  journal: Nat. Commun.
+  - Lucie Y. Guo
+  - P. K. Allu
+  - Levani Zandarashvili
+  - Kara L. McKinley
+  - N. Sekulić
+  - Jennine M. Dawicki-McKenna
+  - D. Fachinetti
+  - Glennis A. Logsdon
+  - Ryan M. Jamiolkowski
+  - D. Cleveland
+  - I. Cheeseman
+  - B. E. Black
+  journal: Nature Communications
   publication_year: 2017
   doi: 10.1038/ncomms15775
-- title: A regulatory switch alters chromosome motions at the metaphase-to-anaphase
-    transition
+- title: Astrin-SKAP complex reconstitution reveals its kinetochore interaction with
+    microtubule-bound Ndc80
   authors:
-  - Su KC
-  - Barry Z
-  - Schweizer N
-  - Maiato H
-  - Bathe M
-  - Cheeseman IM
-  journal: Cell Rep.
+  - D. Kern
+  - Julie K. Monda
+  - Kuan-Chung Su
+  - E. Wilson-Kubalek
+  - I. Cheeseman
+  journal: bioRxiv
+  publication_year: 2017
+  doi: 10.1101/151399
+- title: Microtubule Tip Tracking by the Spindle and Kinetochore Protein Ska1 Requires
+    Diverse Tubulin-Interacting Surfaces
+  authors:
+  - Julie K. Monda
+  - Ian P. Whitney
+  - Ekaterina V Tarasovetc
+  - E. Wilson-Kubalek
+  - R. Milligan
+  - E. Grishchuk
+  - I. Cheeseman
+  journal: Current Biology
+  publication_year: 2017
+  doi: 10.1016/j.cub.2017.10.018
+- title: Ectopic activation of the Spindle Assembly Checkpoint reveals its biochemical
+    design and physiological operation
+  authors:
+  - Chu Chen
+  - Ian P. Whitney
+  - A. Banerjee
+  - P. Sekhri
+  - D. Kern
+  - A. Fontan
+  - J. Tyson
+  - I. Cheeseman
+  - Ajit P. Joglekar
+  journal: bioRxiv
+  publication_year: 2017
+  doi: 10.1101/154054
+- title: A Conversation with Iain Cheeseman
+  authors:
+  - I. Cheeseman
+  journal: Cold Spring Harbor Symposia on Quantitative Biology
+  publication_year: 2017
+  doi: 10.1101/sqb.2017.82.034454
+- title: A mitotic SKAP isoform regulates spindle positioning at astral microtubule
+    plus ends
+  authors:
+  - D. Kern
+  - P. Nicholls
+  - D. Page
+  - I. Cheeseman
+  journal: Journal of Cell Biology
+  publication_year: 2016
+  doi: 10.1083/jcb.201510117
+- title: A Regulatory Switch Alters Chromosome Motions at the Metaphase to Anaphase
+    Transition
+  authors:
+  - Kuan-Chung Su
+  - Zachary T. Barry
+  - Nina Schweizer
+  - H. Maiato
+  - M. Bathe
+  - I. Cheeseman
+  journal: Cell Reports
   publication_year: 2016
   doi: 10.1016/j.celrep.2016.10.046
 - title: Structural comparison of the Caenorhabditis elegans and human Ndc80 complexes
     bound to microtubules reveals distinct binding behavior
   authors:
-  - Wilson-Kubalek EM
-  - Cheeseman IM
-  - Milligan RA
-  journal: Mol. Biol. Cell
+  - E. Wilson-Kubalek
+  - I. Cheeseman
+  - R. Milligan
+  journal: Molecular Biology of the Cell
   publication_year: 2016
   doi: 10.1091/mbc.E15-12-0858
-- title: A mitotic SKAP isoform regulates spindle positioning at astral microtubule
-    plus ends
-  authors:
-  - Kern DM
-  - Nicholls PK
-  - Page DC
-  - Cheeseman IM
-  journal: J. Cell Biol.
-  publication_year: 2016
-  doi: 10.1083/jcb.201510117
 - title: The molecular basis for centromere identity and function
   authors:
-  - McKinley KL
-  - Cheeseman IM
-  journal: Nat. Rev. Mol. Cell Biol.
-  publication_year: 2016
-  doi: 10.1038/nrm.2015.5
-- title: Inferring transient particle transport dynamics in live cells
-  authors:
-  - Monnier N
-  - Barry Z
-  - Park HY
-  - Su KC
-  - Katz Z
-  - English BP
-  - Dey A
-  - Pan K
-  - Cheeseman IM
-  - Singer RH
-  - Bathe M
-  journal: Nat. Methods
+  - Kara L. McKinley
+  - I. Cheeseman
+  journal: Nature reviews. Molecular cell biology
   publication_year: 2015
-  doi: 10.1038/nmeth.3483
-- title: The CENP-L-N complex forms a critical node in an integrated meshwork of interactions
-    at the centromere-kinetochore interface
+  doi: 10.1038/nrm.2015.5
+- title: The CENP-L-N Complex Forms a Critical Node in an Integrated Meshwork of Interactions
+    at the Centromere-Kinetochore Interface
   authors:
-  - McKinley KL
-  - Sekulic N
-  - Guo LY
-  - Tsinman T
-  - Black BE
-  - Cheeseman IM
-  journal: Mol. Cell
+  - Kara L. McKinley
+  - N. Sekulić
+  - Lucie Y. Guo
+  - T. Tsinman
+  - B. E. Black
+  - I. Cheeseman
+  journal: Molecules and Cells
   publication_year: 2015
   doi: 10.1016/j.molcel.2015.10.027
-- title: The outer kinetochore protein KNL-1 contains a defined oligomerization domain
-    in nematodes
+- title: Inferring transient particle transport dynamics in live cells
   authors:
-  - Kern DM
-  - Kim T
-  - Rigney M
-  - Hattersley N
-  - Desai A
-  - Cheeseman IM
-  journal: Mol. Biol. Cell
+  - N. Monnier
+  - Zachary T. Barry
+  - H. Park
+  - Kuan-Chung Su
+  - Zachary B Katz
+  - Brian P. English
+  - Arkajit Dey
+  - Keyao Pan
+  - I. Cheeseman
+  - R. Singer
+  - M. Bathe
+  journal: Nature Methods
   publication_year: 2015
-  doi: 10.1091/mbc.E14-06-1125
+  doi: 10.1038/nmeth.3483
 - title: Distinct organization and regulation of the outer kinetochore KMN network
     downstream of CENP-C and CENP-T
   authors:
-  - Rago F
-  - Gascoigne KE
-  - Cheeseman IM
-  journal: Curr. Biol.
+  - Florencia Rago
+  - Karen E Gascoigne
+  - I. Cheeseman
+  journal: Current Biology
   publication_year: 2015
   doi: 10.1016/j.cub.2015.01.059
-- title: 'Chromosome segregation: A spatial code to correct kinetochore-microtubule
-    attachments'
+- title: The outer kinetochore protein KNL-1 contains a defined oligomerization domain
+    in nematodes
   authors:
-  - Monda JK
-  - Cheeseman IM
-  journal: Curr. Biol.
+  - D. Kern
+  - Taekyung Kim
+  - Mike Rigney
+  - N. Hattersley
+  - A. Desai
+  - I. Cheeseman
+  journal: Molecular Biology of the Cell
   publication_year: 2015
-  doi: 10.1016/j.cub.2015.05.056
-- title: Kinetochore genes are coordinately up-regulated in human tumors as part of
-    a FoxM1-related cell division program
+  doi: 10.1091/mbc.E14-06-1125
+- title: Polo-like Kinase 1 Licenses CENP-A Deposition at Centromeres
   authors:
-  - Thiru P
-  - Kern DM
-  - McKinley KL
-  - Monda JK
-  - Rago F
-  - Su KC
-  - Tsinman T
-  - Yarar D
-  - Bell GW
-  - Cheeseman IM
-  journal: Mol. Biol. Cell
-  publication_year: 2014
-  doi: 10.1091/mbc.E14-03-0837
-- title: Polo-like kinase 1 licenses CENP-A deposition at centromeres
-  authors:
-  - McKinley KL
-  - Cheeseman IM
+  - Kara L. McKinley
+  - I. Cheeseman
   journal: Cell
   publication_year: 2014
   doi: 10.1016/j.cell.2014.06.016
-- title: The kinetochore
+- title: Kinetochore genes are coordinately up-regulated in human tumors as part of
+    a FoxM1-related cell division program
   authors:
-  - Cheeseman IM
-  journal: Cold Spring Harb. Perspect. Biol.
+  - P. Thiru
+  - D. Kern
+  - Kara L. McKinley
+  - Julie K. Monda
+  - Florencia Rago
+  - Kuan-Chung Su
+  - T. Tsinman
+  - D. Yarar
+  - G. Bell
+  - I. Cheeseman
+  journal: Molecular Biology of the Cell
   publication_year: 2014
-  doi: 10.1101/cshperspect.a015826
-- title: Resonance assignments of the microtubule-binding domain of the C. elegans
-    spindle and kinetochore-associated protein 1
+  doi: 10.1091/mbc.E14-03-0837
+- title: CENP‐T provides a structural platform for outer kinetochore assembly
   authors:
-  - Boeszoermenyi A
-  - Schmidt JC
-  - Cheeseman IM
-  - Oberer M
-  - Wagner G
-  - Arthanari H
-  journal: Biomol. NMR Assign.
-  publication_year: 2014
-  doi: 10.1007/s12104-013-9499-x
-- title: 'Esperanto for histones: CENP-A, not CenH3, is the centromeric histone H3
-    variant'
-  authors:
-  - Earnshaw WC
-  - Allshire RC
-  - Black BE
-  - Bloom K
-  - Brinkley BR
-  - Brown W
-  - Cheeseman IM
-  - Choo KH
-  - Copenhaver GP
-  - Deluca JG
-  - Desai A
-  - Diekmann S
-  - Erhardt S
-  - Fitzgerald-Hayes M
-  - Foltz D
-  - Fukagawa T
-  - Gassmann R
-  - Gerlich DW
-  - Glover DM
-  - Gorbsky GJ
-  - Harrison SC
-  - Heun P
-  - Hirota T
-  - Jansen LE
-  - Karpen G
-  - Kops GJ
-  - Lampson MA
-  - Lens SM
-  - Losada A
-  - Luger K
-  - Maiato H
-  - Maddox PS
-  - Margolis RL
-  - Masumoto H
-  - McAinsh AD
-  - Mellone BG
-  - Meraldi P
-  - Musacchio A
-  - Oegema K
-  - O'Neill RJ
-  - Salmon ED
-  - Scott KC
-  - Straight AF
-  - Stukenberg PT
-  - Sullivan BA
-  - Sullivan KF
-  - Sunkel CE
-  - Swedlow JR
-  - Walczak CE
-  - Warburton PE
-  - Westermann S
-  - Willard HF
-  - Wordeman L
-  - Yanagida M
-  - Yen TJ
-  - Yoda K
-  - Cleveland DW
-  journal: Chromosome Res.
-  publication_year: 2013
-  doi: 10.1007/s10577-013-9347-y
-- title: Spindle assembly checkpoint robustness requires Tpr-mediated regulation of
-    Mad1/Mad2 proteostasis
-  authors:
-  - Schweizer N
-  - Ferrás C
-  - Kern DM
-  - Logarinho E
-  - Cheeseman IM
-  - Maiato H
-  journal: J. Cell Biol.
-  publication_year: 2013
-  doi: 10.1083/jcb.201309076
-- title: CENP-T provides a structural platform for outer kinetochore assembly
-  authors:
-  - Nishino T
-  - Rago F
-  - Hori T
-  - Tomii K
-  - Cheeseman IM
-  - Fukagawa T
-  journal: EMBO J.
+  - T. Nishino
+  - Florencia Rago
+  - T. Hori
+  - K. Tomii
+  - I. Cheeseman
+  - T. Fukagawa
+  journal: EMBO Journal
   publication_year: 2013
   doi: 10.1038/emboj.2012.348
-- title: 'Review series: The functions and consequences of force at kinetochores'
-  authors:
-  - Rago F
-  - Cheeseman IM
-  journal: J. Cell Biol.
-  publication_year: 2013
-  doi: 10.1083/jcb.201211113
 - title: CDK-dependent phosphorylation and nuclear exclusion coordinately control
     kinetochore assembly state
   authors:
-  - Gascoigne KE
-  - Cheeseman IM
-  journal: J. Cell Biol.
+  - Karen E Gascoigne
+  - I. Cheeseman
+  journal: Journal of Cell Biology
   publication_year: 2013
   doi: 10.1083/jcb.201301006
-- title: Cortical dynein and asymmetric membrane elongation coordinately position
-    the spindle in anaphase
+- title: Spindle assembly checkpoint robustness requires Tpr-mediated regulation of
+    Mad1/Mad2 proteostasis
   authors:
-  - Kiyomitsu T
-  - Cheeseman IM
+  - Nina Schweizer
+  - C. Ferrás
+  - D. Kern
+  - E. Logarinho
+  - I. Cheeseman
+  - H. Maiato
+  journal: Journal of Cell Biology
+  publication_year: 2013
+  doi: 10.1083/JCB.201309076
+- title: The functions and consequences of force at kinetochores
+  authors:
+  - Florencia Rago
+  - I. Cheeseman
+  journal: Journal of Cell Biology
+  publication_year: 2013
+  doi: 10.1083/jcb.201211113
+- title: 'Esperanto for histones: CENP-A, not CenH3, is the centromeric histone H3
+    variant'
+  authors:
+  - W. Earnshaw
+  - R. Allshire
+  - B. E. Black
+  - K. Bloom
+  - B. Brinkley
+  - W. Brown
+  - I. Cheeseman
+  - K. Choo
+  - G. Copenhaver
+  - J. DeLuca
+  - A. Desai
+  - S. Diekmann
+  - S. Erhardt
+  - M. Fitzgerald‐Hayes
+  - D. Foltz
+  - T. Fukagawa
+  - R. Gassmann
+  - D. Gerlich
+  - D. Glover
+  - G. Gorbsky
+  - S. Harrison
+  - P. Heun
+  - T. Hirota
+  - L. Jansen
+  - G. Karpen
+  - G. Kops
+  - M. Lampson
+  - S. Lens
+  - A. Losada
+  - K. Luger
+  - H. Maiato
+  - P. Maddox
+  - R. Margolis
+  - H. Masumoto
+  - A. McAinsh
+  - B. Mellone
+  - P. Meraldi
+  - A. Musacchio
+  - K. Oegema
+  - R. O’Neill
+  - E. Salmon
+  - K. Scott
+  - A. Straight
+  - P. Stukenberg
+  - B. Sullivan
+  - K. Sullivan
+  - C. Sunkel
+  - J. Swedlow
+  - C. Walczak
+  - P. Warburton
+  - S. Westermann
+  - H. Willard
+  - L. Wordeman
+  - M. Yanagida
+  - T. Yen
+  - K. Yoda
+  - D. Cleveland
+  journal: Chromosome Research
+  publication_year: 2013
+  doi: 10.1007/s10577-013-9347-y
+- title: Cortical Dynein and Asymmetric Membrane Elongation Coordinately Position
+    the Spindle in Anaphase
+  authors:
+  - Tomomi Kiyomitsu
+  - I. Cheeseman
   journal: Cell
   publication_year: 2013
   doi: 10.1016/j.cell.2013.06.010
+- title: Resonance assignments of the microtubule-binding domain of the C. elegans
+    spindle and kinetochore-associated protein 1
+  authors:
+  - A. Boeszoermenyi
+  - Jens C. Schmidt
+  - I. Cheeseman
+  - M. Oberer
+  - G. Wagner
+  - H. Arthanari
+  journal: Biomolecular NMR Assignments
+  publication_year: 2013
+  doi: 10.1007/s12104-013-9499-x
 - title: Induced dicentric chromosome formation promotes genomic rearrangements and
     tumorigenesis
   authors:
-  - Gascoigne KE
-  - Cheeseman IM
-  journal: Chromosome Res.
+  - Karen E Gascoigne
+  - I. Cheeseman
+  journal: Chromosome Research
   publication_year: 2013
   doi: 10.1007/s10577-013-9368-6
-- title: T time for point centromeres
-  authors:
-  - Gascoigne KE
-  - Cheeseman IM
-  journal: Nat. Cell Biol.
-  publication_year: 2012
-  doi: 10.1038/ncb2509
-- title: Cdk1 and Plk1 mediate a CLASP2 phospho-switch that stabilizes kinetochore-microtubule
-    attachments
-  authors:
-  - Maia AR
-  - Garcia Z
-  - Kabeche L
-  - Barisic M
-  - Maffini S
-  - Macedo-Ribeiro S
-  - Cheeseman IM
-  - Compton DA
-  - Kaverina I
-  - Maiato H
-  journal: J. Cell Biol.
-  publication_year: 2012
-  doi: 10.1083/jcb.201203091
-- title: CSAP localizes to polyglutamylated microtubules and promotes proper cilia
-    function and zebrafish development
-  authors:
-  - Backer CB
-  - Gutzman JH
-  - Pearson CG
-  - Cheeseman IM
-  journal: Mol. Biol. Cell
-  publication_year: 2012
-  doi: 10.1091/mbc.E11-11-0931
-- title: The kinetochore-bound Ska1 complex tracks depolymerizing microtubules and
-    binds to curved protofilaments
-  authors:
-  - Schmidt JC
-  - Arthanari H
-  - Boeszoermenyi A
-  - Dashkevich NM
-  - Wilson-Kubalek EM
-  - Monnier N
-  - Markus M
-  - Oberer M
-  - Milligan RA
-  - Bathe M
-  - Wagner G
-  - Grishchuk EL
-  - Cheeseman IM
-  journal: Dev. Cell
-  publication_year: 2012
-  doi: 10.1016/j.devcel.2012.09.012
-- title: The microtubule-binding protein Cep170 promotes the targeting of the kinesin-13
-    depolymerase Kif2b to the mitotic spindle
-  authors:
-  - Welburn JP
-  - Cheeseman IM
-  journal: Mol. Biol. Cell
-  publication_year: 2012
-  doi: 10.1091/mbc.E12-03-0214
-- title: Chromosome- and spindle-pole-derived signals generate an intrinsic code for
+- title: Chromosome and spindle pole-derived signals generate an intrinsic code for
     spindle position and orientation
   authors:
-  - Kiyomitsu T
-  - Cheeseman IM
-  journal: Nat. Cell Biol.
+  - Tomomi Kiyomitsu
+  - I. Cheeseman
+  journal: Nature Cell Biology
   publication_year: 2012
   doi: 10.1038/ncb2440
-- title: 'Kinetochore structure: pulling answers from yeast'
+- title: CENP-T-W-S-X Forms a Unique Centromeric Chromatin Structure with a Histone-like
+    Fold
   authors:
-  - Kern DM
-  - Cheeseman IM
-  journal: Curr. Biol.
-  publication_year: 2012
-  doi: 10.1016/j.cub.2012.08.001
-- title: LAB-1 targets PP1 and restricts Aurora B kinase upon entrance into meiosis
-    to promote sister chromatid cohesion
-  authors:
-  - Tzur YB
-  - Egydio de Carvalho C
-  - Nadarajan S
-  - Van Bostelen I
-  - Gu Y
-  - Chu DS
-  - Cheeseman IM
-  - Colaiácovo MP
-  journal: PLoS Biol.
-  publication_year: 2012
-  doi: 10.1371/journal.pbio.1001378
-- title: Targeted proteomic dissection of Toxoplasma cytoskeleton sub-compartments
-    using MORN1
-  authors:
-  - Lorestani A
-  - Ivey FD
-  - Thirugnanam S
-  - Busby MA
-  - Marth GT
-  - Cheeseman IM
-  - Gubbels MJ
-  journal: Cytoskeleton (Hoboken)
-  publication_year: 2012
-  doi: 10.1002/cm.21077
-- title: CENP-T-W-S-X forms a unique centromeric chromatin structure with a histone-like
-    fold
-  authors:
-  - Nishino T
-  - Takeuchi K
-  - Gascoigne KE
-  - Suzuki A
-  - Hori T
-  - Oyama T
-  - Morikawa K
-  - Cheeseman IM
-  - Fukagawa T
+  - T. Nishino
+  - K. Takeuchi
+  - Karen E Gascoigne
+  - Aussie Suzuki
+  - T. Hori
+  - T. Oyama
+  - K. Morikawa
+  - I. Cheeseman
+  - T. Fukagawa
   journal: Cell
   publication_year: 2012
   doi: 10.1016/j.cell.2011.11.061
+- title: The kinetochore-bound Ska1 complex tracks depolymerizing microtubules and
+    binds to curved protofilaments
+  authors:
+  - Jens C. Schmidt
+  - H. Arthanari
+  - A. Boeszoermenyi
+  - Natalia M. Dashkevich
+  - E. Wilson-Kubalek
+  - N. Monnier
+  - M. Markus
+  - M. Oberer
+  - R. Milligan
+  - M. Bathe
+  - G. Wagner
+  - E. Grishchuk
+  - I. Cheeseman
+  journal: Developmental Cell
+  publication_year: 2012
+  doi: 10.1016/j.devcel.2012.09.012
+- title: Cdk1 and Plk1 mediate a CLASP2 phospho-switch that stabilizes kinetochore–microtubule
+    attachments
+  authors:
+  - A. Maia
+  - Z. García
+  - Lilian Kabeche
+  - M. Barišić
+  - S. Maffini
+  - Sandra Macedo-Ribeiro
+  - I. Cheeseman
+  - D. Compton
+  - I. Kaverina
+  - H. Maiato
+  journal: Journal of Cell Biology
+  publication_year: 2012
+  doi: 10.1083/jcb.201203091
+- title: The microtubule-binding protein Cep170 promotes the targeting of the kinesin-13
+    depolymerase Kif2b to the mitotic spindle
+  authors:
+  - J. Welburn
+  - I. Cheeseman
+  journal: Molecular Biology of the Cell
+  publication_year: 2012
+  doi: 10.1091/mbc.E12-03-0214
+- title: Targeted proteomic dissection of Toxoplasma cytoskeleton sub‐compartments
+    using MORN1
+  authors:
+  - Alexander Lorestani
+  - F. Ivey
+  - Sivasakthivel Thirugnanam
+  - Michele A. Busby
+  - Gabor T. Marth
+  - I. Cheeseman
+  - Marc-Jan Gubbels
+  journal: Cytoskeleton
+  publication_year: 2012
+  doi: 10.1002/cm.21077
+- title: LAB-1 Targets PP1 and Restricts Aurora B Kinase upon Entrance into Meiosis
+    to Promote Sister Chromatid Cohesion
+  authors:
+  - Yonatan B. Tzur
+  - Carlos Egydio de Carvalho
+  - Saravanapriah Nadarajan
+  - Ivo van Bostelen
+  - Yanjie Gu
+  - Diana S Chu
+  - I. Cheeseman
+  - M. Colaiácovo
+  journal: PLoS Biology
+  publication_year: 2012
+  doi: 10.1371/journal.pbio.1001378
+- title: CSAP localizes to polyglutamylated microtubules and promotes proper cilia
+    function and zebrafish development
+  authors:
+  - Chelsea B Backer
+  - Jennifer H. Gutzman
+  - C. Pearson
+  - I. Cheeseman
+  journal: Molecular Biology of the Cell
+  publication_year: 2012
+  doi: 10.1091/mbc.E11-11-0931
 - title: Building a path in cell biology
   authors:
-  - Voeltz G
-  - Cheeseman I
-  journal: Mol. Biol. Cell
+  - G. Voeltz
+  - I. Cheeseman
+  journal: Molecular Biology of the Cell
   publication_year: 2012
   doi: 10.1091/mbc.E12-05-0382
-- title: Affinity purification of protein complexes in C. elegans
+- title: Induced Ectopic Kinetochore Assembly Bypasses the Requirement for CENP-A
+    Nucleosomes
   authors:
-  - Zanin E
-  - Dumont J
-  - Gassmann R
-  - Cheeseman I
-  - Maddox P
-  - Bahmanyar S
-  - Carvalho A
-  - Niessen S
-  - Yates 3rd JR
-  - Oegema K
-  - Desai A
-  journal: Methods Cell Biol.
-  publication_year: 2011
-  doi: 10.1016/B978-0-12-544172-8.00011-6
-- title: Induced ectopic kinetochore assembly bypasses the requirement for CENP-A
-    nucleosomes
-  authors:
-  - Gascoigne KE
-  - Takeuchi K
-  - Suzuki A
-  - Hori T
-  - Fukagawa T
-  - Cheeseman IM
+  - Karen E Gascoigne
+  - K. Takeuchi
+  - Aussie Suzuki
+  - T. Hori
+  - T. Fukagawa
+  - I. Cheeseman
   journal: Cell
   publication_year: 2011
   doi: 10.1016/j.cell.2011.03.031
-- title: 'Kinetochore assembly: if you build it, they will come'
+- title: Affinity purification of protein complexes in C. elegans
   authors:
-  - Gascoigne KE
-  - Cheeseman IM
-  journal: Curr. Opin. Cell Biol.
+  - E. Zanin
+  - J. Dumont
+  - R. Gassmann
+  - I. Cheeseman
+  - P. Maddox
+  - Shirin Bahmanyar
+  - A. Carvalho
+  - Sherry L. Niessen
+  - J. Yates
+  - K. Oegema
+  - A. Desai
+  journal: Methods in Cell Biology
   publication_year: 2011
-  doi: 10.1016/j.ceb.2010.07.007
-- title: 'Chromosome segregation: keeping kinetochores in the loop'
+  doi: 10.1016/B978-0-12-544172-8.00011-6
+- title: Aurora B phosphorylates spatially distinct targets to differentially regulate
+    the kinetochore-microtubule interface
   authors:
-  - Schmidt JC
-  - Cheeseman IM
-  journal: Curr. Biol.
-  publication_year: 2011
-  doi: 10.1016/j.cub.2010.12.030
+  - J. Welburn
+  - Mathijs Vleugel
+  - Dan Liu
+  - J. Yates
+  - M. Lampson
+  - T. Fukagawa
+  - I. Cheeseman
+  journal: Molecules and Cells
+  publication_year: 2010
+  doi: 10.1016/j.molcel.2010.02.034
+- title: Regulated targeting of protein phosphatase 1 to the outer kinetochore by
+    KNL1 opposes Aurora B kinase
+  authors:
+  - Dan Liu
+  - Mathijs Vleugel
+  - Chelsea B Backer
+  - T. Hori
+  - T. Fukagawa
+  - I. Cheeseman
+  - M. Lampson
+  journal: Journal of Cell Biology
+  publication_year: 2010
+  doi: 10.1083/jcb.201001006
 - title: 'Sensing centromere tension: Aurora B and the regulation of kinetochore function'
   authors:
-  - Lampson MA
-  - Cheeseman IM
-  journal: Trends Cell Biol.
-  publication_year: 2011
+  - M. Lampson
+  - I. Cheeseman
+  journal: Trends in Cell Biology
+  publication_year: 2010
   doi: 10.1016/j.tcb.2010.10.007
 - title: Functional genomics, proteomics, and regulatory DNA analysis in isogenic
     settings using zinc finger nuclease-driven transgenesis into a safe harbor locus
     in the human genome
   authors:
-  - DeKelver RC
-  - Choi VM
-  - Moehle EA
-  - Paschon DE
-  - Hockemeyer D
-  - Meijsing SH
-  - Sancak Y
-  - Cui X
-  - Steine EJ
-  - Miller JC
-  - Tam P
-  - Bartsevich VV
-  - Meng X
-  - Rupniewski I
-  - Gopalan SM
-  - Sun HC
-  - Pitz KJ
-  - Rock JM
-  - Zhang L
-  - Davis GD
-  - Rebar EJ
-  - Cheeseman IM
-  - Yamamoto KR
-  - Sabatini DM
-  - Jaenisch R
-  - Gregory PD
-  - Urnov FD
-  journal: Genome Res.
+  - Russell Dekelver
+  - Vivian M. Choi
+  - E. A. Moehle
+  - David E. Paschon
+  - D. Hockemeyer
+  - Sebastiaan H. Meijsing
+  - Y. Sancak
+  - X. Cui
+  - Eveline J. Steine
+  - Jeffrey C. Miller
+  - Phillip Y. Tam
+  - V. Bartsevich
+  - Xiangdong Meng
+  - I. Rupniewski
+  - Sunita M. Gopalan
+  - Helena C. Sun
+  - Kathleen J. Pitz
+  - Jeremy M. Rock
+  - Lei Zhang
+  - G. Davis
+  - E. Rebar
+  - I. Cheeseman
+  - Keith R. Yamamoto
+  - D. Sabatini
+  - R. Jaenisch
+  - P. Gregory
+  - F. Urnov
+  journal: Genome Research
   publication_year: 2010
   doi: 10.1101/gr.106773.110
-- title: Tension at EMBO's Aneuploidy Workshop
-  authors:
-  - De Wulf P
-  - Cheeseman IM
-  journal: EMBO Rep.
-  publication_year: 2010
-  doi: 10.1038/embor.2010.146
-- title: Aurora B phosphorylates spatially distinct targets to differentially regulate
-    the kinetochore-microtubule interface
-  authors:
-  - Welburn JP
-  - Vleugel M
-  - Liu D
-  - Yates 3rd JR
-  - Lampson MA
-  - Fukagawa T
-  - Cheeseman IM
-  journal: Mol. Cell
-  publication_year: 2010
-  doi: 10.1016/j.molcel.2010.02.034
-- title: Aurora B kinase controls the targeting of the Astrin-SKAP complex to bioriented
+- title: Aurora B kinase controls the targeting of the Astrin–SKAP complex to bioriented
     kinetochores
   authors:
-  - Schmidt JC
-  - Kiyomitsu T
-  - Hori T
-  - Backer CB
-  - Fukagawa T
-  - Cheeseman IM
-  journal: J. Cell Biol.
+  - Jens C. Schmidt
+  - Tomomi Kiyomitsu
+  - T. Hori
+  - Chelsea B Backer
+  - T. Fukagawa
+  - I. Cheeseman
+  journal: Journal of Cell Biology
   publication_year: 2010
   doi: 10.1083/jcb.201006129
-- title: The Zn finger protein Iguana impacts Hedgehog signaling by promoting ciliogenesis
+- title: 'Kinetochore assembly: if you build it, they will come'
   authors:
-  - Glazer AM
-  - Wilkinson AW
-  - Backer CB
-  - Lapan SW
-  - Gutzman JH
-  - Cheeseman IM
-  - Reddien PW
-  journal: Dev. Biol.
+  - Karen E Gascoigne
+  - I. Cheeseman
+  journal: Current Opinion in Cell Biology
   publication_year: 2010
-  doi: 10.1016/j.ydbio.2009.10.025
-- title: Regulated targeting of protein phosphatase 1 to the outer kinetochore by
-    KNL1 opposes Aurora B kinase
+  doi: 10.1016/j.ceb.2010.07.007
+- title: Tension at EMBO's Aneuploidy Workshop
   authors:
-  - Liu D
-  - Vleugel M
-  - Backer CB
-  - Hori T
-  - Fukagawa T
-  - Cheeseman IM
-  - Lampson MA
-  journal: J. Cell Biol.
+  - P. De Wulf
+  - I. Cheeseman
+  journal: EMBO Reports
   publication_year: 2010
-  doi: 10.1083/jcb.201001006
-- title: 'Iain Cheeseman: a strong attachment to kinetochores. [An interview by Ben
-    Short]'
-  authors:
-  - Cheeseman I
-  journal: J. Cell Biol.
-  publication_year: 2009
-  doi: 10.1083/jcb.1866pi
+  doi: 10.1038/embor.2010.146
 - title: The human kinetochore Ska1 complex facilitates microtubule depolymerization-coupled
     motility
   authors:
-  - Welburn JP
-  - Grishchuk EL
-  - Backer CB
-  - Wilson-Kubalek EM
-  - Yates 3rd JR
-  - Cheeseman IM
-  journal: Dev. Cell
+  - J. Welburn
+  - E. Grishchuk
+  - Chelsea B Backer
+  - E. Wilson-Kubalek
+  - J. Yates
+  - I. Cheeseman
+  journal: Developmental Cell
   publication_year: 2009
   doi: 10.1016/j.devcel.2009.01.011
 - title: The CENP-S complex is essential for the stable assembly of outer kinetochore
     structure
   authors:
-  - Amano M
-  - Suzuki A
-  - Hori T
-  - Backer C
-  - Okawa K
-  - Cheeseman IM
-  - Fukagawa T
-  journal: J. Cell Biol.
+  - Miho Amano
+  - Aussie Suzuki
+  - T. Hori
+  - Chelsea B Backer
+  - K. Okawa
+  - I. Cheeseman
+  - T. Fukagawa
+  journal: Journal of Cell Biology
   publication_year: 2009
   doi: 10.1083/jcb.200903100
+- title: The Zn finger protein Iguana impacts Hedgehog signaling by promoting ciliogenesis
+  authors:
+  - A. Glazer
+  - Alex W. Wilkinson
+  - Chelsea B Backer
+  - S. Lapan
+  - Jennifer H. Gutzman
+  - I. Cheeseman
+  - P. Reddien
+  journal: Developmental Biology
+  publication_year: 2009
+  doi: 10.1016/j.ydbio.2009.10.025
+- title: 'Iain Cheeseman: a strong attachment to kinetochores'
+  authors:
+  - I. Cheeseman
+  journal: Journal of Cell Biology
+  publication_year: 2009
+  doi: 10.1083/jcb.1866pi
+- title: Molecular architecture of the kinetochore–microtubule interface
+  authors:
+  - I. Cheeseman
+  - A. Desai
+  journal: Nature reviews. Molecular cell biology
+  publication_year: 2008
+  doi: 10.1038/nrm2310
+- title: CCAN Makes Multiple Contacts with Centromeric DNA to Provide Distinct Pathways
+    to the Outer Kinetochore
+  authors:
+  - T. Hori
+  - Miho Amano
+  - Aussie Suzuki
+  - Chelsea B Backer
+  - J. Welburn
+  - Yimin Dong
+  - B. McEwen
+  - W. Shang
+  - E. Suzuki
+  - K. Okawa
+  - I. Cheeseman
+  - T. Fukagawa
+  journal: Cell
+  publication_year: 2008
+  doi: 10.1016/j.cell.2008.10.019
+- title: 'Fibrils Connect Microtubule Tips with Kinetochores: A Mechanism to Couple
+    Tubulin Dynamics to Chromosome Motion'
+  authors:
+  - J. McIntosh
+  - E. Grishchuk
+  - M. Morphew
+  - A. Efremov
+  - K. Zhudenkov
+  - Vladimir A. Volkov
+  - I. Cheeseman
+  - A. Desai
+  - D. Mastronarde
+  - F. Ataullakhanov
+  journal: Cell
+  publication_year: 2008
+  doi: 10.1016/j.cell.2008.08.038
 - title: 'A new mechanism controlling kinetochore-microtubule interactions revealed
     by comparison of two dynein-targeting components: SPDL-1 and the Rod/Zwilch/Zw10
     complex'
   authors:
-  - Gassmann R
-  - Essex A
-  - Hu JS
-  - Maddox PS
-  - Motegi F
-  - Sugimoto A
-  - O'Rourke SM
-  - Bowerman B
-  - McLeod I
-  - Yates 3rd JR
-  - Oegema K
-  - Cheeseman IM
-  - Desai A
-  journal: Genes Dev.
+  - R. Gassmann
+  - Anthony Essex
+  - Jia-Sheng Hu
+  - P. Maddox
+  - F. Motegi
+  - A. Sugimoto
+  - S. O’Rourke
+  - B. Bowerman
+  - Ian Mcleod
+  - J. Yates
+  - K. Oegema
+  - I. Cheeseman
+  - A. Desai
+  journal: Genes & Development
   publication_year: 2008
   doi: 10.1101/gad.1687508
+- title: Orientation and structure of the Ndc80 complex on the microtubule lattice
+  authors:
+  - E. Wilson-Kubalek
+  - I. Cheeseman
+  - C. Yoshioka
+  - A. Desai
+  - R. Milligan
+  journal: Journal of Cell Biology
+  publication_year: 2008
+  doi: 10.1083/jcb.200804170
 - title: Toward a molecular structure of the eukaryotic kinetochore
   authors:
-  - Welburn JP
-  - Cheeseman IM
-  journal: Dev. Cell
+  - J. Welburn
+  - I. Cheeseman
+  journal: Developmental Cell
   publication_year: 2008
   doi: 10.1016/j.devcel.2008.10.011
 - title: KNL1 and the CENP-H/I/K complex coordinately direct kinetochore assembly
     in vertebrates
   authors:
-  - Cheeseman IM
-  - Hori T
-  - Fukagawa T
-  - Desai A
-  journal: Mol. Biol. Cell
-  publication_year: 2008
-  doi: 10.1091/mbc.e07-10-1051
-- title: Molecular architecture of the kinetochore-microtubule interface
+  - I. Cheeseman
+  - T. Hori
+  - T. Fukagawa
+  - A. Desai
+  journal: Molecular Biology of the Cell
+  publication_year: 2007
+  doi: 10.1091/MBC.E07-10-1051
+- title: The Conserved KMN Network Constitutes the Core Microtubule-Binding Site of
+    the Kinetochore
   authors:
-  - Cheeseman IM
-  - Desai A
-  journal: Nat. Rev. Mol. Cell Biol.
-  publication_year: 2008
-  doi: 10.1038/nrm2310
-- title: 'Fibrils connect microtubule tips with kinetochores: a mechanism to couple
-    tubulin dynamics to chromosome motion'
-  authors:
-  - McIntosh JR
-  - Grishchuk EL
-  - Morphew MK
-  - Efremov AK
-  - Zhudenkov K
-  - Volkov VA
-  - Cheeseman IM
-  - Desai A
-  - Mastronarde DN
-  - Ataullakhanov FI
-  journal: Cell
-  publication_year: 2008
-  doi: 10.1016/j.cell.2008.08.038
-- title: CCAN makes multiple contacts with centromeric DNA to provide distinct pathways
-    to the outer kinetochore
-  authors:
-  - Hori T
-  - Amano M
-  - Suzuki A
-  - Backer CB
-  - Welburn JP
-  - Dong Y
-  - McEwen BF
-  - Shang WH
-  - Suzuki E
-  - Okawa K
-  - Cheeseman IM
-  - Fukagawa T
-  journal: Cell
-  publication_year: 2008
-  doi: 10.1016/j.cell.2008.10.019
-- title: Orientation and structure of the Ndc80 complex on the microtubule lattice
-  authors:
-  - Wilson-Kubalek EM
-  - Cheeseman IM
-  - Yoshioka C
-  - Desai A
-  - Milligan RA
-  journal: J. Cell Biol.
-  publication_year: 2008
-  doi: 10.1083/jcb.200804170
-- title: The CENP-H-I complex is required for the efficient incorporation of newly
-    synthesized CENP-A into centromeres
-  authors:
-  - Okada M
-  - Cheeseman IM
-  - Hori T
-  - Okawa K
-  - McLeod IX
-  - Yates 3rd JR
-  - Desai A
-  - Fukagawa T
-  journal: Nat. Cell Biol.
-  publication_year: 2006
-  doi: 10.1038/ncb1396
-- title: The conserved KMN network constitutes the core microtubule-binding site of
-    the kinetochore
-  authors:
-  - Cheeseman IM
-  - Chappie JS
-  - Wilson-Kubalek EM
-  - Desai A
+  - I. Cheeseman
+  - J. Chappie
+  - E. Wilson-Kubalek
+  - A. Desai
   journal: Cell
   publication_year: 2006
   doi: 10.1016/j.cell.2006.09.039
+- title: The CENP-H–I complex is required for the efficient incorporation of newly
+    synthesized CENP-A into centromeres
+  authors:
+  - M. Okada
+  - I. Cheeseman
+  - T. Hori
+  - K. Okawa
+  - Ian Mcleod
+  - J. Yates
+  - A. Desai
+  - T. Fukagawa
+  journal: Nature Cell Biology
+  publication_year: 2006
+  doi: 10.1038/ncb1396
 - title: The human Mis12 complex is required for kinetochore assembly and proper chromosome
     segregation
   authors:
-  - Kline SL
-  - Cheeseman IM
-  - Hori T
-  - Fukagawa T
-  - Desai A
-  journal: J. Cell Biol.
+  - Susan L. Kline
+  - I. Cheeseman
+  - T. Hori
+  - T. Fukagawa
+  - A. Desai
+  journal: Journal of Cell Biology
   publication_year: 2006
   doi: 10.1083/jcb.200509158
-- title: The CENP-F-like proteins HCP-1 and HCP-2 target CLASP to kinetochores to
-    mediate chromosome segregation
+- title: A Combined Approach for the Localization and Tandem Affinity Purification
+    of Protein Complexes from Metazoans
   authors:
-  - Cheeseman IM
-  - MacLeod I
-  - Yates 3rd JR
-  - Oegema K
-  - Desai A
-  journal: Curr. Biol.
-  publication_year: 2005
-  doi: 10.1016/j.cub.2005.03.018
-- title: A combined approach for the localization and tandem affinity purification
-    of protein complexes from metazoans
-  authors:
-  - Cheeseman IM
-  - Desai A
-  journal: Sci. STKE
+  - I. Cheeseman
+  - A. Desai
+  journal: Science's STKE
   publication_year: 2005
   doi: 10.1126/stke.2662005pl1
-- title: '"Holo"er than thou: chromosome segregation and kinetochore function in C.
+- title: The CENP-F-like Proteins HCP-1 and HCP-2 Target CLASP to Kinetochores to
+    Mediate Chromosome Segregation
+  authors:
+  - I. Cheeseman
+  - Ian MacLeod
+  - J. Yates
+  - K. Oegema
+  - A. Desai
+  journal: Current Biology
+  publication_year: 2005
+  doi: 10.1016/j.cub.2005.03.018
+- title: A conserved protein network controls assembly of the outer kinetochore and
+    its ability to sustain tension
+  authors:
+  - I. Cheeseman
+  - Sherry L. Niessen
+  - Scott D. Anderson
+  - Francie E. Hyndman
+  - J. Yates
+  - K. Oegema
+  - A. Desai
+  journal: Genes & Development
+  publication_year: 2004
+  doi: 10.1101/GAD.1234104
+- title: '"Holo"er than thou: Chromosome segregation and kinetochore function in C.
     elegans'
   authors:
-  - Maddox PS
-  - Oegema K
-  - Desai A
-  - Cheeseman IM
-  journal: Chromosome Res.
+  - P. Maddox
+  - K. Oegema
+  - A. Desai
+  - I. Cheeseman
+  journal: Chromosome Research
   publication_year: 2004
   doi: 10.1023/B:CHRO.0000036588.42225.2f
 - title: 'Cell division: AAAtacking the mitotic spindle'
   authors:
-  - Cheeseman IM
-  - Desai A
-  journal: Curr. Biol.
+  - I. Cheeseman
+  - A. Desai
+  journal: Current Biology
   publication_year: 2004
   doi: 10.1016/j.cub.2003.12.048
-- title: 'Cell division: feeling tense enough?'
-  authors:
-  - Cheeseman IM
-  - Desai A
-  journal: Nature
-  publication_year: 2004
-  doi: 10.1038/428032b
-- title: A conserved protein network controls assembly of the outer kinetochore and
-    its ability to sustain tension
-  authors:
-  - Cheeseman IM
-  - Niessen S
-  - Anderson S
-  - Hyndman F
-  - Yates 3rd JR
-  - Oegema K
-  - Desai A
-  journal: Genes Dev.
-  publication_year: 2004
-  doi: 10.1101/gad.1234104
-- title: Kinetochore protein interactions and their regulation by the Aurora kinase
-    Ipl1p
-  authors:
-  - Shang C
-  - Hazbun TR
-  - Cheeseman IM
-  - Aranda J
-  - Fields S
-  - Drubin DG
-  - Barnes G
-  journal: Mol. Biol. Cell
-  publication_year: 2003
-  doi: 10.1091/mbc.E02-11-0765
 - title: Architecture of the budding yeast kinetochore reveals a conserved molecular
     core
   authors:
-  - Westermann S
-  - Cheeseman IM
-  - Anderson S
-  - Yates 3rd JR
-  - Drubin DG
-  - Barnes G
-  journal: J. Cell Biol.
+  - S. Westermann
+  - I. Cheeseman
+  - Scott D. Anderson
+  - J. Yates
+  - D. Drubin
+  - G. Barnes
+  journal: Journal of Cell Biology
   publication_year: 2003
   doi: 10.1083/jcb.200305100
-- title: 'Simple centromere, complex kinetochore: linking spindle microtubules and
-    centromeric DNA in budding yeast'
-  authors:
-  - Cheeseman IM
-  - Drubin DG
-  - Barnes G
-  journal: J. Cell Biol.
-  publication_year: 2002
-  doi: 10.1083/jcb.200201052
-- title: Phospho-regulation of kinetochore-microtubule attachments by the Aurora kinase
+- title: Kinetochore protein interactions and their regulation by the Aurora kinase
     Ipl1p
   authors:
-  - Cheeseman IM
-  - Anderson S
-  - Jwa M
-  - Green EM
-  - Kang Js
-  - Yates 3rd JR
-  - Chan CS
-  - Drubin DG
-  - Barnes G
+  - C. Shang
+  - T. Hazbun
+  - I. Cheeseman
+  - Jennifer D Aranda
+  - S. Fields
+  - D. Drubin
+  - G. Barnes
+  journal: Molecular Biology of the Cell
+  publication_year: 2003
+  doi: 10.1091/MBC.E02-11-0765
+- title: Phospho-Regulation of Kinetochore-Microtubule Attachments by the Aurora Kinase
+    Ipl1p
+  authors:
+  - I. Cheeseman
+  - Scott D. Anderson
+  - M. Jwa
+  - E. Green
+  - Jung-seog Kang
+  - J. Yates
+  - Clarence S. M. Chan
+  - D. Drubin
+  - G. Barnes
   journal: Cell
   publication_year: 2002
-  doi: 10.1016/s0092-8674(02)00973-x
+  doi: 10.1016/S0092-8674(02)00973-X
+- title: Simple centromere, complex kinetochore
+  authors:
+  - I. Cheeseman
+  - D. Drubin
+  - G. Barnes
+  journal: Journal of Cell Biology
+  publication_year: 2002
+  doi: 10.1083/jcb.200201052
 - title: Implication of a novel multiprotein Dam1p complex in outer kinetochore function
   authors:
-  - Cheeseman IM
-  - Brew C
-  - Wolyniak M
-  - Desai A
-  - Anderson S
-  - Muster N
-  - Yates JR
-  - Huffaker TC
-  - Drubin DG
-  - Barnes G
-  journal: J. Cell Biol.
+  - I. Cheeseman
+  - Christine T Brew
+  - Michael J Wolyniak
+  - A. Desai
+  - Scott D. Anderson
+  - N. Muster
+  - J. Yates
+  - T. Huffaker
+  - D. Drubin
+  - G. Barnes
+  journal: Journal of Cell Biology
   publication_year: 2001
   doi: 10.1083/jcb.200109063
-- title: Mitotic spindle integrity and kinetochore function linked by the Duo1p/Dam1p
-    complex
+- title: Functional cooperation of Dam1, Ipl1, and the inner centromere protein (INCENP)–related
+    protein Sli15 during chromosome segregation
   authors:
-  - Cheeseman IM
-  - Enquist-Newman M
-  - Müller-Reichert T
-  - Drubin DG
-  - Barnes G
-  journal: J. Cell Biol.
+  - Jung-seog Kang
+  - I. Cheeseman
+  - G. Kallstrom
+  - S. Velmurugan
+  - G. Barnes
+  - Clarence S. M. Chan
+  journal: Journal of Cell Biology
   publication_year: 2001
-  doi: 10.1083/jcb.152.1.197
+  doi: 10.1083/jcb.200105029
+- title: Mitotic Spindle Integrity and Kinetochore Function Linked by the Duo1p/Dam1p
+    Complex
+  authors:
+  - I. Cheeseman
+  - M. Enquist-Newman
+  - T. Müller-Reichert
+  - D. Drubin
+  - G. Barnes
+  journal: Journal of Cell Biology
+  publication_year: 2001
+  doi: 10.1083/JCB.152.1.197
 - title: Dad1p, third component of the Duo1p/Dam1p complex involved in kinetochore
     function and mitotic spindle integrity
   authors:
-  - Enquist-Newman M
-  - Cheeseman IM
-  - Van Goor D
-  - Drubin DG
-  - Meluh PB
-  - Barnes G
-  journal: Mol. Biol. Cell
+  - M. Enquist-Newman
+  - I. Cheeseman
+  - D. Van Goor
+  - D. Drubin
+  - P. Meluh
+  - G. Barnes
+  journal: Molecular Biology of the Cell
   publication_year: 2001
-  doi: 10.1091/mbc.12.9.2601
-- title: Functional cooperation of Dam1, Ipl1, and the inner centromere protein (INCENP)-related
-    protein Sli15 during chromosome segregation
-  authors:
-  - Kang J
-  - Cheeseman IM
-  - Kallstrom G
-  - Velmurugan S
-  - Barnes G
-  - Chan CS
-  journal: J. Cell Biol.
-  publication_year: 2001
-  doi: 10.1083/jcb.200105029
-- title: A cluster of five cell wall-associated receptor kinase genes, Wak1-5, are
+  doi: 10.1091/MBC.12.9.2601
+- title: A cluster of five cell wall-associated receptor kinase genes, Wak1–5, are
     expressed in specific organs of Arabidopsis
   authors:
-  - He ZH
-  - Cheeseman I
-  - He D
-  - Kohorn BD
-  journal: Plant Mol. Biol.
+  - Zheng-Hui He
+  - I. Cheeseman
+  - Deze He
+  - B. D. Kohorn
+  journal: Plant Molecular Biology
   publication_year: 1999
-  doi: 10.1023/a:1006197318246
-- title: Saccharomyces cerevisiae Duo1p and Dam1p, novel proteins involved in mitotic
-    spindle function
+  doi: 10.1023/A:1006197318246
+- title: 'Timekeeping in the honey bee colony: integration of circadian rhythms and
+    division of labor'
   authors:
-  - Hofmann C
-  - Cheeseman IM
-  - Goode BL
-  - McDonald KL
-  - Barnes G
-  - Drubin DG
-  journal: J. Cell Biol.
+  - D. Moore
+  - J. E. Angel
+  - I. Cheeseman
+  - S. Fahrbach
+  - G. Robinson
+  journal: Behavioral Ecology and Sociobiology
   publication_year: 1998
-  doi: 10.1083/jcb.143.4.1029
+  doi: 10.1007/s002650050476
+- title: Saccharomyces cerevisiae Duo1p and Dam1p, Novel Proteins Involved in Mitotic
+    Spindle Function
+  authors:
+  - C. Hofmann
+  - I. Cheeseman
+  - B. L. Goode
+  - K. McDonald
+  - G. Barnes
+  - D. Drubin
+  journal: Journal of Cell Biology
+  publication_year: 1998
+  doi: 10.1083/JCB.143.4.1029
+- title: 'A highly specialized social grooming honey bee (Hymenoptera: Apidae)'
+  authors:
+  - D. Moore
+  - J. E. Angel
+  - I. Cheeseman
+  - G. Robinson
+  - S. Fahrbach
+  journal: Journal of insect behavior
+  publication_year: 1995
+  doi: 10.1007/BF02009512
