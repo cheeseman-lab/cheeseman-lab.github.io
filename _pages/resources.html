@@ -6,7 +6,25 @@ permalink: /resources/
 <div class="page-wrapper">
     <div class="container content-wrapper">
         <h1 class="mb-5">Resources</h1>
-
+        
+        <!-- Brieflow and Large-Scale Screens Section -->
+        <section class="resource-section mb-5">
+            <div class="resource-header">
+                <h2>Brieflow & Large-Scale Screen Results</h2>
+                <img src="{{ site.baseurl }}/assets/img/resources/brieflow.png" alt="Brieflow Pipeline" class="resource-icon">
+            </div>
+            <p class="mb-4">We developed Brieflow, an integrated computational pipeline for high-throughput analysis of optical pooled screening data. This tool enables efficient processing and analysis of large-scale CRISPR screens. We regularly publish results from our large-scale functional genomics screens, providing the scientific community with comprehensive datasets for exploring gene function and cellular processes.</p>
+            <div class="resource-links">
+                <a href="https://screens.wi.mit.edu/aconcagua/" class="btn btn-outline-dark">
+                    Explore Screen Results
+                </a>
+                <a href="https://www.biorxiv.org/content/10.1101/2025.05.26.656231v1" class="publication-link">
+                    View Brieflow Publication
+                </a>
+                <p class="text-muted mt-2 mb-0"><em>More screen results coming soon</em></p>
+            </div>
+        </section>
+        
         <!-- Vesuvius Section -->
         <section class="resource-section mb-5">
             <div class="resource-header">
@@ -23,7 +41,7 @@ permalink: /resources/
                 </a>
             </div>
         </section>        
-
+        
         <!-- Cell Cycle Knockouts Section -->
         <section class="resource-section mb-5">
             <div class="resource-header">
@@ -40,7 +58,7 @@ permalink: /resources/
                 </a>
             </div>
         </section>
-
+        
         <!-- Software Section -->
         <section class="resource-section mb-5">
             <div class="resource-header">
@@ -54,7 +72,7 @@ permalink: /resources/
                 </a>
             </div>
         </section>
-
+        
         <!-- Plasmids Section -->
         <section class="resource-section mb-5">
             <div class="resource-header">
@@ -71,6 +89,7 @@ permalink: /resources/
         </section>
     </div>
 </div>
+
 <style>
 .page-wrapper {
     min-height: 100vh;
@@ -105,6 +124,7 @@ permalink: /resources/
     display: flex;
     gap: 1rem;
     align-items: center;
+    flex-wrap: wrap;
 }
 .btn-outline-dark {
     border: 1px solid #343a40;
@@ -121,6 +141,9 @@ permalink: /resources/
 }
 .publication-link:hover {
     color: #343a40;
+}
+.text-muted {
+    color: #6c757d !important;
 }
 a {
     color: inherit;
@@ -142,7 +165,7 @@ a:hover {
         text-align: center;
     }
     .resource-icon {
-        margin-right: 0;
+        margin-left: 0;
         margin-bottom: 1rem;
     }
 }
