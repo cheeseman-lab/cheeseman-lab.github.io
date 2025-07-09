@@ -11,11 +11,11 @@ permalink: /publications/
         {% assign lab_members = site.data.people | map: "id" %}
         {% assign years = site.data.publications | map: "publication_year" | uniq | sort | reverse %}
 
-        <!-- Recent publications (2024-2025) displayed openly -->
+        <!-- Recent publications (2025) displayed openly -->
         <h2 class="mb-4">Recent Publications</h2>
 
         {% for year in years %}
-            {% if year >= 2024 %}
+            {% if year >= 2025 %}
                 {% assign year_pubs = site.data.publications | where: "publication_year", year %}
                 {% for pub in year_pubs %}
                 <div class="publication-item">
