@@ -33,6 +33,14 @@
   cheese: Humboldt Fog
   email: ericms[at]wi.mit.edu
 
+- name: Elizabeth Black
+  pos: Post-doc
+  id: elizabeth_black
+  alum: false
+  bio: "Elizabeth is interested in identifying how cells adapt translation across different physiological circumstances. Outside of lab, she enjoys reading books, playing and listening to music, and corny jokes."
+  cheese: string cheese
+  email: eblack[at]wi.mit.edu
+
 # Graduate Students
 - name: Jimmy Ly
   pos: Graduate Student
@@ -124,14 +132,6 @@
   email: slcady[at]wi.mit.edu
 
 # Undergraduates
-- name: Sofia Haug
-  pos: Undergraduate
-  id: sofia_haug
-  alum: false
-  bio: "In the lab I'm studying how protein extensions affect their localization and function. My favorite procrastination strategies include tidying my bench and expanding my Wall of Memes."
-  cheese: Imeruli
-  email: haug[at]mit.edu
-
 - name: Roshan Kern
   pos: Undergraduate
   id: roshan_kern
@@ -205,6 +205,16 @@
   alum: true
   now: PhD student at UC Berkeley
   departure_year: 2019
+
+- name: Sofia Haug
+  pos: Undergraduate Student
+  id: sofia_haug
+  alum: true
+  bio: "In the lab I'm studying how protein extensions affect their localization and function. My favorite procrastination strategies include tidying my bench and expanding my Wall of Memes."
+  cheese: Imeruli
+  email: haug[at]mit.edu
+  departure_year: 2025
+  now: PhD student at Harvard
 
 - name: David Kern
   pos: Graduate Student
