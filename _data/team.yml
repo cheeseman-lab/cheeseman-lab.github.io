@@ -110,7 +110,7 @@
   pos: Graduate Student
   id: lia_munson
   alum: false
-  bio: "Lia’s research is focused on the changes made to core translational machinery under prolonged and short-term cellular stress. She enjoys running, listening to jazz, and trying out local breweries."
+  bio: "Lia’s research is focused on the changes made to core translational machinery under prolonged and short-term cellular stress. She enjoys running, listening to jazz, and trying out local breweries. Lia is also well published in the <a href=’/assets/pdf/Munson (2026) Crystals are a girl%27s best friend.pdf’>Cheese</a> world."
   cheese: "Manchego"
   email: lmunson[at]wi.mit.edu
 
@@ -135,10 +135,11 @@
 - name: Roshan Kern
   pos: Undergraduate
   id: roshan_kern
-  alum: false
+  alum: true
   bio: "Roshan likes turtles, reading, and going to the gym. His research focuses on developing the computational methods we use to understand cell biology."
   cheese: "Aged cheddar"
-  email: rkern[at]wi.mit.edu
+  now: PhD student at MIT
+  departure_year: 2026
 
 - name: Alexa Mallar
   pos: Undergraduate
