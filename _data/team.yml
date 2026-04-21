@@ -45,10 +45,11 @@
 - name: Jimmy Ly
   pos: Graduate Student
   id: jimmy_ly
-  alum: false
+  alum: true
   bio: "Jimmy's research focuses on the control of gene expression during the cell cycle and is investigating mechanisms underlying differences in the meiotic and mitotic division. Jimmy likes to bake, bike and freeload on Ryan's roommate's Costco membership!"
   cheese: "Cheese curds a.k.a. poutine cheese"
-  email: jimmyly[at]wi.mit.edu
+  now: Postdoc at Harvard Medical School
+  departure_year: 2026
 
 - name: Océane Marescal
   pos: Graduate Student
