@@ -464,7 +464,7 @@ def main():
               reverse=True)
 
     print_summary(pubs)
-    script_dir = Path(__file__).parent
+    script_dir = Path(__file__).resolve().parent   # absolute, so the script runs from any cwd
     save_yaml(pubs, script_dir.parent / "_data" / "publications.yml")
     save_detailed_json(pubs, script_dir / "publications_detailed.json")
     print(f"Done – {len(pubs)} publications.")
