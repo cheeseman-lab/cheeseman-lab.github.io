@@ -29,7 +29,10 @@ OPENALEX_EMAIL = "cheeseman-lab@mit.edu"     # polite-pool for OpenAlex
 REQUEST_TIMEOUT = 30
 
 # Publication types to exclude (OpenAlex type strings)
-EXCLUDE_TYPES = {"paratext", "editorial", "erratum", "letter", "peer-review", "grant"}
+EXCLUDE_TYPES = {"paratext", "editorial", "erratum", "letter", "peer-review", "grant", "dataset"}
+
+# Data repositories (deposits, not research papers) — matched as substrings of the source name
+DATA_REPOSITORY_SOURCES = {"zenodo", "figshare", "dryad", "dataverse", "mendeley data"}
 
 # Title patterns that indicate non-research entries
 SKIP_TITLE_PATTERNS = [
@@ -40,6 +43,7 @@ SKIP_TITLE_PATTERNS = [
     r"^Material Supplemental",
     r"^Crystal structure of",
     r"^Structure of .* pdb",
+    r"^Data Associated With",
     r"Citation$",
     r"^\d{4}\.\d{4}/",
 ]
@@ -52,6 +56,10 @@ PREPRINT_SOURCES = {"biorxiv", "medrxiv", "arxiv", "ssrn", "chemrxiv", "research
 JOURNAL_RENAMES = {
     "bioRxiv (Cold Spring Harbor Laboratory)": "bioRxiv",
     "medRxiv (Cold Spring Harbor Laboratory)": "medRxiv",
+    "Genome biology": "Genome Biology",
+    "ArXiv": "arXiv",
+    "Current biology : CB": "Current Biology",
+    "Nature cell biology": "Nature Cell Biology",
 }
 
 
@@ -100,6 +108,34 @@ def _is_preprint(journal: str) -> bool:
     """Check if journal string refers to a preprint server."""
     j = journal.lower()
     return any(ps in j for ps in PREPRINT_SOURCES)
+
+
+def _is_data_repository(journal: str) -> bool:
+    """Check if the source is a data-deposit repository rather than a journal/preprint server."""
+    j = journal.lower()
+    return any(repo in j for repo in DATA_REPOSITORY_SOURCES)
+
+
+def _is_meeting_abstract(biblio: dict, doi: str) -> bool:
+    """Detect conference/meeting abstracts (Biophysical Society, FASEB supplements, etc.)."""
+    fp = str(biblio.get("first_page") or "")
+    if re.match(r"^\d+[a-zA-Z]$", fp):   # e.g. "164a" — Biophysical Journal meeting abstracts
+        return True
+    if "_supplement" in doi.lower():     # e.g. FASEB Journal meeting supplements
+        return True
+    return False
+
+
+def _arxiv_doi(arxiv_id: str) -> str:
+    """Build the registered arXiv DOI for an arXiv identifier (e.g. '2607.02217')."""
+    arxiv_id = (arxiv_id or "").strip()
+    return f"10.48550/arXiv.{arxiv_id}" if arxiv_id else ""
+
+
+def _arxiv_id_from_landing(landing: str) -> str:
+    """Extract an arXiv identifier from an arxiv.org landing URL."""
+    m = re.search(r"arxiv\.org/abs/([\w.\-/]+?)(?:v\d+)?$", landing or "")
+    return m.group(1) if m else ""
 
 
 # ── OpenAlex ───────────────────────────────────────────────────────────────
@@ -152,13 +188,29 @@ def parse_openalex_work(work: dict) -> Optional[Dict]:
     source = loc.get("source") or {}
     journal = _clean_journal((source.get("display_name") or "").strip())
 
+    # Drop data-repository deposits (Zenodo/figshare/…), never research papers
+    if _is_data_repository(journal):
+        return None
+
+    # arXiv works usually have no DOI in OpenAlex — rebuild it from the landing URL so the link works
+    if not doi:
+        arxiv_id = _arxiv_id_from_landing(loc.get("landing_page_url") or "")
+        if arxiv_id:
+            doi = _arxiv_doi(arxiv_id)
+            journal = "arXiv"
+
+    biblio = work.get("biblio") or {}
+
+    # Drop meeting/conference abstracts (they aren't primary research articles)
+    if _is_meeting_abstract(biblio, doi):
+        return None
+
     authors = []
     for a in work.get("authorships", []):
         name = (a.get("author", {}).get("display_name") or "").strip()
         if name:
             authors.append(name)
 
-    biblio = work.get("biblio") or {}
     fp, lp = biblio.get("first_page", ""), biblio.get("last_page", "")
     pages = f"{fp}-{lp}" if fp and lp else fp
 
@@ -225,13 +277,20 @@ def parse_pubmed_article(article: dict) -> Optional[Dict]:
         return None
 
     doi = ""
+    arxiv_pii = ""
     for aid in article.get("articleids", []):
         if aid.get("idtype") == "doi":
             doi = aid.get("value", "")
-            break
+        elif aid.get("idtype") == "pii":
+            arxiv_pii = aid.get("value", "")
 
     authors = [a["name"].strip() for a in article.get("authors", []) if a.get("name")]
-    journal = (article.get("fulljournalname") or article.get("source") or "").strip()
+    journal = _clean_journal((article.get("fulljournalname") or article.get("source") or "").strip())
+
+    # arXiv preprints indexed by PubMed carry no DOI but expose the arXiv id as 'pii'
+    if not doi and _is_preprint(journal) and re.match(r"^\d{4}\.\d{4,5}$", arxiv_pii or ""):
+        doi = _arxiv_doi(arxiv_pii)
+        journal = "arXiv"
 
     year = None
     m = re.search(r"(\d{4})", article.get("pubdate", ""))
@@ -393,6 +452,14 @@ def main():
 
     pubs = merge_publications(oa_pubs, pm_pubs)
     pubs = deduplicate_preprints(pubs)
+
+    # Every website entry links out via doi.org — drop anything without a DOI (unindexed
+    # conference abstracts, etc.) so we never render a broken link.
+    n_before = len(pubs)
+    pubs = [p for p in pubs if (p.get("doi") or "").strip()]
+    if len(pubs) < n_before:
+        print(f"[Filter] Removed {n_before - len(pubs)} entries with no DOI")
+
     pubs.sort(key=lambda x: (x.get("publication_year") or 0, x.get("cited_by_count") or 0),
               reverse=True)
 

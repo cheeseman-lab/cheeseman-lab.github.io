@@ -3,12 +3,22 @@
   - Ekaterina Khalizeva
   - Arash Latifkar
   - Kehui Xiang
-  - David P Bartel
+  - David P. Bartel
   - Jimmy Ly
   - Iain M. Cheeseman
   journal: The EMBO Journal
   publication_year: 2026
   doi: 10.1038/s44318-026-00765-5
+- title: The dynamics of centromere assembly and disassembly during quiescence
+  authors:
+  - Océane Marescal
+  - Kuan-Chung Su
+  - Brittania Moodie
+  - Noah J. L. Taylor
+  - Iain M. Cheeseman
+  journal: The Journal of Cell Biology
+  publication_year: 2026
+  doi: 10.1083/jcb.202509067
 - title: Regulation of mRNA decay and translation during the mammalian cell cycle
   authors:
   - Jimmy Ly
@@ -39,7 +49,7 @@
     and in rare disease
   authors:
   - Jimmy Ly
-  - Eric M Smith
+  - Eric M. Smith
   - Matteo Di Bernardo
   - Yi Fei Tao
   - Elizabeth M. Black
@@ -48,19 +58,44 @@
   journal: EMBO Reports
   publication_year: 2026
   doi: 10.1038/s44319-026-00776-7
-- title: Adaptive evolution of CENP-T modulates centromere binding
+- title: 'Affinage: Genome-Scale Mechanistic Gene Annotation from the Published Literature'
   authors:
-  - Damian Dudka
-  - Alexandra L. Nguyen
-  - Katelyn G. Boese
-  - Océane Marescal
-  - R. Brian Akins
-  - Ben E. Black
+  - Matteo Di Bernardo
   - Iain M. Cheeseman
-  - Michael A. Lampson
-  journal: Current Biology
-  publication_year: 2025
-  doi: 10.1016/j.cub.2025.01.017
+  journal: arXiv
+  publication_year: 2026
+  doi: 10.48550/arXiv.2607.02217
+- title: A one-week automated genome-wide optical pooled screen using OttoSeq
+  authors:
+  - Bryce Kirby
+  - Matteo Di Bernardo
+  - Iain M. Cheeseman
+  - Paul C. Blainey
+  journal: Genome Biology
+  publication_year: 2026
+  doi: 10.1186/s13059-026-04172-1
+- title: A machine learning model predicts protein stability of annotated and alternate
+    protein isoforms
+  authors:
+  - Océane Marescal
+  - Iain M. Cheeseman
+  journal: bioRxiv
+  publication_year: 2026
+  doi: 10.64898/2026.07.16.739020
+- title: Systematic functional genetic analysis of cell-substrate adhesion
+  authors:
+  - Kaitlyn Manzer
+  - Kuan-Chung Su
+  - M L Di Bernardo
+  - Heather R. Keys
+  - Russel Walton
+  - Brittania Moodie
+  - Bingbing Yuan
+  - Paul C. Blainey
+  - Iain M. Cheeseman
+  journal: bioRxiv
+  publication_year: 2026
+  doi: 10.64898/2026.07.24.740569
 - title: Alternative start codon selection shapes mitochondrial function and rare
     human diseases
   authors:
@@ -75,11 +110,24 @@
   journal: Molecular Cell
   publication_year: 2025
   doi: 10.1016/j.molcel.2025.10.013
+- title: Adaptive evolution of CENP-T modulates centromere binding
+  authors:
+  - Damian Dudka
+  - Alexandra L. Nguyen
+  - Katelyn G. Boese
+  - Océane Marescal
+  - R. Brian Akins
+  - Ben E. Black
+  - Iain M. Cheeseman
+  - Michael A. Lampson
+  journal: Current Biology
+  publication_year: 2025
+  doi: 10.1016/j.cub.2025.01.017
 - title: RNase MRP subunit composition and role in 40S ribosome biogenesis
   authors:
   - Eric M. Smith
   - Jimmy Ly
-  - S. Haug
+  - Sofia Haug
   - Iain M. Cheeseman
   journal: Nature Structural & Molecular Biology
   publication_year: 2025
@@ -96,7 +144,7 @@
   authors:
   - Eric M. Smith
   - Jimmy Ly
-  - S. Haug
+  - Sofia Haug
   - Iain M. Cheeseman
   journal: bioRxiv
   publication_year: 2025
@@ -113,19 +161,23 @@
   - Sebastian Lourido
   - Paul C. Blainey
   - Iain M. Cheeseman
+  journal: Nature Communications
+  publication_year: 2026
+  doi: 10.1038/s41467-026-73643-7
+- title: Functional genetics with a hypomorphic CENP-C mutant reveals a regulatory
+    system for chromosome congression
+  authors:
+  - Jiahang Miao
+  - Masatoshi Hara
+  - Kuan-Chung Su
+  - Heather R. Keys
+  - Weixia Kong
+  - Yusuke Takenoshita
+  - Iain M. Cheeseman
+  - Tatsuo Fukagawa
   journal: bioRxiv
   publication_year: 2025
-  doi: 10.1101/2025.05.26.656231
-- title: The dynamics of centromere assembly and disassembly during quiescence
-  authors:
-  - Océane Marescal
-  - Kuan-Chung Su
-  - Brittania Moodie
-  - Naomi Taylor
-  - Iain M. Cheeseman
-  journal: The Journal of Cell Biology
-  publication_year: 2025
-  doi: 10.1083/jcb.202509067
+  doi: 10.1101/2025.08.06.668996
 - title: KIF18A promotes chromosome congression in cooperation with CENP-E downstream
     of CENP-C
   authors:
@@ -158,25 +210,11 @@
   - Jimmy Ly
   - Sarah L. Cady
   - Ekaterina Khalizeva
-  - S. Haug
+  - Sofia Haug
   - Iain M. Cheeseman
   journal: bioRxiv
   publication_year: 2025
   doi: 10.1101/2025.07.25.666902
-- title: Functional genetics with a hypomorphic CENP-C mutant reveals a regulatory
-    system for chromosome congression
-  authors:
-  - Jiahang Miao
-  - Masatoshi Hara
-  - Kuan-Chung Su
-  - Heather R. Keys
-  - Weixia Kong
-  - Yusuke Takenoshita
-  - Iain M. Cheeseman
-  - Tatsuo Fukagawa
-  journal: bioRxiv
-  publication_year: 2025
-  doi: 10.1101/2025.08.06.668996
 - title: Nuclear release of eIF1 restricts start-codon selection during mitosis
   authors:
   - Jimmy Ly
@@ -400,11 +438,11 @@
   journal: Molecular Cell
   publication_year: 2020
   doi: 10.1016/j.molcel.2020.01.023
-- title: 'Chromosome Segregation: Evolving a Plastic Chromosome-Microtubule Interface'
+- title: 'Chromosome Segregation: Evolving a Plastic Chromosome–Microtubule Interface'
   authors:
-  - Navarro AP
-  - Cheeseman IM
-  journal: 'Current biology : CB'
+  - Alexandra P. Navarro
+  - Iain M. Cheeseman
+  journal: Current Biology
   publication_year: 2020
   doi: 10.1016/j.cub.2019.12.058
 - title: Reconstitution of human kinetochore in mitotic cell extracts reveals permitted
@@ -447,16 +485,6 @@
   journal: Nature Communications
   publication_year: 2019
   doi: 10.1038/s41467-019-11194-w
-- title: Noninvasive imaging of 3D dynamics in the cell nucleus
-  authors:
-  - Yoon Hee Jung
-  - Kuan-Chung Su
-  - Blox Bloxham
-  - Iain M. Cheeseman
-  - Nikta Fakhri
-  journal: APS
-  publication_year: 2019
-  doi: ''
 - title: Distinct Roles of RZZ and Bub1-KNL1 in Mitotic Checkpoint Signaling and Kinetochore
     Expansion
   authors:
@@ -600,15 +628,6 @@
   journal: Current Biology
   publication_year: 2017
   doi: 10.1016/j.cub.2017.10.018
-- title: Probing 4D chromatin dynamics in live cells
-  authors:
-  - Yoon Hee Jung
-  - Kuan-Chung Su
-  - Iain M. Cheeseman
-  - Nikta Fakhri
-  journal: Bulletin of the American Physical Society
-  publication_year: 2017
-  doi: ''
 - title: A Regulatory Switch Alters Chromosome Motions at the Metaphase-to-Anaphase
     Transition
   authors:
@@ -640,19 +659,6 @@
   journal: Molecular Biology of the Cell
   publication_year: 2016
   doi: 10.1091/mbc.e15-12-0858
-- title: Structural analysis of CENP-H complex by CryoEM
-  authors:
-  - Fumiaki Makino
-  - Kara L. McKinley
-  - Masatoshi Hara
-  - Tetsuya Hori
-  - Takayuki Kato
-  - Iain M. Cheeseman
-  - Keiichi Namba
-  - Tatsuo Fukagawa
-  journal: ''
-  publication_year: 2016
-  doi: ''
 - title: The molecular basis for centromere identity and function
   authors:
   - Kara L. McKinley
@@ -697,28 +703,12 @@
   journal: Current Biology
   publication_year: 2015
   doi: 10.1016/j.cub.2015.01.059
-- title: Bayesian Classification of Mrna and Kinetochore Transport Dynamics
-  authors:
-  - Zachary Barry
-  - Nilah Monnier
-  - Hye Yoon Park
-  - Kuan-Chung Su
-  - Zachary Katz
-  - Brian P. English
-  - Arkajit Dey
-  - Keyao Pan
-  - Iain M. Cheeseman
-  - Robert H. Singer
-  - Mark Bathe
-  journal: Biophysical Journal
-  publication_year: 2015
-  doi: 10.1016/j.bpj.2014.11.907
-- title: 'Chromosome Segregation: A Spatial Code to Correct Kinetochore-Microtubule
+- title: 'Chromosome Segregation: A Spatial Code to Correct Kinetochore–Microtubule
     Attachments'
   authors:
-  - Monda JK
-  - Cheeseman IM
-  journal: 'Current biology : CB'
+  - Julie K. Monda
+  - Iain M. Cheeseman
+  journal: Current Biology
   publication_year: 2015
   doi: 10.1016/j.cub.2015.05.056
 - title: The Kinetochore
@@ -981,6 +971,13 @@
   journal: Molecular Biology of the Cell
   publication_year: 2012
   doi: 10.1091/mbc.e11-11-0931
+- title: T time for point centromeres
+  authors:
+  - Karen E. Gascoigne
+  - Iain M. Cheeseman
+  journal: Nature Cell Biology
+  publication_year: 2012
+  doi: 10.1038/ncb2509
 - title: Targeted proteomic dissection of Toxoplasma cytoskeleton sub-compartments
     using MORN1.
   authors:
@@ -998,7 +995,7 @@
   authors:
   - Iain M. Cheeseman
   - David M. Kern
-  journal: ''
+  journal: Current Biology
   publication_year: 2012
   doi: 10.1016/j.cub.2012.08.001
 - title: Building a path in cell biology
@@ -1008,13 +1005,6 @@
   journal: Molecular Biology of the Cell
   publication_year: 2012
   doi: 10.1091/mbc.e12-05-0382
-- title: T time for point centromeres
-  authors:
-  - Gascoigne KE
-  - Cheeseman IM
-  journal: Nature cell biology
-  publication_year: 2012
-  doi: 10.1038/ncb2509
 - title: Induced Ectopic Kinetochore Assembly Bypasses the Requirement for CENP-A
     Nucleosomes
   authors:
@@ -1050,23 +1040,6 @@
   journal: Current Biology
   publication_year: 2011
   doi: 10.1016/j.cub.2010.12.030
-- title: Molecular-Mechanical Model of Kinetochore-Microtubule Interactions Identifies
-    Flexibility of the Kinetochore Mesh as a Key Determinant of Errorless Bi-Orientation
-  authors:
-  - Fazly I. Ataullakhanov
-  - Anatoly V. Zaytsev
-  - Julie P. I. Welburn
-  - Iain M. Cheeseman
-  - Ekaterina L. Grishchuk
-  journal: Biophysical Journal
-  publication_year: 2011
-  doi: 10.1016/j.bpj.2010.12.1074
-- title: 'Anatomy of a kinetochore: Building a microtubule attachment site'
-  authors:
-  - Iain M. Cheeseman
-  journal: The FASEB Journal
-  publication_year: 2011
-  doi: 10.1096/fasebj.25.1_supplement.66.1
 - title: Aurora B Phosphorylates Spatially Distinct Targets to Differentially Regulate
     the Kinetochore-Microtubule Interface
   authors:
@@ -1080,6 +1053,13 @@
   journal: Molecular Cell
   publication_year: 2010
   doi: 10.1016/j.molcel.2010.02.034
+- title: 'Sensing centromere tension: Aurora B and the regulation of kinetochore function'
+  authors:
+  - Michael A. Lampson
+  - Iain M. Cheeseman
+  journal: Trends in Cell Biology
+  publication_year: 2010
+  doi: 10.1016/j.tcb.2010.10.007
 - title: Regulated targeting of protein phosphatase 1 to the outer kinetochore by
     KNL1 opposes Aurora B kinase
   authors:
@@ -1093,13 +1073,6 @@
   journal: The Journal of Cell Biology
   publication_year: 2010
   doi: 10.1083/jcb.201001006
-- title: 'Sensing centromere tension: Aurora B and the regulation of kinetochore function'
-  authors:
-  - Michael A. Lampson
-  - Iain M. Cheeseman
-  journal: Trends in Cell Biology
-  publication_year: 2010
-  doi: 10.1016/j.tcb.2010.10.007
 - title: Functional genomics, proteomics, and regulatory DNA analysis in isogenic
     settings using zinc finger nuclease-driven transgenesis into a safe harbor locus
     in the human genome
@@ -1369,10 +1342,10 @@
   journal: Current Biology
   publication_year: 2004
   doi: 10.1016/j.cub.2003.12.048
-- title: 'Cell division: feeling tense enough?'
+- title: Feeling tense enough?
   authors:
-  - Cheeseman IM
-  - Desai A
+  - Iain M. Cheeseman
+  - Arshad Desai
   journal: Nature
   publication_year: 2004
   doi: 10.1038/428032b
