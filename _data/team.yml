@@ -42,6 +42,13 @@
   email: eblack[at]wi.mit.edu
 
 # Graduate Students
+- name: Jiayi He
+  pos: Graduate Student
+  id: jiayi_he
+  alum: false
+  bio: "Jiayi is interested in leveraging high-throughput phenotypic screening to understand various aspects of cellular biology, with a particular focus on cellular stress response. Outside of the lab, she enjoys reading, playing sports, and exploring different coffee shops!"
+  cheese: feta
+
 - name: Jimmy Ly
   pos: Graduate Student
   id: jimmy_ly
