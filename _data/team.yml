@@ -61,10 +61,11 @@
 - name: Océane Marescal
   pos: Graduate Student
   id: oceane_marescal
-  alum: false
+  alum: true
   bio: "Océane enjoys reading, climbing, and playing her violin. Her research focuses on understanding the role of proteasome subunits in spindle bipolarity."
   cheese: "Comté, because obviously I had to pick a french one 🙂"
-  email: oceanema[at]wi.mit.edu
+  now: Scientist at Nabla Bio
+  departure_year: 2026
 
 - name: Ryan Kim
   pos: Graduate Student
@@ -152,18 +153,19 @@
 - name: Alexa Mallar
   pos: Undergraduate
   id: alexa_mallar
-  alum: false
+  alum: true
   bio: "Alexa's research interests lie at the intersection of computer science and biology, focusing on developing computational tools for biological data analysis. In her free time, she enjoys drawing, creative writing, and skating."
   cheese: "Mascarpone"
-  email: amallar[at]wi.mit.edu
+  now: MIT
+  departure_year: 2026
 
-# Confidential
-- name: Lyra Cheeseman
-  pos: In spirit, if not in person
-  id: lyra_cheeseman
+- name: Anson Ting
+  pos: Undergraduate
+  id: anson_ting
   alum: false
-  bio: ".-.. -.-- .-. .- / .. ... / .. .- .. -. .----. ... / -.. .- ..- --. .... - . .-. / .-- .... --- / -... .-. .. -... . -.. / - .... . / -.-. .... . . ... . -- .- -. / .-.. .- -... / .. -. / --- .-. -.. . .-. / - --- / -... . / --- -. / - .... . / .-.. .- -... / .-- . -... ... .. - . More details <a href='https://morsecode.world/international/translator.html'>here</a>."
-  cheese: "Fromage Pavé"
+  bio: "Anson is interested in developing software and applying machine learning methods to characterize protein isoforms. In his free time he enjoys running, trying new recipes, and reading."
+  cheese: "Stracciatella"
+  email: ating[at]wi.mit.edu
 
 # Alumni (in alphabetical order by last name)
 - name: Chelsea Backer
