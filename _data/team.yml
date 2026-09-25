@@ -142,7 +142,7 @@
 
 # Undergraduates
 - name: Roshan Kern
-  pos: Undergraduate
+  pos: Undergraduate Student
   id: roshan_kern
   alum: true
   bio: "Roshan likes turtles, reading, and going to the gym. His research focuses on developing the computational methods we use to understand cell biology."
@@ -151,7 +151,7 @@
   departure_year: 2026
 
 - name: Alexa Mallar
-  pos: Undergraduate
+  pos: Undergraduate Student
   id: alexa_mallar
   alum: true
   bio: "Alexa's research interests lie at the intersection of computer science and biology, focusing on developing computational tools for biological data analysis. In her free time, she enjoys drawing, creative writing, and skating."
@@ -160,7 +160,7 @@
   departure_year: 2026
 
 - name: Anson Ting
-  pos: Undergraduate
+  pos: Undergraduate Student
   id: anson_ting
   alum: false
   bio: "Anson is interested in developing software and applying machine learning methods to characterize protein isoforms. In his free time he enjoys running, trying new recipes, and reading."
@@ -190,7 +190,7 @@
   departure_year: 2019
 
 - name: Kevin Cadieux
-  pos: Undergraduate
+  pos: Undergraduate Student
   id: kevin_cadieux
   alum: true
   now: MIT
